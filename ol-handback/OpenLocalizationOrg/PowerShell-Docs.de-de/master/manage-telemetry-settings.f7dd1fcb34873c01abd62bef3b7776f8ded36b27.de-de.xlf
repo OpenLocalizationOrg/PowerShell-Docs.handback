@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-4bd6fc0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">18556032aa7ec7a0f5ae25f1504b31d024f5b52b</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ATADocsTest\manage-telemetry-settings.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">789c926a2b6dc3eb14e9be54f8f128a5535a3b0a</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f9c6a2b0cb90dd5d77a7ee74537851ab870a82bd</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Manage Telemetry Settings | Microsoft ATA</source>
+          <target state="translated">Verwalten von Telemetrieeinstellungen | Microsoft ATA</target>
+          
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Describes the data collected by ATA and provides steps to turn off data collection.</source>
+          <target state="translated">Beschreibt die von ATA gesammelten Daten und enthält eine schrittweise Anleitung zum Deaktivieren der Datensammlung.</target>
+          
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Applies to: Advanced Threat Analytics version 1.7</source>
+          <target state="translated">Gilt für: Advanced Threat Analytics Version 1.7</target>
+          
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Manage Telemetry Settings</source>
+          <target state="translated">Verwalten von Telemetrieeinstellungen</target>
+          
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Advanced Threat Analytics (ATA) collects anonymized telemetry data about ATA and transmits the data over an HTTPS connection to Microsoft servers.</source>
+          <target state="translated">Advanced Threat Analytics (ATA) sammelt anonymisierte Telemetriedaten über ATA und überträgt die Daten über eine HTTPS-Verbindung an Microsoft-Server.</target>
+          
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>This data is used by Microsoft to help improve future versions of ATA.</source>
+          <target state="translated">Diese Daten werden von Microsoft zur Verbesserung von zukünftigen ATA-Versionen verwendet.</target>
+          
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Data collected</source>
+          <target state="translated">Gesammelte Daten</target>
+          
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Collected anonymized data includes the following:</source>
+          <target state="translated">Die gesammelten anonymisierten Daten enthalten folgende Elemente:</target>
+          
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Performance counters from both the ATA Center and the ATA Gateway</source>
+          <target state="translated">Leistungsindikatoren von ATA Center und vom ATA-Gateway</target>
+          
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Product ID from licensed copies of ATA</source>
+          <target state="translated">Produkt-ID von lizenzierten Kopien von ATA</target>
+          
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Deployment date of the ATA Center</source>
+          <target state="translated">Bereitstellungsdatum von ATA Center</target>
+          
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Number of deployed ATA Gateways</source>
+          <target state="translated">Anzahl der bereitgestellten ATA-Gateways</target>
+          
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>The following anonymized Active Directory information:</source>
+          <target state="translated">Die folgenden anonymisierten Active Directory-Informationen:</target>
+          
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Domain ID for the domain whose name would be the first domain when sorted alphabetically</source>
+          <target state="translated">Domänen-ID für die erste Domäne der in alphabetischer Reihenfolge aufgelisteten Domänennamen</target>
+          
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Number of domain controllers</source>
+          <target state="translated">Anzahl der Domänencontroller</target>
+          
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Number of domain controllers monitored by ATA via port mirroring</source>
+          <target state="translated">Anzahl der Domänencontroller, die von ATA über Portspiegelung überwacht werden</target>
+          
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Number of Sites</source>
+          <target state="translated">Anzahl der Standorte</target>
+          
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Number of Computers</source>
+          <target state="translated">Anzahl der Computer</target>
+          
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Number of Groups</source>
+          <target state="translated">Anzahl der Gruppen</target>
+          
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Number of Users</source>
+          <target state="translated">Anzahl der Benutzer</target>
+          
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Suspicious Activities  – The following anonymized data is collected for each suspicious activity:</source>
+          <target state="translated">Verdächtige Aktivitäten – die folgenden anonymisierten Daten werden für jede verdächtige Aktivität erfasst:</target>
+          
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>(Computer names, user names, and IP addresses are <bpt id="p1">**</bpt>not<ept id="p1">**</ept> collected)</source>
+          <target state="translated">(Computernamen, Benutzernamen und IP-Adressen werden <bpt id="p1">**</bpt>nicht<ept id="p1">**</ept> erfasst.)</target>
+          
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Suspicious activity type</source>
+          <target state="translated">Art der verdächtigen Aktivität</target>
+          
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Suspicious activity ID</source>
+          <target state="translated">ID der verdächtigen Aktivität</target>
+          
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target state="translated">Status</target>
+          
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Start and End Time</source>
+          <target state="translated">Start- und Endzeitpunkt</target>
+          
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Input provided</source>
+          <target state="translated">Vorliegende Eingabe</target>
+          
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Health issues – The following anonymized data is collected for each health issue:</source>
+          <target state="translated">Integritätsprobleme – Die folgenden anonymisierten Daten werden für jedes Integritätsproblem erfasst:</target>
+          
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>(Computer names, user names, and IP addresses are not collected)</source>
+          <target state="translated">(Computernamen, Benutzernamen und IP-Adressen werden nicht erfasst.)</target>
+          
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Health issue type</source>
+          <target state="translated">Integritätsproblemtyp</target>
+          
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Health issue ID</source>
+          <target state="translated">Integritätsproblem-ID</target>
+          
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target state="translated">Status</target>
+          
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Start and End Time</source>
+          <target state="translated">Start- und Endzeitpunkt</target>
+          
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>ATA Console URL addresses - URL addresses when using the ATA Console i.e. which pages in the ATA Console are visited.</source>
+          <target state="translated">URL-Adressen der ATA-Konsole – URL-Adressen bei Verwendung der ATA-Konsole, d.h. welche Seite in der ATA-Konsole besucht werden.</target>
+          
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Disable data collection</source>
+          <target state="translated">Datensammlung deaktivieren</target>
+          
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Perform the following steps to stop collecting and sending telemetry data to Microsoft:</source>
+          <target state="translated">Führen Sie die folgenden Schritte aus, um das Sammeln und Senden von Telemetriedaten an Microsoft zu beenden:</target>
+          
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Log in to the ATA Console, click the three dots in the toolbar and select <bpt id="p1">**</bpt>About<ept id="p1">**</ept>.</source>
+          <target state="translated">Melden Sie sich bei der ATA-Konsole an, klicken Sie auf der Symbolleiste auf die drei Punkte, und wählen Sie <bpt id="p1">**</bpt>Info<ept id="p1">**</ept> aus.</target>
+          
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Uncheck the box for <bpt id="p1">**</bpt>Send us usage information to help improve your customer experience in the future<ept id="p1">**</ept>.</source>
+          <target state="translated">Deaktivieren Sie das Kontrollkästchen für <bpt id="p1">**</bpt>Senden Sie uns Nutzungsinformationen, um uns bei der Verbesserung der Benutzerfreundlichkeit zu unterstützen<ept id="p1">**</ept>.</target>
+          
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>See Also</source>
+          <target state="translated">Weitere Informationen</target>
+          
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>What's new in version 1.6</source>
+          <target state="translated">Neuerungen in Version 1.6</target>
+          
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Check out the ATA forum!</source>
+          <target state="translated">Weitere Informationen finden Sie im ATA-Forum.</target>
+          
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

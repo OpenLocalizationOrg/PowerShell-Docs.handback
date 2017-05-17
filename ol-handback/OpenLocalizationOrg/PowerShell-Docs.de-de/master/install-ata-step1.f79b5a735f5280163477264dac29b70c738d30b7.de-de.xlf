@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-4bd6fc0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">80256eee6e1f7ca899a07d6475836c0e53ef4263</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ATADocsTest\install-ata-step1.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9492748fbc18c5598c3a9eb14dd6f7a000af4481</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4106245443f3917f740e6519a997a24cbf6a90a4</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Install ATA - Step 1 | Microsoft ATA</source>
+          <target state="translated">Installieren von ATA – Schritt 1 | Microsoft ATA</target>
+          
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>First step to install ATA involves downloading and installing the ATA Center onto your chosen server.</source>
+          <target state="translated">Im ersten Schritt beim Installieren von ATA wird ATA Center auf den ausgewählten Server heruntergeladen und dort installiert.</target>
+          
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Applies to: Advanced Threat Analytics version 1.7</source>
+          <target state="translated">Gilt für: Advanced Threat Analytics Version 1.7</target>
+          
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Install ATA - Step 1</source>
+          <target state="translated">Installieren von ATA – Schritt 1</target>
+          
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Step 2 »</source>
+          <target state="translated">Schritt 2 »</target>
+          
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>This installation procedure provides instructions for performing a fresh installation of ATA 1.7.</source>
+          <target state="translated">Diese Installationsschritte stellen Anweisungen zur Durchführung einer Neuinstallation von ATA 1.7 bereit.</target>
+          
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>For information on updating an existing ATA deployment from an earlier version, see <bpt id="p1">[</bpt>the ATA migration guide for version 1.7<ept id="p1">](/advanced-threat-analytics/understand-explore/ata-update-1.7-migration-guide)</ept>.</source>
+          <target state="translated">Informationen zum Aktualisieren einer vorhandenen früheren ATA-Bereitstellungsversion finden Sie im <bpt id="p1">[</bpt>ATA-Migrationshandbuch für Version 1.7<ept id="p1">](/advanced-threat-analytics/understand-explore/ata-update-1.7-migration-guide)</ept>.</target>
+          
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>If using Windows 2012 R2, you can install KB2934520 on the ATA Center server and on the ATA Gateway servers before beginning installation, otherwise the ATA installation will install this update and will require a restart in the middle of the ATA installation.</source>
+          <target state="translated">Wenn Sie Windows 2012 R2 verwenden, installieren Sie vor ATA das Update KB2934520 auf dem ATA Center-Server und den ATA-Gatewayservern, da andernfalls bei der ATA-Installation dieses Update installiert wird und inmitten der ATA-Installation ein Neustart erforderlich ist.</target>
+          
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Step 1.</source>
+          <target state="translated">Schritt 1:</target>
+          
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Download and Install the ATA Center</source>
+          <target state="translated">Herunterladen und Installieren von ATA Center</target>
+          
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>After you have verified that the server meets the requirements, you can proceed with the installation of the ATA Center.</source>
+          <target state="translated">Nachdem Sie überprüft haben, ob der Server die Anforderungen erfüllt, können Sie mit der Installation von ATA Center fortfahren.</target>
+          
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Perform the following steps on the ATA Center server.</source>
+          <target state="translated">Führen Sie die folgenden Schritte auf dem ATA Center-Server aus.</target>
+          
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Download ATA from the <bpt id="p1">[</bpt>Microsoft Volume Licensing Service Center<ept id="p1">](https://www.microsoft.com/Licensing/servicecenter/default.aspx)</ept> or from the <bpt id="p2">[</bpt>TechNet Evaluation Center<ept id="p2">](http://www.microsoft.com/evalcenter/)</ept> or from <bpt id="p3">[</bpt>MSDN<ept id="p3">](https://msdn.microsoft.com/subscriptions/downloads)</ept>.</source>
+          <target state="translated">Laden Sie ATA aus dem <bpt id="p1">[</bpt>Microsoft Volume Licensing Service Center<ept id="p1">](https://www.microsoft.com/Licensing/servicecenter/default.aspx)</ept>, dem <bpt id="p2">[</bpt>TechNet-Evaluierungscenter<ept id="p2">](http://www.microsoft.com/evalcenter/)</ept> oder aus <bpt id="p3">[</bpt>MSDN<ept id="p3">](https://msdn.microsoft.com/subscriptions/downloads)</ept> herunter.</target>
+          
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Log in to the computer onto which you are installing the ATA Center as a user who is a member of the local administrators group.</source>
+          <target state="translated">Melden Sie sich bei dem Computer, auf dem Sie ATA Center installieren, als ein Benutzer an, der Mitglied der lokalen Administratorgruppe ist.</target>
+          
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Run <bpt id="p1">**</bpt>Microsoft ATA Center Setup.EXE<ept id="p1">**</ept> and follow the setup wizard.</source>
+          <target state="translated">Führen Sie <bpt id="p1">**</bpt>Microsoft ATA Center Setup.exe<ept id="p1">**</ept> aus, und befolgen Sie die Anweisungen des Setup-Assistenten.</target>
+          
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>If Microsoft .Net Framework is not installed, you will be prompted to install it when you start installation.</source>
+          <target state="translated">Wenn Microsoft .Net Framework nicht installiert ist, werden Sie beim Starten der Installation aufgefordert, .Net Framework zu installieren.</target>
+          
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>You may be prompted to reboot after .NET Framework installation.</source>
+          <target state="translated">Möglicherweise werden Sie nach der Installation von .NET Framework zu einem Neustart aufgefordert.</target>
+          
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">**</bpt>Welcome<ept id="p1">**</ept> page, select the language to be used for the ATA installation screens and click <bpt id="p2">**</bpt>Next<ept id="p2">**</ept>.</source>
+          <target state="translated">Wählen Sie auf der Seite <bpt id="p1">**</bpt>Willkommen<ept id="p1">**</ept> die Sprache für die ATA-Installationsbildschirme aus, und klicken Sie auf <bpt id="p2">**</bpt>Weiter<ept id="p2">**</ept>.</target>
+          
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Read the Microsoft Software License Terms and if you accept the terms, click the check box and then click <bpt id="p1">**</bpt>Next<ept id="p1">**</ept>.</source>
+          <target state="translated">Lesen Sie die Microsoft-Software-Lizenzbedingungen, aktivieren Sie das Kontrollkästchen, wenn Sie den Bedingungen zustimmen, und klicken Sie anschließend auf <bpt id="p1">**</bpt>Weiter<ept id="p1">**</ept>.</target>
+          
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>It is recommended that you set ATA to update automatically.</source>
+          <target state="translated">Sie sollten festlegen, dass ATA automatisch aktualisiert wird.</target>
+          
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>If Windows isn't set to do this on your computer, you will get the <bpt id="p1">**</bpt>Use Microsoft Update to help keep your computer secure and up to date<ept id="p1">**</ept> screen.</source>
+          <target state="translated">Wenn Windows nicht für dieses automatische Update auf dem Computer konfiguriert ist, wird der Bildschirm <bpt id="p1">**</bpt>Verwenden Sie Microsoft Update, damit Ihr Computer sicher und auf dem aktuellen Stand bleibt<ept id="p1">**</ept> angezeigt.</target>
+          
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Keep ATA up to date image</source>
+          <target state="translated">Abbildung – Aktualisieren von ATA</target>
+          
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Select <bpt id="p1">**</bpt>Use Microsoft Update when I check for updates (recommended)<ept id="p1">**</ept>.</source>
+          <target state="translated">Wählen Sie <bpt id="p1">**</bpt>Microsoft Update für die Suche nach Updates verwenden (empfohlen)<ept id="p1">**</ept>.</target>
+          
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>This will adjust the Windows settings to enable updates for other Microsoft products (including ATA), as seen here.</source>
+          <target state="translated">Damit ändern Sie die Windows-Einstellungen so, dass Updates für andere Microsoft-Produkte (einschließlich ATA) möglich sind, wie hier zu sehen.</target>
+          
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Windows auto-update image</source>
+          <target state="translated">Abbildung von Windows AutoUpdate</target>
+          
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">**</bpt>ATA Center Configuration<ept id="p1">**</ept> page, enter the following information based on your environment:</source>
+          <target state="translated">Geben Sie auf der Seite <bpt id="p1">**</bpt>ATA Center-Konfiguration<ept id="p1">**</ept> basierend auf Ihrer Umgebung die folgenden Informationen ein:</target>
+          
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Field</source>
+          <target state="translated">Feld</target>
+          
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Beschreibung</target>
+          
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target state="translated">Kommentare</target>
+          
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Installation Path</source>
+          <target state="translated">Installationspfad</target>
+          
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>This is the location where the ATA Center will be installed.</source>
+          <target state="translated">Dies ist der Speicherort, an dem ATA Center installiert wird.</target>
+          
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>By default this is  %programfiles%\Microsoft Advanced Threat Analytics\Center</source>
+          <target state="translated">Standardmäßig ist dies „%programfiles%\Microsoft Advanced Threat Analytics\Center“.</target>
+          
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Leave the default value</source>
+          <target state="translated">Behalten Sie den Standardwert bei.</target>
+          
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Database Data Path</source>
+          <target state="translated">Datenbankdatenpfad</target>
+          
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>This is the location where the MongoDB database files will be located.</source>
+          <target state="translated">Dies ist der Speicherort, an dem sich die MongoDB-Datenbankdateien befinden.</target>
+          
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>By default this is %programfiles%\Microsoft Advanced Threat Analytics\Center\MongoDB\bin\data</source>
+          <target state="translated">Standardmäßig ist dies „%programfiles%\Microsoft Advanced Threat Analytics\Center\MongoDB\bin\data“.</target>
+          
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Change the location to a place where you have room to grow based on your sizing.</source>
+          <target state="translated">Ändern Sie den Speicherort, sodass ausreichend Speicherplatz für Ihre Größenanpassung verfügbar ist.</target>
+          
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Note:</source>
+          <target state="translated">Hinweis:</target>
+          
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>In production environments you should use a drive that has enough space based on capacity planning.</source>
+          <target state="translated">In Produktionsumgebungen sollten Sie ein Laufwerk verwenden, das der Kapazitätsplanung entsprechend über ausreichend Speicherplatz verfügt.</target>
+          
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>For large deployments the database should be on a separate physical disk.</source>
+          <target state="translated">Für umfangreiche Bereitstellungen sollte sich die Datenbank auf einem separaten physischen Datenträger befinden.</target>
+          
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>See <bpt id="p1">[</bpt>ATA capacity planning<ept id="p1">](/advanced-threat-analytics/plan-design/ata-capacity-planning)</ept> for sizing information.</source>
+          <target state="translated">Informationen zur Größenanpassung finden Sie unter <bpt id="p1">[</bpt>ATA-Kapazitätsplanung<ept id="p1">](/advanced-threat-analytics/plan-design/ata-capacity-planning)</ept>.</target>
+          
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Center Service IP address: Port</source>
+          <target state="translated">Center-Dienst – IP-Adresse: Port</target>
+          
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>This is the IP address that the ATA Center service will listen on for communication from the ATA Gateways.</source>
+          <target state="translated">Dies ist die IP-Adresse, auf die der ATA Center-Dienst in Bezug auf die Kommunikation von den ATA-Gateways lauscht.</target>
+          
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Default port:<ept id="p1">**</ept> 443</source>
+          <target state="translated"><bpt id="p1">**</bpt>Standardport:<ept id="p1">**</ept> 443</target>
+          
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Click the down arrow to select the IP address to be used by the ATA Center service.</source>
+          <target state="translated">Klicken Sie auf den Pfeil nach unten, um die vom ATA Center-Dienst verwendete IP-Adresse auszuwählen.</target>
+          
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>The IP address and port of the ATA Center service cannot be the same as the IP address and port of the ATA Console.</source>
+          <target state="translated">Die IP-Adresse und der Port des ATA Center-Diensts müssen sich von der IP-Adresse und dem Port der ATA-Konsole unterscheiden.</target>
+          
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Make sure to change the port of the ATA Console.</source>
+          <target state="translated">Ändern Sie daher den Port der ATA-Konsole.</target>
+          
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Center Service SSL Certificate</source>
+          <target state="translated">SSL-Zertifikat für Center-Dienst</target>
+          
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>This is the certificate that will be used by the ATA Console and ATA Center service.</source>
+          <target state="translated">Dies ist das Zertifikat, das von der ATA-Konsole und vom ATA Center-Dienst verwendet wird.</target>
+          
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Click the key icon to select a certificate installed or check self-signed certificate when deploying in a lab environment.</source>
+          <target state="translated">Klicken Sie auf das Schlüsselsymbol, um ein installiertes Zertifikat auszuwählen oder bei der Bereitstellung in einer Testumgebung ein selbstsigniertes Zertifikat zu überprüfen.</target>
+          
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Console IP address</source>
+          <target state="translated">IP-Adresse für die Konsole</target>
+          
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>This is the IP address that will be used for the ATA Console.</source>
+          <target state="translated">Dies ist die IP-Adresse, die für die ATA-Konsole verwendet wird.</target>
+          
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>Click the down arrow to select the IP address used by the ATA Console.</source>
+          <target state="translated">Klicken Sie auf den Pfeil nach unten, um die von der ATA-Konsole verwendete IP-Adresse auszuwählen.</target>
+          
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Make a note of this IP address to make it easier to access the ATA Console from the ATA Gateway.</source>
+          <target state="translated"><bpt id="p1">**</bpt>Hinweis:<ept id="p1">**</ept> Notieren Sie sich diese IP-Adresse für den Zugriff auf die ATA-Konsole über das ATA-Gateway.</target>
+          
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>ATA center configuration image</source>
+          <target state="translated">Abbildung ATA Center-Konfiguration</target>
+          
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>Click <bpt id="p1">**</bpt>Install<ept id="p1">**</ept> to install the ATA Center and its components.</source>
+          <target state="translated">Klicken Sie auf <bpt id="p1">**</bpt>Installieren<ept id="p1">**</ept>, um ATA Center und die zugehörigen Komponenten zu installieren.</target>
+          
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>The following components are installed and configured during the installation of ATA Center:</source>
+          <target state="translated">Bei der Installation von ATA Center werden die folgenden Komponenten installiert und konfiguriert:</target>
+          
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>ATA Center service</source>
+          <target state="translated">ATA Center-Dienst</target>
+          
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>MongoDB</source>
+          <target state="translated">MongoDB</target>
+          
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>Custom Performance Monitor data collection set</source>
+          <target state="translated">Benutzerdefinierter Systemmonitor-Datensammlungssatz</target>
+          
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>Self-signed certificates (if selected during the installation)</source>
+          <target state="translated">Selbstsignierte Zertifikate (sofern bei der Installation ausgewählt)</target>
+          
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>When the installation completes, click <bpt id="p1">**</bpt>Launch<ept id="p1">**</ept>  to connect to the ATA Console.</source>
+          <target state="translated">Klicken Sie nach Abschluss der Installation auf <bpt id="p1">**</bpt>Starten<ept id="p1">**</ept>, um die Verbindung mit der ATA-Konsole herzustellen.</target>
+          
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>At this point you will be brought automatically to the <bpt id="p1">**</bpt>General<ept id="p1">**</ept> settings page to continue the configuration and the deployment of the ATA Gateways.</source>
+          <target state="translated">An dieser Stelle werden Sie automatisch zur Seite mit den <bpt id="p1">**</bpt>allgemeinen Einstellungen<ept id="p1">**</ept> weitergeleitet, auf der Sie die Konfiguration und Bereitstellung der ATA-Gateways fortsetzen können.</target>
+          
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>Because you are logging into the site using an IP address, you will receive a warning related to the certificate, this is normal and you should click <bpt id="p1">**</bpt>Continue to this website<ept id="p1">**</ept>.</source>
+          <target state="translated">Da Sie sich mit einer IP-Adresse bei der Website anmelden, wird eine Warnung im Zusammenhang mit dem Zertifikat angezeigt. Das ist normal, und Sie sollten auf <bpt id="p1">**</bpt>Laden dieser Website fortsetzen<ept id="p1">**</ept> klicken.</target>
+          
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>Validate installation</source>
+          <target state="translated">Überprüfen der Installation</target>
+          
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>Check to see that the service named <bpt id="p1">**</bpt>Microsoft Advanced Threat Analytics Center<ept id="p1">**</ept> is running.</source>
+          <target state="translated">Überprüfen Sie, ob der Dienst <bpt id="p1">**</bpt>Microsoft Advanced Threat Analytics-Gateway<ept id="p1">**</ept> ausgeführt wird.</target>
+          
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>On the desktop, click the <bpt id="p1">**</bpt>Microsoft Advanced Threat Analytics<ept id="p1">**</ept> shortcut to connect to the ATA Console.</source>
+          <target state="translated">Klicken Sie auf dem Desktop auf die Verknüpfung <bpt id="p1">**</bpt>Microsoft Advanced Threat Analytics<ept id="p1">**</ept>, um eine Verbindung mit der ATA-Konsole herzustellen.</target>
+          
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>Log in with the same user credentials that you used to install the ATA Center.</source>
+          <target state="translated">Melden Sie sich mit den gleichen Benutzeranmeldeinformationen an, die Sie auch zum Installieren von ATA Center verwendet haben.</target>
+          
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>« Pre-install<ept id="p1">](preinstall-ata.md)</ept><ph id="ph1">
+</ph><bpt id="p2">[</bpt>Step 2 »<ept id="p2">](install-ata-step2.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>« Vor der Installation<ept id="p1">](preinstall-ata.md)</ept><ph id="ph1">
+</ph><bpt id="p2">[</bpt>Schritt 2 »<ept id="p2">](install-ata-step2.md)</ept></target>
+          
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>See Also</source>
+          <target state="translated">Weitere Informationen</target>
+          
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>Check out the ATA forum!</source>
+          <target state="translated">Weitere Informationen finden Sie im ATA-Forum.</target>
+          
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>Configure event collection</source>
+          <target state="translated">Konfigurieren der Ereignissammlung</target>
+          
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>ATA prerequisites</source>
+          <target state="translated">Voraussetzungen für ATA</target>
+          
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

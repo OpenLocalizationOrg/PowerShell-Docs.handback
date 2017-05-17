@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-4bd6fc0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">36d0690d47544db542666f785d43ee2a1e7d98d7</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ATADocsTest\operate-ata.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0c2db689581594a2728e3b3b255c6a556dd05ff2</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0a85bb7e38038d55f7302b8ee368dc7ed3a96912</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Operate ATA - Complete | Microsoft ATA</source>
+          <target state="translated">Betreiben von ATA – vollständig | Microsoft ATA</target>
+          
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Walks you through working with ATA and daily activities.</source>
+          <target state="translated">Führt Sie durch das Arbeiten mit ATA und täglichen Aktivitäten.</target>
+          
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Applies to: Advanced Threat Analytics version 1.7</source>
+          <target state="translated">Gilt für: Advanced Threat Analytics Version 1.7</target>
+          
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Operate ATA</source>
+          <target state="translated">Betreiben von ATA</target>
+          
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The following are operations you can perform with ATA:</source>
+          <target state="translated">Die folgenden Vorgänge können Sie mit ATA ausführen:</target>
+          
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Change ATA configuration</source>
+          <target state="translated">Ändern der ATA-Konfiguration</target>
+          
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Change ATA Center IP address</source>
+          <target state="translated">IP-Adresse von ATA Center ändern</target>
+          
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Change ATA Center certificate</source>
+          <target state="translated">Zertifikat von ATA Center ändern</target>
+          
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Change ATA console URL</source>
+          <target state="translated">Ändern der URL der ATA-Konsole</target>
+          
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Change domain controller password</source>
+          <target state="translated">Kennwort des Domänencontrollers ändern</target>
+          
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Working with the ATA Console</source>
+          <target state="translated">Arbeiten mit der ATA-Konsole</target>
+          
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>ATA role groups</source>
+          <target state="translated">ATA-Rollengruppen</target>
+          
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Set ATA alerts</source>
+          <target state="translated">ATA-Warnungen einstellen</target>
+          
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Set Syslog and Email server settings</source>
+          <target state="translated">Festlegen von Syslog- und E-Mail-Servereinstellungen</target>
+          
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Working with detection settings</source>
+          <target state="translated">Arbeiten mit Erkennungseinstellungen</target>
+          
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>ATA Health Center</source>
+          <target state="translated">ATA Health Center</target>
+          
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>ATA suspicious activities</source>
+          <target state="translated">ATA-Verdachtsmomente</target>
+          
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>ATA database management</source>
+          <target state="translated">ATA-Datenbankverwaltung</target>
+          
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Manage ATA telemetry</source>
+          <target state="translated">ATA-Telemetrie verwalten</target>
+          
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>See Also</source>
+          <target state="translated">Weitere Informationen</target>
+          
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Check out the ATA forum!</source>
+          <target state="translated">Weitere Informationen finden Sie im ATA-Forum.</target>
+          
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Configure event collection</source>
+          <target state="translated">Konfigurieren der Ereignissammlung</target>
+          
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>ATA prerequisites</source>
+          <target state="translated">Voraussetzungen für ATA</target>
+          
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

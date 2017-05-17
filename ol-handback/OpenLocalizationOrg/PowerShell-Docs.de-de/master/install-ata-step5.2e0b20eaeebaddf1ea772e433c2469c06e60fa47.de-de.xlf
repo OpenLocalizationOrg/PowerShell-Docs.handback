@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-4bd6fc0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">25989a6f75058cbd919b12a3e7c05771b164887d</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ATADocsTest\install-ata-step5.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d843573ef703ee25330a268480b4b071060c95b8</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8927cb1c88296f083ae021b63123725fc3001366</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Install ATA - Step 5 | Microsoft ATA</source>
+          <target state="translated">Installieren von ATA – Schritt 5 | Microsoft ATA</target>
+          
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Step five of installing ATA helps you configure settings for your ATA Gateway.</source>
+          <target state="translated">Im fünften Schritt beim Installieren von ATA konfigurieren Sie die Einstellungen für das ATA-Gateway.</target>
+          
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Applies to: Advanced Threat Analytics version 1.7</source>
+          <target state="translated">Gilt für: Advanced Threat Analytics Version 1.7</target>
+          
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Install ATA - Step 5</source>
+          <target state="translated">Installieren von ATA – Schritt 5</target>
+          
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>« Step 4<ept id="p1">](install-ata-step4.md)</ept><ph id="ph1">
+</ph><bpt id="p2">[</bpt>Step 6 »<ept id="p2">](install-ata-step6.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>« Schritt 4<ept id="p1">](install-ata-step4.md)</ept><ph id="ph1">
+</ph><bpt id="p2">[</bpt>Schritt 6 »<ept id="p2">](install-ata-step6.md)</ept></target>
+          
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Step 5.</source>
+          <target state="translated">Schritt 5:</target>
+          
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Configure the ATA Gateway settings</source>
+          <target state="translated">Konfigurieren der Einstellungen des ATA-Gateways</target>
+          
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>After the ATA Gateway was installed, perform the following steps to configure the settings for the ATA Gateway.</source>
+          <target state="translated">Führen Sie nach der Installation des ATA-Gateways die folgenden Schritte aus, um die Einstellungen für das ATA-Gateway zu konfigurieren.</target>
+          
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>In the ATA Console, go to <bpt id="p1">**</bpt>Configuration<ept id="p1">**</ept> and, under <bpt id="p2">**</bpt>System<ept id="p2">**</ept>, select <bpt id="p3">**</bpt>Gateways<ept id="p3">**</ept>.</source>
+          <target state="translated">Gehen Sie in der ATA-Konsole zu <bpt id="p1">**</bpt>Konfiguration<ept id="p1">**</ept>, und wählen Sie unter <bpt id="p2">**</bpt>System<ept id="p2">**</ept> <bpt id="p3">**</bpt>Gateways<ept id="p3">**</ept> aus.</target>
+          
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Configure gateway settings image</source>
+          <target state="translated">Abbildung – Konfigurieren der Gatewayeinstellungen</target>
+          
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Select the Gateway you want to configure and then enter the following information:</source>
+          <target state="translated">Wählen Sie das Gateway aus, dass Sie konfigurieren möchten, und geben Sie dann die folgenden Informationen ein:</target>
+          
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Configure gateway settings image</source>
+          <target state="translated">Abbildung – Konfigurieren der Gatewayeinstellungen</target>
+          
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Description<ept id="p1">**</ept>: Enter a description for the ATA Gateway (optional).</source>
+          <target state="translated"><bpt id="p1">**</bpt>Beschreibung:<ept id="p1">**</ept>: Geben Sie eine Beschreibung für das ATA-Gateway ein (optional).</target>
+          
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Port Mirrored Domain Controllers (FQDN)<ept id="p1">**</ept> (required for the ATA Gateway, this cannot be changed for the ATA Lightweight Gateway): Enter the complete FQDN of your domain controller and click the plus sign to add it to the list.</source>
+          <target state="translated"><bpt id="p1">**</bpt>Domänencontroller mit Portspiegelung (FQDN)<ept id="p1">**</ept> (benötigt für das ATA-Gateway; kann nicht für das ATA-Lightweight-Gateway geändert werden): Geben Sie den vollqualifizierten Domänennamen (FQDN) Ihres Domänencontrollers ein, und klicken Sie auf das Pluszeichen, um ihn der Liste hinzuzufügen.</target>
+          
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>For example,  <bpt id="p1">**</bpt>dc01.contoso.com<ept id="p1">**</ept></source>
+          <target state="translated">z. B. <bpt id="p1">**</bpt>dc01.contoso.com<ept id="p1">**</ept>.</target>
+          
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Capture Network adapters<ept id="p1">**</ept> (required):</source>
+          <target state="translated"><bpt id="p1">**</bpt>Netzwerkadapter für Erfassung<ept id="p1">**</ept> (erforderlich):</target>
+          
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>For an ATA Gateway on a dedicated server, select the network adapters that are configured as the destination mirror port.</source>
+          <target state="translated">Wählen Sie für ein ATA-Gateway auf einem dedizierten Server die Netzwerkadapter aus, als Zielspiegelport konfiguriert sind.</target>
+          
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>These will receive the mirrored domain controller traffic.</source>
+          <target state="translated">Diese empfangen den Datenverkehr des gespiegelten Domänencontrollers.</target>
+          
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>For an ATA Lightweight Gateway, this should be all the network adapters that are used for communication with other computers in your organization.</source>
+          <target state="translated">Für ein ATA-Lightweight-Gateway sollten dies alle Netzwerkadapter sein, die für die Kommunikation mit anderen Computern in Ihrer Organisation verwendet werden.</target>
+          
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Domain synchronizer candidate<ept id="p1">**</ept>: Any ATA Gateway set to be a domain synchronizer candidate can be responsible for synchronization between ATA and your Active Directory domain.</source>
+          <target state="translated"><bpt id="p1">**</bpt>Kandidat für die Domänensynchronisierung<ept id="p1">**</ept>: Alle ATA-Gateways, die als Kandidat für die Domänensynchronisierung festgelegt sind, können die Synchronisierung zwischen ATA und Ihrer Active Directory-Domäne übernehmen.</target>
+          
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Depending on the size of the domain, the initial synchronization might take some time and is resource intensive.</source>
+          <target state="translated">Je nach Größe der Domäne ist die erste Synchronisierung ressourcenintensiv und kann einige Zeit dauern.</target>
+          
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>By default, only ATA Gateways are set as Domain synchronizer candidates.</source>
+          <target state="translated">Standardmäßig sind nur ATA-Gateways Kandidaten als Kandidaten für die Domänensynchronisierung festgelegt.</target>
+          
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>It is recommended to disable any remote site ATA Gateways from being Domain synchronizer candidates.</source>
+          <target state="translated">Es empfiehlt sich, alle ATA-Gateways auf Remotestandorten als Kandidaten für die Domänensynchronisierung zu deaktivieren.</target>
+          
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>If your domain controller is read-only, do not set it as a Domain synchronizer candidate.</source>
+          <target state="translated">Wenn Ihr Domänencontroller schreibgeschützt ist, verwenden Sie ihn nicht als Kandidat für die Domänensynchronisierung.</target>
+          
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>ATA architecture<ept id="p1">](/advanced-threat-analytics/plan-design/ata-architecture#ata-lightweight-gateway-features)</ept>.</source>
+          <target state="translated">Weitere Informationen finden Sie unter <bpt id="p1">[</bpt>ATA-Architektur<ept id="p1">](/advanced-threat-analytics/plan-design/ata-architecture#ata-lightweight-gateway-features)</ept>.</target>
+          
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>It will take a few minutes for the ATA Gateway service to start the first time after installation because it builds the cache of the network capture parsers.</source>
+          <target state="translated">Es dauert einige Minuten, bis der ATA-Gatewaydienst das erste Mal nach der Installation gestartet wird, da der Cache der Parser zur Netzwerkerfassung erstellt wird.</target>
+          
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>The configuration changes will be applied to the ATA Gateway on the next scheduled sync between the ATA Gateway and the ATA Center.</source>
+          <target state="translated">Die Konfigurationsänderungen werden bei der nächsten geplanten Synchronisierung zwischen dem ATA-Gateway und ATA Center auf den ATA-Gateway angewendet.</target>
+          
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Optionally, you can set the <bpt id="p1">[</bpt>Syslog listener and Windows Event Forwarding Collection<ept id="p1">](configure-event-collection.md)</ept>.</source>
+          <target state="translated">Optional können Sie den <bpt id="p1">[</bpt>Syslog-Listener und die Windows-Ereignisweiterleitungssammlung<ept id="p1">](configure-event-collection.md)</ept> festlegen.</target>
+          
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Enable <bpt id="p1">**</bpt>Update ATA Gateway automatically<ept id="p1">**</ept> so that in upcoming version releases when you update the ATA Center, this ATA Gateway will be automatically updated.</source>
+          <target state="translated">Aktivieren Sie <bpt id="p1">**</bpt>ATA-Gateway automatisch aktualisieren<ept id="p1">**</ept>, damit das ATA-Gateway bei künftigen Versionen während des Updates von ATA Center automatisch aktualisiert wird.</target>
+          
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Click <bpt id="p1">**</bpt>Save<ept id="p1">**</ept>.</source>
+          <target state="translated">Klicken Sie auf <bpt id="p1">**</bpt>Speichern<ept id="p1">**</ept>.</target>
+          
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Validate installations</source>
+          <target state="translated">Überprüfen von Installationen</target>
+          
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>To validate that the ATA Gateway has been successfully deployed, check the following:</source>
+          <target state="translated">Gehen Sie wie folgt vor, um zu überprüfen, ob das ATA-Gateway erfolgreich bereitgestellt wurde:</target>
+          
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Check that the service named <bpt id="p1">**</bpt>Microsoft Advanced Threat Analytics Gateway<ept id="p1">**</ept> is running.</source>
+          <target state="translated">Überprüfen Sie, ob der Dienst <bpt id="p1">**</bpt>Microsoft Advanced Threat Analytics-Gateway<ept id="p1">**</ept> ausgeführt wird.</target>
+          
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>After you save the ATA Gateway settings, it might take a few minutes for the service to start.</source>
+          <target state="translated">Es kann einige Minuten dauern, bis der Dienst nach dem Speichern der ATA-Gatewayeinstellungen gestartet wird.</target>
+          
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>If the service does not start, review the “Microsoft.Tri.Gateway-Errors.log” file located in the following default folder, “%programfiles%\Microsoft Advanced Threat Analytics\Gateway\Logs” and Check <bpt id="p1">[</bpt>ATA Troubleshooting<ept id="p1">](/advanced-threat-analytics/troubleshoot/troubleshooting-ata-known-errors)</ept> for help.</source>
+          <target state="translated">Wenn der Dienst nicht gestartet wird, überprüfen Sie die Datei „Microsoft.Tri.Gateway-Errors.log“ im Standardordner „%programfiles%\Microsoft Advanced Threat Analytics\Gateway\Logs“. Hilfe finden Sie in der <bpt id="p1">[</bpt>ATA-Problembehandlung<ept id="p1">](/advanced-threat-analytics/troubleshoot/troubleshooting-ata-known-errors)</ept>.</target>
+          
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>If this is the first ATA Gateway installed, after a few minutes, log into the ATA Console and open the notification pane by swiping the right side of the screen open.</source>
+          <target state="translated">Wenn es sich um die Installation des ersten ATA-Gateways handelt, melden Sie sich nach einigen Minuten in der ATA-Konsole an, und öffnen Sie den Benachrichtigungsbereich, indem Sie von der rechten Seite des Bildschirms wischen.</target>
+          
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>You should see a list of <bpt id="p1">**</bpt>Entities Recently Learned<ept id="p1">**</ept> in the notification bar on the right side of the console.</source>
+          <target state="translated">Daraufhin sollte eine Liste der <bpt id="p1">**</bpt>kürzlich gelernten Entitäten<ept id="p1">**</ept> auf der Benachrichtigungsleiste rechts in der Konsole angezeigt werden.</target>
+          
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>On the desktop, click the <bpt id="p1">**</bpt>Microsoft Advanced Threat Analytics<ept id="p1">**</ept> shortcut to connect to the ATA Console.</source>
+          <target state="translated">Klicken Sie auf dem Desktop auf die Verknüpfung <bpt id="p1">**</bpt>Microsoft Advanced Threat Analytics<ept id="p1">**</ept>, um eine Verbindung mit der ATA-Konsole herzustellen.</target>
+          
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Log in with the same user credentials that you used to install the ATA Center.</source>
+          <target state="translated">Melden Sie sich mit den gleichen Benutzeranmeldeinformationen an, die Sie auch zum Installieren von ATA Center verwendet haben.</target>
+          
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>In the console, search for something in the search bar, such as a user or a group on your domain.</source>
+          <target state="translated">Suchen Sie in der Konsole auf der Suchleiste nach einem bestimmten Objekt, z. B. einem Benutzer oder einer Gruppe in Ihrer Domäne.</target>
+          
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Open Performance Monitor.</source>
+          <target state="translated">Öffnen Sie den Systemmonitor.</target>
+          
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>In the Performance tree, click on <bpt id="p1">**</bpt>Performance Monitor<ept id="p1">**</ept> and then click the plus icon to <bpt id="p2">**</bpt>Add a Counter<ept id="p2">**</ept>.</source>
+          <target state="translated">Klicken Sie in der Struktur „Leistung“ auf <bpt id="p1">**</bpt>Systemmonitor<ept id="p1">**</ept> und dann auf das Plussymbol, um <bpt id="p2">**</bpt>einen Leistungsindikator hinzuzufügen<ept id="p2">**</ept>.</target>
+          
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Expand <bpt id="p1">**</bpt>Microsoft ATA Gateway<ept id="p1">**</ept> and scroll down to <bpt id="p2">**</bpt>Network Listener PEF Captured Messages/Sec<ept id="p2">**</ept> and add it.</source>
+          <target state="translated">Erweitern Sie <bpt id="p1">**</bpt>Microsoft ATA Gateway<ept id="p1">**</ept>, scrollen Sie nach unten zu <bpt id="p2">**</bpt>Network Listener PEF Captured Messages/Sec<ept id="p2">**</ept>, und fügen Sie diesen Leistungsindikator hinzu.</target>
+          
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Then, make sure you see activity on the graph.</source>
+          <target state="translated">Vergewissern Sie sich dann, ob im Diagramm Aktivitäten angezeigt werden.</target>
+          
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Add performance counters image</source>
+          <target state="translated">Abbildung – Hinzufügen von Leistungsindikatoren</target>
+          
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>« Step 4<ept id="p1">](install-ata-step4.md)</ept><ph id="ph1">
+</ph><bpt id="p2">[</bpt>Step 6 »<ept id="p2">](install-ata-step6.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>« Schritt 4<ept id="p1">](install-ata-step4.md)</ept><ph id="ph1">
+</ph><bpt id="p2">[</bpt>Schritt 6 »<ept id="p2">](install-ata-step6.md)</ept></target>
+          
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>See Also</source>
+          <target state="translated">Siehe auch</target>
+          
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Check out the ATA forum!</source>
+          <target state="translated">Weitere Informationen finden Sie im ATA-Forum.</target>
+          
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Configure event collection</source>
+          <target state="translated">Konfigurieren der Ereignissammlung</target>
+          
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>ATA prerequisites</source>
+          <target state="translated">Voraussetzungen für ATA</target>
+          
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
