@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="ja-jp">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-1c394fd" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">924d5878a6d93e846adbd9cb4c69bea79e104bcd</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dsc\TOC.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9b1b8365f9b7bbe3a2981c7cfc44bc8266c32663</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6689a3e27b11b7a6770188eb1b042b6e8b0549f9</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Overview<ept id="p1">](overview.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>概要<ept id="p1">](overview.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Configurations<ept id="p1">](configurations.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>構成<ept id="p1">](configurations.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Enacting configurations<ept id="p1">](enactingConfigurations.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>構成の適用<ept id="p1">](enactingConfigurations.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Using resources with multiple versions<ept id="p1">](sxsResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>複数のバージョンでリソースの使用<ept id="p1">](sxsResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Running DSC with user credentials<ept id="p1">](runAsUser.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>ユーザーの資格情報を持つ DSC を実行しています。<ept id="p1">](runAsUser.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Specifying cross-node dependencies<ept id="p1">](crossNodeDependencies.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>ノード間の依存関係を指定します。<ept id="p1">](crossNodeDependencies.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Configuration data<ept id="p1">](configData.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>構成データ<ept id="p1">](configData.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Credential options in configuration data<ept id="p1">](configDataCredentials.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>構成データでの資格情報オプション<ept id="p1">](configDataCredentials.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Securing the configuration MOF file<ept id="p1">](secureMOF.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>構成の MOF ファイルをセキュリティで保護します。<ept id="p1">](secureMOF.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Partial Configurations<ept id="p1">](partialConfigs.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>一部の構成<ept id="p1">](partialConfigs.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Writing help for DSC configurations<ept id="p1">](configHelp.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>ヘルプの DSC 構成を作成<ept id="p1">](configHelp.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Resources<ept id="p1">](resources.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>リソース<ept id="p1">](resources.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Built-in resources<ept id="p1">](builtInResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>組み込みのリソース<ept id="p1">](builtInResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Archive Resource<ept id="p1">](archiveResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>アーカイブ リソース<ept id="p1">](archiveResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Environment Resource<ept id="p1">](environmentResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>環境リソース<ept id="p1">](environmentResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>File Resource<ept id="p1">](fileResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>ファイル リソース<ept id="p1">](fileResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Group Resource<ept id="p1">](groupResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>グループ リソース<ept id="p1">](groupResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Log Resource<ept id="p1">](logResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>ログ リソース<ept id="p1">](logResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Package Resource<ept id="p1">](packageResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>パッケージ リソース<ept id="p1">](packageResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Registry Resource<ept id="p1">](registryResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>レジストリ リソース<ept id="p1">](registryResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Script Resource<ept id="p1">](scriptResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>スクリプト リソース<ept id="p1">](scriptResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Service Resource<ept id="p1">](serviceResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>サービス リソース<ept id="p1">](serviceResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>User Resource<ept id="p1">](userResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>ユーザー リソース<ept id="p1">](userResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>WindowsFeature Resource<ept id="p1">](windowsfeatureResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>WindowsFeature リソース<ept id="p1">](windowsfeatureResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>WindowsProcess Resource<ept id="p1">](windowsProcessResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>WindowsProcess リソース<ept id="p1">](windowsProcessResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Authoring custom resources<ept id="p1">](authoringResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>カスタム リソースを作成します。<ept id="p1">](authoringResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>MOF-based custom resources<ept id="p1">](authoringResourceMOF.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>MOF ベースのカスタム リソース<ept id="p1">](authoringResourceMOF.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>MOF-based resource in C#<ept id="p1">](authoringResourceMofCS.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>C# で MOF ベースのリソース<ept id="p1">](authoringResourceMofCS.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Class-based custom resouces<ept id="p1">](authoringResourceClass.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>カスタム リソースのクラスに基づく<ept id="p1">](authoringResourceClass.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Composite resources<ept id="p1">](authoringResourceComposite.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>複合リソース<ept id="p1">](authoringResourceComposite.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Writing a single-instance DSC resource (best practice)<ept id="p1">](singleInstance.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>単一インスタンスの DSC リソース (ベスト プラクティス) の書き込み<ept id="p1">](singleInstance.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Resource authoring checklist<ept id="p1">](resourceAuthoringChecklist.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>リソースの作成のチェックリスト<ept id="p1">](resourceAuthoringChecklist.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Debugging DSC resources<ept id="p1">](debugResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>DSC リソースをデバッグします。<ept id="p1">](debugResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Calling DSC resource methods directly<ept id="p1">](directCallResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>DSC リソース メソッドの直接呼び出し<ept id="p1">](directCallResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Configuring the Local Configuration Manager (LCM)<ept id="p1">](metaConfig.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>ローカル構成マネージャー (LCM) を構成します。<ept id="p1">](metaConfig.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Configuring the LCM in PowerShell 4.0<ept id="p1">](metaConfig4.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>PowerShell 4.0 で、LCM を構成します。<ept id="p1">](metaConfig4.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>The DSC pull model</source>
+          <target state="translated">DSC プル モデル</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting up a web pull server<ept id="p1">](pullServer.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>Setting up a web pull server (Web プル サーバーのセットアップ)<ept id="p1">](pullServer.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting up a DSC SMB pull server<ept id="p1">](pullServerSMB.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>SMB の DSC プル サーバーをセットアップします。<ept id="p1">](pullServerSMB.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting up a pull client<ept id="p1">](pullClient.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>プル クライアントのセットアップ<ept id="p1">](pullClient.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting up a pull client using configuration names<ept id="p1">](pullClientConfigNames.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>構成名を使用したプル クライアントのセットアップ<ept id="p1">](pullClientConfigNames.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Setting up a pull client using configuration ID<ept id="p1">](pullClientConfigID.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>構成 ID を使用したプル クライアントのセットアップ<ept id="p1">](pullClientConfigID.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Using a DSC report server<ept id="p1">](reportServer.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>DSC のレポート サーバーを使用します。<ept id="p1">](reportServer.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Pull server best practices<ept id="p1">](secureServer.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>Server のベスト プラクティスをプルします。<ept id="p1">](secureServer.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Troubleshooting DSC<ept id="p1">](troubleshooting.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>DSC のトラブルシューティング<ept id="p1">](troubleshooting.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Using DSC on Nano Server<ept id="p1">](nanoDsc.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>ナノ サーバー上の DSC を使用してください。<ept id="p1">](nanoDsc.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>DSC on Linux</source>
+          <target state="translated">Linux での DSC</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Getting started with DSC for Linux<ept id="p1">](lnxGettingStarted.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>Linux 向け DSC の概要<ept id="p1">](lnxGettingStarted.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Built-in resorces for Linux<ept id="p1">](lnxBuiltInResources.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>Linux 用の組み込みのリソース<ept id="p1">](lnxBuiltInResources.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>nxArchive Resource<ept id="p1">](lnxArchiveResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>nxArchive リソース<ept id="p1">](lnxArchiveResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>nxEnvironment Resource<ept id="p1">](lnxEnvironmentResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>nxEnvironment リソース<ept id="p1">](lnxEnvironmentResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>nxFile Resource<ept id="p1">](lnxFileResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>nxFile リソース<ept id="p1">](lnxFileResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>nxFileLine Resource<ept id="p1">](lnxFileLineResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>nxFileLine リソース<ept id="p1">](lnxFileLineResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>nxGroup Resource<ept id="p1">](lnxGroupResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>nxGroup リソース<ept id="p1">](lnxGroupResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>nxPackage Resource<ept id="p1">](lnxPackageResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>nxPackage リソース<ept id="p1">](lnxPackageResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>nxService Resource<ept id="p1">](lnxServiceResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>nxService リソース<ept id="p1">](lnxServiceResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>nxSshAuthorizedKeys Resource<ept id="p1">](lnxSshAuthorizedKeysResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>nxSshAuthorizedKeys リソース<ept id="p1">](lnxSshAuthorizedKeysResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>nxUser Resource<ept id="p1">](lnxUserResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>nxUser リソース<ept id="p1">](lnxUserResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>DSC MOF Reference</source>
+          <target state="translated">DSC MOF の参照</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>MSFT_DSCLocalConfigurationManager class<ept id="p1">](msft-dsclocalconfigurationmanager.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>MSFT_DSCLocalConfigurationManager クラス<ept id="p1">](msft-dsclocalconfigurationmanager.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>ApplyConfiguration method of the MSFT_DSCLocalConfigurationManager class<ept id="p1">](msft-dsclocalconfigurationmanager-applyconfiguration.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>MSFT_DSCLocalConfigurationManager クラスの ApplyConfiguration メソッド<ept id="p1">](msft-dsclocalconfigurationmanager-applyconfiguration.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>DisableDebugConfiguration method of the MSFT_DSCLocalConfigurationManager class<ept id="p1">](msft-dsclocalconfigurationmanager-disabledebugconfiguration.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>MSFT_DSCLocalConfigurationManager クラスの DisableDebugConfiguration メソッド<ept id="p1">](msft-dsclocalconfigurationmanager-disabledebugconfiguration.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>EnableDebugConfiguration method of the MSFT_DSCLocalConfigurationManager class<ept id="p1">](msft-dsclocalconfigurationmanager-enabledebugconfiguration.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>MSFT_DSCLocalConfigurationManager クラスの EnableDebugConfiguration メソッド<ept id="p1">](msft-dsclocalconfigurationmanager-enabledebugconfiguration.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>GetConfiguration method of the MSFT_DSCLocalConfigurationManager class<ept id="p1">](msft-dsclocalconfigurationmanager-getconfiguration.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>MSFT_DSCLocalConfigurationManager クラスの GetConfiguration メソッド<ept id="p1">](msft-dsclocalconfigurationmanager-getconfiguration.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>GetConfigurationResultOutput method of the MSFT_DSCLocalConfigurationManager class<ept id="p1">](msft-dsclocalconfigurationmanager-getconfigurationresultoutput.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>MSFT_DSCLocalConfigurationManager クラスの GetConfigurationResultOutput メソッド<ept id="p1">](msft-dsclocalconfigurationmanager-getconfigurationresultoutput.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>GetConfigurationStatus method of the MSFT_DSCLocalConfigurationManager class<ept id="p1">](msft-dsclocalconfigurationmanager-getconfigurationstatus.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>MSFT_DSCLocalConfigurationManager クラスの GetConfigurationStatus メソッド<ept id="p1">](msft-dsclocalconfigurationmanager-getconfigurationstatus.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>GetMetaConfiguration method of the MSFT_DSCLocalConfigurationManager class<ept id="p1">](msft-dsclocalconfigurationmanager-getmetaconfiguration.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>MSFT_DSCLocalConfigurationManager クラスの GetMetaConfiguration メソッド<ept id="p1">](msft-dsclocalconfigurationmanager-getmetaconfiguration.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>PerformRequiredConfigurationChecks method of the MSFT_DSCLocalConfigurationManager class<ept id="p1">](msft-dsclocalconfigurationmanager-performrequiredconfigurationchecks.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>MSFT_DSCLocalConfigurationManager クラスの PerformRequiredConfigurationChecks メソッド<ept id="p1">](msft-dsclocalconfigurationmanager-performrequiredconfigurationchecks.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>RemoveConfiguration method of the MSFT_DSCLocalConfigurationManager class<ept id="p1">](msft-dsclocalconfigurationmanager-removeconfiguration.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>MSFT_DSCLocalConfigurationManager クラスの RemoveConfiguration メソッド<ept id="p1">](msft-dsclocalconfigurationmanager-removeconfiguration.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>ResourceGet method of the MSFT_DSCLocalConfigurationManager class<ept id="p1">](msft-dsclocalconfigurationmanager-resourceget.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>MSFT_DSCLocalConfigurationManager クラスの ResourceGet メソッド<ept id="p1">](msft-dsclocalconfigurationmanager-resourceget.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>ResourceSet method of the MSFT_DSCLocalConfigurationManager class<ept id="p1">](msft-dsclocalconfigurationmanager-resourceset.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>MSFT_DSCLocalConfigurationManager クラスの ResourceSet メソッド<ept id="p1">](msft-dsclocalconfigurationmanager-resourceset.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>ResourceTest method of the MSFT_DSCLocalConfigurationManager class<ept id="p1">](msft-dsclocalconfigurationmanager-resourcetest.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>MSFT_DSCLocalConfigurationManager クラスの ResourceTest メソッド<ept id="p1">](msft-dsclocalconfigurationmanager-resourcetest.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>RollBack method of the MSFT_DSCLocalConfigurationManager class<ept id="p1">](msft-dsclocalconfigurationmanager-rollback.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>MSFT_DSCLocalConfigurationManager クラスの rollBack メソッド<ept id="p1">](msft-dsclocalconfigurationmanager-rollback.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>SendConfiguration method of the MSFT_DSCLocalConfigurationManager class<ept id="p1">](msft-dsclocalconfigurationmanager-sendconfiguration.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>MSFT_DSCLocalConfigurationManager クラスの SendConfiguration メソッド<ept id="p1">](msft-dsclocalconfigurationmanager-sendconfiguration.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>SendConfigurationApply method of the MSFT_DSCLocalConfigurationManager class<ept id="p1">](msft-dsclocalconfigurationmanager-sendconfigurationapply.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>MSFT_DSCLocalConfigurationManager クラスの SendConfigurationApply メソッド<ept id="p1">](msft-dsclocalconfigurationmanager-sendconfigurationapply.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>SendConfigurationApplyAsync method of the MSFT_DSCLocalConfigurationManager class<ept id="p1">](msft-dsclocalconfigurationmanager-sendconfigurationapplyasync.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>MSFT_DSCLocalConfigurationManager クラスの SendConfigurationApplyAsync メソッド<ept id="p1">](msft-dsclocalconfigurationmanager-sendconfigurationapplyasync.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>SendMetaConfigurationApply method of the MSFT_DSCLocalConfigurationManager class<ept id="p1">](msft-dsclocalconfigurationmanager-sendmetaconfigurationapply.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>MSFT_DSCLocalConfigurationManager クラスの SendMetaConfigurationApply メソッド<ept id="p1">](msft-dsclocalconfigurationmanager-sendmetaconfigurationapply.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>StopConfiguration method of the MSFT_DSCLocalConfigurationManager class<ept id="p1">](msft-dsclocalconfigurationmanager-stopconfiguration.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>MSFT_DSCLocalConfigurationManager クラスの StopConfiguration メソッド<ept id="p1">](msft-dsclocalconfigurationmanager-stopconfiguration.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>TestConfiguration method of the MSFT_DSCLocalConfigurationManager class<ept id="p1">](msft-dsclocalconfigurationmanager-testconfiguration.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>MSFT_DSCLocalConfigurationManager クラスの TestConfiguration メソッド<ept id="p1">](msft-dsclocalconfigurationmanager-testconfiguration.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>More Resources</source>
+          <target state="translated">その他のリソース</target>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Whitepapers<ept id="p1">](whitepapers.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>ホワイト ペーパー<ept id="p1">](whitepapers.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

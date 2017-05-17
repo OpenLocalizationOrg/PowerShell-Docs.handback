@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="ja-jp">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-1c394fd" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ea312b4e773cd8b0eceeca123e616957728eb1c6</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dsc\builtInResource.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">afe6f982f838cd8bea7e10afaa1c9de74a740532</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1d4ee2fb47c383dcfc32763f5abf6e15e3c5e451</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Built-In Windows PowerShell Desired State Configuration Resources</source>
+          <target state="translated">Windows PowerShell Desired State Configuration の組み込みリソース</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>powershell,DSC</source>
+          <target state="translated">PowerShell, DSC</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Built-In Windows PowerShell Desired State Configuration Resources</source>
+          <target state="translated">Windows PowerShell Desired State Configuration の組み込みリソース</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Applies To: Windows PowerShell 4.0, Windows PowerShell 5.0</source>
+          <target state="translated">適用先: Windows PowerShell 4.0、Windows PowerShell 5.0</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Windows PowerShell Desired State Configuration (DSC) comes with a set of built-in configuration resources.</source>
+          <target state="translated">Windows PowerShell Desired State Configuration (DSC) には、一連の組み込み構成リソースが付属しています。</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>The following table provides an alphabetical list of these resources and links to topics that describe them in detail.</source>
+          <target state="translated">次の表は、これらのリソースや詳細を説明するトピックへのリンクのアルファベット順の一覧を示します。</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>If you need to create additional resources, see <bpt id="p1">[</bpt>Build Custom Windows PowerShell Desired State Configuration Resources<ept id="p1">](authoringResource.md)</ept></source>
+          <target state="translated">追加のリソースを作成する必要がある場合は、「<bpt id="p1">[</bpt>カスタム Windows PowerShell Desired State Configuration のビルド<ept id="p1">](authoringResource.md)</ept>」を参照してください。</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Archive Resource<ept id="p1">](archiveResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>アーカイブ リソース<ept id="p1">](archiveResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Environment Resource<ept id="p1">](environmentResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>環境リソース<ept id="p1">](environmentResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>File Resource<ept id="p1">](fileResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>ファイル リソース<ept id="p1">](fileResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Group Resource<ept id="p1">](groupResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>グループ リソース<ept id="p1">](groupResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Log Resource<ept id="p1">](logResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>ログ リソース<ept id="p1">](logResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Package Resource<ept id="p1">](packageResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>パッケージ リソース<ept id="p1">](packageResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Registry Resource<ept id="p1">](registryResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>レジストリ リソース<ept id="p1">](registryResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Script Resource<ept id="p1">](scriptResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>スクリプト リソース<ept id="p1">](scriptResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Service Resource<ept id="p1">](serviceResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>サービス リソース<ept id="p1">](serviceResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>User Resource<ept id="p1">](userResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>ユーザー リソース<ept id="p1">](userResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>WindowsFeature Resource<ept id="p1">](windowsfeatureResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>WindowsFeature リソース<ept id="p1">](windowsfeatureResource.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>WindowsProcess Resource<ept id="p1">](windowsProcessResource.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>WindowsProcess リソース<ept id="p1">](windowsProcessResource.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

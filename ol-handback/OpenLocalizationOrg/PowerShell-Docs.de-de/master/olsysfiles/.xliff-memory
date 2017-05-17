@@ -1,0 +1,1904 @@
+{
+  "Table": {
+    "Sonja\\set-up-windows-phone-management-with-microsoft-intune.md.d3754f575cee63593ce804f9277a7a9608b6558b.HT": {
+      "SourceFilename": "Sonja\\set-up-windows-phone-management-with-microsoft-intune.md",
+      "XliffHash": "d3754f575cee63593ce804f9277a7a9608b6558b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\2c3d0b63520b1b49acb29b27d98fd08778e13e62.31ee24258f08d3b0e514cf894c40ae87a14ef451.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\create-a-device-compliance-policy-in-microsoft-intune.md.73b1784f9d4eed12b382b8e072c6f3996532da0c.HT": {
+      "SourceFilename": "Sonja\\create-a-device-compliance-policy-in-microsoft-intune.md",
+      "XliffHash": "73b1784f9d4eed12b382b8e072c6f3996532da0c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\2ff0b24d0a6991c22b23da5da5c63a9bb26ccdd2.86e82f7f83cca88ba67fd05d07dbad0e249a0081.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\windows-configuration-policy-settings-in-microsoft-intune.md.51d4014a749d88ab860c0de5475456a44ec61da6.HT": {
+      "SourceFilename": "Sonja\\windows-configuration-policy-settings-in-microsoft-intune.md",
+      "XliffHash": "51d4014a749d88ab860c0de5475456a44ec61da6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\b02804f933f8c259ea12efefd0353a7d5ceda25c.405fc566b26e43a5fe1db0ec3102fde729da2414.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\understand-your-devices-with-inventory-in-microsoft-intune.md.3a84a4fd109f5af848be18427c961160d3023ad7.HT": {
+      "SourceFilename": "Sonja\\understand-your-devices-with-inventory-in-microsoft-intune.md",
+      "XliffHash": "3a84a4fd109f5af848be18427c961160d3023ad7",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\a195ca39169d2288d76b1337a003db8a0ae11997.375a65fe4e100db21cbba72094cec2c9b8c684c0.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\protect-windows-devices-with-multi-factor-authentication.md.d0b8ff408502c404ad16b68f7b460187d4219a74.HT": {
+      "SourceFilename": "Sonja\\protect-windows-devices-with-multi-factor-authentication.md",
+      "XliffHash": "d0b8ff408502c404ad16b68f7b460187d4219a74",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\00d63fa55cd29c938dd082e2eff240f08319e01a.966a1408c7e2c412539c61f6baaa41d1b037e59b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\protect-line-of-business-apps-and-data-on-devices-not-enrolled-in-microsoft-intune.md.1206b1145b15abfb1e023f0a15f8ef91cb085dee.HT": {
+      "SourceFilename": "Sonja\\protect-line-of-business-apps-and-data-on-devices-not-enrolled-in-microsoft-intune.md",
+      "XliffHash": "1206b1145b15abfb1e023f0a15f8ef91cb085dee",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\eb04f0e7b9627ad1869ef677f1b32380db868490.deec57225d450ad4368ea024cbba779e134f4883.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\account-portal-merged-with-Office-365.md.da39a3ee5e6b4b0d3255bfef95601890afd80709.HT": {
+      "SourceFilename": "Sonja\\account-portal-merged-with-Office-365.md",
+      "XliffHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\e48f51fab58bf4ad5822617eec045a671b740548.351b811e7dc3d938ae5e3e56fe8a1d41cc16742d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\TOC.md.743575d832e1c4d2981a7ccaf115ceffb82fc18f.HT": {
+      "SourceFilename": "Sonja\\TOC.md",
+      "XliffHash": "743575d832e1c4d2981a7ccaf115ceffb82fc18f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\caac142f1f13d5a08527a375589db997208551bc.49d401b276470b3bf80bc56c6dafc942434f5a4d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\how-your-ios-users-get-their-apps.md.508297254e27758fb19abde834fdf9c6ba067f4a.HT": {
+      "SourceFilename": "Sonja\\how-your-ios-users-get-their-apps.md",
+      "XliffHash": "508297254e27758fb19abde834fdf9c6ba067f4a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\e53a94a9da3162908b9bbb3714d64db917c8174b.fb1d193503b840705ffb3c16f0383d00ede62bf0.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\overview-of-device-lifecycle-in-microsoft-intune.md.6b9852d6abd1b11c4d834595a94a6cd54d682b6c.HT": {
+      "SourceFilename": "Sonja\\overview-of-device-lifecycle-in-microsoft-intune.md",
+      "XliffHash": "6b9852d6abd1b11c4d834595a94a6cd54d682b6c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\8e769d5912de0a821add180053034ed14eb58537.2f40d8653f34359042b4f46a092f5fd57e84f4b9.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\how-your-windows-users-get-their-apps.md.1c49cec2e9f43b57a7f22308a03d66772e07f91c.HT": {
+      "SourceFilename": "Sonja\\how-your-windows-users-get-their-apps.md",
+      "XliffHash": "1c49cec2e9f43b57a7f22308a03d66772e07f91c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\3a7ce952923ff69323edd1b3e2a4f6e8a2d4547b.15d1d8c42362aa64d2702a5382a196f9aa56e8b1.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\Custom-configurations-for-VPN-profiles.md.0b039986d0c8d486b542b10d50b4166194454a9c.HT": {
+      "SourceFilename": "Sonja\\Custom-configurations-for-VPN-profiles.md",
+      "XliffHash": "0b039986d0c8d486b542b10d50b4166194454a9c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\6f6a18318070aa9e7d6dfc27a820d9d8f2054069.b9b3550df9b7bc8b380af8c33c82f26436391390.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\terms-and-condition-policy-settings-in-microsoft-intune.md.97a1324638ebf8712fc8820d14eba2b8471bebeb.HT": {
+      "SourceFilename": "Sonja\\terms-and-condition-policy-settings-in-microsoft-intune.md",
+      "XliffHash": "97a1324638ebf8712fc8820d14eba2b8471bebeb",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\701f6c79b32a3968fd76b441b8f7fd4d9d810df6.8165b000e6df113e9ece5af11048a9074c53b30e.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\manage-windows-pcs-with-microsoft-intune.md.e8d97c3e570fb99ee33a3c1f66f8233adfdf118b.HT": {
+      "SourceFilename": "Sonja\\manage-windows-pcs-with-microsoft-intune.md",
+      "XliffHash": "e8d97c3e570fb99ee33a3c1f66f8233adfdf118b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\1df2507df6bd3fc7748c10c1f398fbfdb8958a18.869d58b962ee46d3c8dabe96e8f42683530c0275.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\manage-license-agreements-for-windows-pc-software-in-microsoft-intune.md.82df11b43f8aaf4a090cc507bc4991b57dda39ec.HT": {
+      "SourceFilename": "Sonja\\manage-license-agreements-for-windows-pc-software-in-microsoft-intune.md",
+      "XliffHash": "82df11b43f8aaf4a090cc507bc4991b57dda39ec",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\4af08b38716e04766175e2ab55db1a0dba788c20.089ab0b547ee1d3d0633a72169903c8f481ee3c4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\multi-factor-authentication-azure-active-directory.md.9920aed3f3e6c711ed3c1804dd167109205d2c61.HT": {
+      "SourceFilename": "Sonja\\multi-factor-authentication-azure-active-directory.md",
+      "XliffHash": "9920aed3f3e6c711ed3c1804dd167109205d2c61",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\90f05f63e5df7776d6c6fde4de60731ccf1cddf0.b493666dfb6db9ef825f868df963c83fa932ca86.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\monitoring-and-reports-with-microsoft-intune.md.ef22ec23378cb29ad78f78a738cc688ea4cdca3c.HT": {
+      "SourceFilename": "Sonja\\monitoring-and-reports-with-microsoft-intune.md",
+      "XliffHash": "ef22ec23378cb29ad78f78a738cc688ea4cdca3c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\9ba4e31ebfb852ca9c35fdac9ca92791a5b56fd3.29043e917307402e306fedeace0b8925f4b3e613.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\how-your-android-users-get-their-apps.md.c8f8d3a8f6beff403d67981a633a7c883e52a8e8.HT": {
+      "SourceFilename": "Sonja\\how-your-android-users-get-their-apps.md",
+      "XliffHash": "c8f8d3a8f6beff403d67981a633a7c883e52a8e8",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\d34bdc9839ea7785a429bc70cba15cc85da56ee1.1c19aecb647d403d8bf84cdb4eebe8805705553b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\protect-app-data-using-mobile-app-management-policies-with-microsoft-intune.md.5195ad880316eab5399308fe73c7c8c47246ea55.HT": {
+      "SourceFilename": "Sonja\\protect-app-data-using-mobile-app-management-policies-with-microsoft-intune.md",
+      "XliffHash": "5195ad880316eab5399308fe73c7c8c47246ea55",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\6163f2b2a1c562e5315785b8b4c486fe2347f89d.3c04a5563e963a33d07d71f64ddcf6d33ec1aa5c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\control-microsoft-passport-settings-on-devices-with-microsoft-intune.md.00facaef691bf957f1fc037b41463bb4d06ad547.HT": {
+      "SourceFilename": "Sonja\\control-microsoft-passport-settings-on-devices-with-microsoft-intune.md",
+      "XliffHash": "00facaef691bf957f1fc037b41463bb4d06ad547",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\c2c2774dd85d8ce9c056248f801220e06f17063b.48d8f132a132f307c0824c7f8c0396f105fa640e.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\add-apps.md.f421486eb308ac88f1f4e8f2e188283dc2a1609a.HT": {
+      "SourceFilename": "Sonja\\add-apps.md",
+      "XliffHash": "f421486eb308ac88f1f4e8f2e188283dc2a1609a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\93c05ecd0154bb637f421dcc5d7ee56ff8d3ab2d.2b24074979c71afbfcaba9ceb264a0b9b05c9dbb.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\Configure-certificate-infrastructure-for-scep.md.01c8d34e614586f8c194da5e89bbf01d8233272f.HT": {
+      "SourceFilename": "Sonja\\Configure-certificate-infrastructure-for-scep.md",
+      "XliffHash": "01c8d34e614586f8c194da5e89bbf01d8233272f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\adef720c31eea978dc899f62e1eef60af2812a3d.deb33378f3a3508a236ecbb610c103efeb751198.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\help-protect-windows-pcs-using-windows-firewall-policies-in-microsoft-intune.md.ac5749504c35232e2effcf7142ed0f92e73769e4.HT": {
+      "SourceFilename": "Sonja\\help-protect-windows-pcs-using-windows-firewall-policies-in-microsoft-intune.md",
+      "XliffHash": "ac5749504c35232e2effcf7142ed0f92e73769e4",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\3fde6fb88bd929956d18e4dda502071901e4c4b4.930a8e3e2960e211097b768b49dee52da88f435a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\help-secure-windows-pcs-with-endpoint-protection-for-microsoft-intune.md.b084c420d5709db755fb0da1c45d0a0727d479e1.HT": {
+      "SourceFilename": "Sonja\\help-secure-windows-pcs-with-endpoint-protection-for-microsoft-intune.md",
+      "XliffHash": "b084c420d5709db755fb0da1c45d0a0727d479e1",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\8bcc70ba6451f13f80319229b191b6feb2d5664e.c3d79a9b436036445db22a2d28180dfb450145d3.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\use-the-sdk-to-enable-apps-for-mobile-application-management.md.c806b1e331a01a715040014caec65a356f3ec486.HT": {
+      "SourceFilename": "Sonja\\use-the-sdk-to-enable-apps-for-mobile-application-management.md",
+      "XliffHash": "c806b1e331a01a715040014caec65a356f3ec486",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\38e5155ef9167778e82b913d819088409526e27c.e153b7433565aa4adada7090ebf65e764e66c318.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\set-up-windows-device-management-with-microsoft-intune.md.393d3bababd16aada1fd95b740f8523274489da9.HT": {
+      "SourceFilename": "Sonja\\set-up-windows-device-management-with-microsoft-intune.md",
+      "XliffHash": "393d3bababd16aada1fd95b740f8523274489da9",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\6b6249c2429af6c9dd85d5044dd8e0cc1f4d9a67.d397c73867f70f5a04f6b9c49e82d7671eb74e71.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\set-up-windows-phone-8.0-management-with-microsoft-intune.md.bf39d655cb9c2827301486a0372629fa857a78b3.HT": {
+      "SourceFilename": "Sonja\\set-up-windows-phone-8.0-management-with-microsoft-intune.md",
+      "XliffHash": "bf39d655cb9c2827301486a0372629fa857a78b3",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\c6aff6de22c01db680b5a7bb2c6f68e8185b4350.213eaf2ef5a2430481b7fab2b1b925edff845be6.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\overview-of-device-and-app-lifecycles-in-microsoft-intune.md.9d8a91e6d97cef1f74d0d81319857b2002401752.HT": {
+      "SourceFilename": "Sonja\\overview-of-device-and-app-lifecycles-in-microsoft-intune.md",
+      "XliffHash": "9d8a91e6d97cef1f74d0d81319857b2002401752",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\686dc048c8a582ea188c5ab742e94328405f3a29.ac8e53f27c8f8f9f58d33d8a277fcac73d22d79e.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\add-apps-for-mobile-devices-in-microsoft-intune.md.e6a218ab630cb5eec08c2aee87fdaa3c2d1267f9.HT": {
+      "SourceFilename": "Sonja\\add-apps-for-mobile-devices-in-microsoft-intune.md",
+      "XliffHash": "e6a218ab630cb5eec08c2aee87fdaa3c2d1267f9",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\0951a8c8ae635fed089e7bbf87018282a73daf74.1f696975b8f59a5f773054b9d638e0140c64575d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\manage-volume-purchased-apps-in-microsoft-intune.md.dbed38989ad2980ea5022e003d637953546db573.HT": {
+      "SourceFilename": "Sonja\\manage-volume-purchased-apps-in-microsoft-intune.md",
+      "XliffHash": "dbed38989ad2980ea5022e003d637953546db573",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\c1d85b399cd78f24d5a08979e11da7fb16c3fb1f.32e95b8e59c7c13e11e02a432b1ec0bcafe60a1a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\mobile-device-management-with-exchange-activesync-and-microsoft-intune.md.2dec9d71f62b9fb6cb512a43cbca870a06cf5270.HT": {
+      "SourceFilename": "Sonja\\mobile-device-management-with-exchange-activesync-and-microsoft-intune.md",
+      "XliffHash": "2dec9d71f62b9fb6cb512a43cbca870a06cf5270",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\3e8ca71a8a7011eb4d2e34c61ef869dbf0abe3b7.aa82b0ae9a1587c39276e4810d2200b9891fca62.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\multi-factor-auth-azure-ad.md.3b8afdbcb0c960cc4000d58b4834c797b964bf1b.HT": {
+      "SourceFilename": "Sonja\\multi-factor-auth-azure-ad.md",
+      "XliffHash": "3b8afdbcb0c960cc4000d58b4834c797b964bf1b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\05ae9ad7f4ed13f4fbcdd3ff7d9ad2c22cc8c0ba.661b342d4e963056f9bb201a41bc0aba94886dda.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\restrict-access-to-email-and-o365-services-with-microsoft-intune.md.d9216ba510e8715417b78b40ab3e0b9f6cd4e90a.HT": {
+      "SourceFilename": "Sonja\\restrict-access-to-email-and-o365-services-with-microsoft-intune.md",
+      "XliffHash": "d9216ba510e8715417b78b40ab3e0b9f6cd4e90a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\6e11d71265f01ae31ab3124a46aaa544ad2f453a.9e1128277bec9a8392e08801a8ee6f251841d089.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\restrict-email-access-example-scenarios.md.7b8e80f4220ef70eb3ded6a541c2f06d3b95a038.HT": {
+      "SourceFilename": "Sonja\\restrict-email-access-example-scenarios.md",
+      "XliffHash": "7b8e80f4220ef70eb3ded6a541c2f06d3b95a038",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\01f93bb8b09d5d6b0708e84c7498cf03e9225880.18872007b0afe4b0a14adee6f1654559d0ca2117.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\manage-alerts-in-microsoft-intune.md.1564a47a2f7d9b1ffdb724e3274138de5cd649eb.HT": {
+      "SourceFilename": "Sonja\\manage-alerts-in-microsoft-intune.md",
+      "XliffHash": "1564a47a2f7d9b1ffdb724e3274138de5cd649eb",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\9578d58be2101a2013d5f687800245d5a8b53e01.d0365b624aa7f7489e72087f331b9b41e70e1db9.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\enroll-devices-in-microsoft-intune.md.b63c4bf2a103246dc28003cf6ed655dc6569b176.HT": {
+      "SourceFilename": "Sonja\\enroll-devices-in-microsoft-intune.md",
+      "XliffHash": "b63c4bf2a103246dc28003cf6ed655dc6569b176",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\4dbf5123fc909d5372a0ca29c22d0df6d0eef26b.9ab1151c9abf169ee586fcc4ba1f9ca2144db92f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\windows-phone-8-1-policy-settings-in-microsoft-intune.md.8543348551e22778452906a480896fb536105b5d.HT": {
+      "SourceFilename": "Sonja\\windows-phone-8-1-policy-settings-in-microsoft-intune.md",
+      "XliffHash": "8543348551e22778452906a480896fb536105b5d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\315e492b301387c2030440e7188dfdb35a99ddd9.b5f97c01e6e9c1fa848bff77bc5da5f335c7da50.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\exchange-activesync-policy-settings-in-microsoft-intune.md.b93dc84ec123305997a5d8b9230c5b7bc2bbc117.HT": {
+      "SourceFilename": "Sonja\\exchange-activesync-policy-settings-in-microsoft-intune.md",
+      "XliffHash": "b93dc84ec123305997a5d8b9230c5b7bc2bbc117",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\21f4e16787a3f5aa1970fbf7d22214018bc8c69c.eaafa1aba95686beb67c7576a7751e68aaf4435e.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\intune-on-premises-exchange-connector.md.e7ef62f001fadc710a097af48d8778685aa38072.HT": {
+      "SourceFilename": "Sonja\\intune-on-premises-exchange-connector.md",
+      "XliffHash": "e7ef62f001fadc710a097af48d8778685aa38072",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\18614cc272323b8031c94b8e582f80aa5c06d9d3.63095bfa2c58ca92004822b0fd784ca60eb3a4e1.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\protect-your-devices-with-microsoft-intune.md.6fbd6045c4ee655bcddb7f51f0ce6c19915c84d2.HT": {
+      "SourceFilename": "Sonja\\protect-your-devices-with-microsoft-intune.md",
+      "XliffHash": "6fbd6045c4ee655bcddb7f51f0ce6c19915c84d2",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\be5051c46e1ef04ea140c9d440720f570edcbd1e.60e673ab33c8046cefc82c33cafee7ee1d11e3d4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\ios-policy-settings-in-microsoft-intune.md.476e8d9fb7781c66832a7e31a6e9ca887a79f7d3.HT": {
+      "SourceFilename": "Sonja\\ios-policy-settings-in-microsoft-intune.md",
+      "XliffHash": "476e8d9fb7781c66832a7e31a6e9ca887a79f7d3",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\24540a74ce98adbf3f908cbea401328f027867ca.c54e7688b3f4f472b0f896b381617cde115f5017.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\help-protect-ios-devices-with-activation-lock-bypass-for-microsoft-intune.md.c0c08a591fdde9814a9afb637269778cbea0c2a6.HT": {
+      "SourceFilename": "Sonja\\help-protect-ios-devices-with-activation-lock-bypass-for-microsoft-intune.md",
+      "XliffHash": "c0c08a591fdde9814a9afb637269778cbea0c2a6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\5cc03b724f8b9b00feb6bf693bd9b420c02e4ed3.2130952c07dda18f545da015908707e37e2d3b92.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\ios-setup-assistant-enrollment-in-microsoft-intune.md.3fb6f35e476b3f053eb44c44919aafd016d77cd1.HT": {
+      "SourceFilename": "Sonja\\ios-setup-assistant-enrollment-in-microsoft-intune.md",
+      "XliffHash": "3fb6f35e476b3f053eb44c44919aafd016d77cd1",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\1260001be3e5479ff0758178dc161260d31dcc3e.af25357041ca59da22bfa177272f3d445df1ecb0.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\wipe-managed-company-app-data-with-microsoft-intune.md.d1cd9f2d897655dce1ef4fe0b7a5180571c49e6b.HT": {
+      "SourceFilename": "Sonja\\wipe-managed-company-app-data-with-microsoft-intune.md",
+      "XliffHash": "d1cd9f2d897655dce1ef4fe0b7a5180571c49e6b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\111cfe66e3ee6d9238bb885e3be4025a24811369.6a25856a18b793f5cb44f8ee83bf73aafc2fe2a6.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\enable-device-threat-protection-rule-in-compliance-policy.md.24c9d647594b1f16a995e4b66221da4c7b7b0370.HT": {
+      "SourceFilename": "Sonja\\enable-device-threat-protection-rule-in-compliance-policy.md",
+      "XliffHash": "24c9d647594b1f16a995e4b66221da4c7b7b0370",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\761372b2c8b81699bc2584ab1ef8d0f9d523abe9.2bdfdba30ef2fba9f31265ce0e9cadbdb58e2696.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\prepare-android-apps-for-mobile-application-management-with-the-microsoft-intune-app-wrapping-tool.md.7b07f481c708540c94af9c007b928e4b90f0f432.HT": {
+      "SourceFilename": "Sonja\\prepare-android-apps-for-mobile-application-management-with-the-microsoft-intune-app-wrapping-tool.md",
+      "XliffHash": "7b07f481c708540c94af9c007b928e4b90f0f432",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\ea1a6ef60b6a9cdd64559f67276280a4f491e30e.f2a570fdcaaa427850773fb68a2069c0acd9b66d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\configure-and-deploy-mobile-application-management-policies-in-the-microsoft-intune-console.md.cec338020358bc7bffb7e72bffb98651c3bcc0e5.HT": {
+      "SourceFilename": "Sonja\\configure-and-deploy-mobile-application-management-policies-in-the-microsoft-intune-console.md",
+      "XliffHash": "cec338020358bc7bffb7e72bffb98651c3bcc0e5",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\1584022db4b312919f88ef39dd3912c47b859099.f1af897793ce1cd56f0c1ccb719e4a742cedb282.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\control-what-admins-can-see-in-the-microsoft-intune-admin-console.md.fbce8f09ec4a67650432ffaa9823a78dd5bbed08.HT": {
+      "SourceFilename": "Sonja\\control-what-admins-can-see-in-the-microsoft-intune-admin-console.md",
+      "XliffHash": "fbce8f09ec4a67650432ffaa9823a78dd5bbed08",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\1059aae1c90e3623201281d4cf14d9db442e3f20.26ab3371635d003b2ceb80c120fbb71fecad6153.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\get-ready-to-configure-mobile-app-management-policies-with-microsoft-intune.md.fbdd18841caef9dd1cee4dd39a5dd0aee7d1fc2b.HT": {
+      "SourceFilename": "Sonja\\get-ready-to-configure-mobile-app-management-policies-with-microsoft-intune.md",
+      "XliffHash": "fbdd18841caef9dd1cee4dd39a5dd0aee7d1fc2b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\aeaa64124384a71126eeca7339416b80d395d07d.89477e04f8de03f5caf767196a5fae2d4a49f1ad.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\overview-of-app-lifecycle-in-microsoft-intune.md.16d3ddc1f7153022a9c52c8f88601cf94f44001d.HT": {
+      "SourceFilename": "Sonja\\overview-of-app-lifecycle-in-microsoft-intune.md",
+      "XliffHash": "16d3ddc1f7153022a9c52c8f88601cf94f44001d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\c93efd43a85c8046c7cfd6aa8341352b75ab0cfd.6473126c7ca31608271b44d70363f8a9884b15b8.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\Configure-certificate-infrastructure-for-pfx.md.215048aef7fba2ae2017fb98246e34ff3b073583.HT": {
+      "SourceFilename": "Sonja\\Configure-certificate-infrastructure-for-pfx.md",
+      "XliffHash": "215048aef7fba2ae2017fb98246e34ff3b073583",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\da988778ab1156597fe19ac40bab155be6046d75.8878f926cc12d8c458b20c4c27d59ca2e452e3c7.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\previous-intune-releases.md.135996437eb70144035583d92b03143b6edae782.HT": {
+      "SourceFilename": "Sonja\\previous-intune-releases.md",
+      "XliffHash": "135996437eb70144035583d92b03143b6edae782",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\996198a2525dc830d229e7143afda3c71f4276b8.9aff00eb72a6b101d423ddb237ac4947bf59f279.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\manage-corporate-owned-devices.md.d18f366e7e9d8c5fb86196cb57d9f7596c57b2c3.HT": {
+      "SourceFilename": "Sonja\\manage-corporate-owned-devices.md",
+      "XliffHash": "d18f366e7e9d8c5fb86196cb57d9f7596c57b2c3",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\6c8a658532ba9e7367c12c62581486399ff77840.6d77ffd9dc1569d68ba2e268bdc25d406ac90cad.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\deploy-apps-in-microsoft-intune.md.bb8cc7d4eeb5c9c8075530df2539fad52ba41326.HT": {
+      "SourceFilename": "Sonja\\deploy-apps-in-microsoft-intune.md",
+      "XliffHash": "bb8cc7d4eeb5c9c8075530df2539fad52ba41326",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\904b89a92cef870f4672e5f40e6ac91ece10d3b7.13d6590e9ae3a0419742e2ec51322549123b8af2.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\restrict-access-to-skype-for-business-online-with-microsoft-intune.md.d4c294e1c56e163cffa78e07359ee1375b5739fd.HT": {
+      "SourceFilename": "Sonja\\restrict-access-to-skype-for-business-online-with-microsoft-intune.md",
+      "XliffHash": "d4c294e1c56e163cffa78e07359ee1375b5739fd",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\27d993974d71b34b36cbd3216b83a1303689bf15.cfb3f79d6fef00a498068f27b9694400d0bcf07b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\policies-to-protect-windows-pcs-in-microsoft-intune.md.955c392db0b132c506f75d43f064c568e264c7bc.HT": {
+      "SourceFilename": "Sonja\\policies-to-protect-windows-pcs-in-microsoft-intune.md",
+      "XliffHash": "955c392db0b132c506f75d43f064c568e264c7bc",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\f613bacf3505f2a18965e5fa5586acb2aa512aa9.b53658a1717d2062fa9fe8a4c321f30c90ca10d8.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\manage-ios-apps-you-purchased-through-a-volume-purchase-program-with-microsoft-intune.md.cead13972dddb1fbdfb10e397f7cf5dadcb20f3c.HT": {
+      "SourceFilename": "Sonja\\manage-ios-apps-you-purchased-through-a-volume-purchase-program-with-microsoft-intune.md",
+      "XliffHash": "cead13972dddb1fbdfb10e397f7cf5dadcb20f3c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\a5c37c470f937c682d9138a636d1211f641da784.0ad387527da3e39d8bb5737425cf729326553ba1.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\exchange-access-rules-for-mobile-devices.md.8ba8ee3437282aaa4bd10308a11f46ff08a2c7ba.HT": {
+      "SourceFilename": "Sonja\\exchange-access-rules-for-mobile-devices.md",
+      "XliffHash": "8ba8ee3437282aaa4bd10308a11f46ff08a2c7ba",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\c40978080967e3fb92aeb905218fd875e61e7efe.965f7f930fd06178ac052472645145de6442bcb8.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\vpn-connections-in-microsoft-intune.md.a489f15c9f190fe46cec5799328cabe4a1956114.HT": {
+      "SourceFilename": "Sonja\\vpn-connections-in-microsoft-intune.md",
+      "XliffHash": "a489f15c9f190fe46cec5799328cabe4a1956114",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\738b7fbda92f24eaeae23638ea49c1c174901e7a.312b7d17d5a147986e3c6a1f301558dc053e503a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\validate-mobile-application-management.md.5df3e377d2cd44bf8f4059f9e797ae743f56f3e4.HT": {
+      "SourceFilename": "Sonja\\validate-mobile-application-management.md",
+      "XliffHash": "5df3e377d2cd44bf8f4059f9e797ae743f56f3e4",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dab40df81c26b403aa3f2ae5524ff1297e2a7963.7661f95ac6beeceb3c033001e0eaf75529850d15.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\wipe-for-exchange-managed-mobile-devices.md.111c226d317ef20fb677a6c2987fcf474093b3e7.HT": {
+      "SourceFilename": "Sonja\\wipe-for-exchange-managed-mobile-devices.md",
+      "XliffHash": "111c226d317ef20fb677a6c2987fcf474093b3e7",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\9d16bc6a4c68fbc06691538b4896676ae17ac7a2.36c4775ddbb48bcf7c2874f4f8e9aaafcb8d537e.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\update-apps-using-microsoft-intune.md.678608bc8abed2e4f604503b462a39430d4f7d0d.HT": {
+      "SourceFilename": "Sonja\\update-apps-using-microsoft-intune.md",
+      "XliffHash": "678608bc8abed2e4f604503b462a39430d4f7d0d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\cefe90cdb0cda5ada259576af7cf477642860446.832d1146b93056fae5bd2253acde564b6338fd6a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\monitor-apps-in-microsoft-intune.md.6a1f805c41388306b765c4bbc122db11822ed7ee.HT": {
+      "SourceFilename": "Sonja\\monitor-apps-in-microsoft-intune.md",
+      "XliffHash": "6a1f805c41388306b765c4bbc122db11822ed7ee",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\d9b0f5ec429ff8da8c6c91109b2ddd2184586763.90baa0e22142585e410714d1549e480203fbd1c8.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\manage-settings-and-features-on-your-devices-with-microsoft-intune-policies.md.0a88ff22d843e6ad64d8515f21df92e529b055ae.HT": {
+      "SourceFilename": "Sonja\\manage-settings-and-features-on-your-devices-with-microsoft-intune-policies.md",
+      "XliffHash": "0a88ff22d843e6ad64d8515f21df92e529b055ae",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\0dc10ea029d078840a584424f7900f340189b960.07c40cc6feedf03e4001c9e976bf91ec812a74f4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\pre-shared-key-wi-fi-profile.md.4d9e0e6398eb2e38ac47446e2c28fb5d2638e778.HT": {
+      "SourceFilename": "Sonja\\pre-shared-key-wi-fi-profile.md",
+      "XliffHash": "4d9e0e6398eb2e38ac47446e2c28fb5d2638e778",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\14e43dadc0d7bc20238ec87447f311fdc864d891.3dfd8828646d039547c225cb38c25071bda50119.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\azure-portal-for-microsoft-intune-mam-policies.md.31a9960653a967674e078e3361089022387dff56.HT": {
+      "SourceFilename": "Sonja\\azure-portal-for-microsoft-intune-mam-policies.md",
+      "XliffHash": "31a9960653a967674e078e3361089022387dff56",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\1ddb7a30a6f23a3f3d754bd18975c50f32662578.d637a19f18ed31179193de1cfdfc050c3d8c185d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\enroll-corporate-owned-ios-devices-in-microsoft-intune.md.bf0b12b98776f84d8fb22ec7aaa137a756f94425.HT": {
+      "SourceFilename": "Sonja\\enroll-corporate-owned-ios-devices-in-microsoft-intune.md",
+      "XliffHash": "bf0b12b98776f84d8fb22ec7aaa137a756f94425",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\7fb28509d78159fa9bec8d12a1cab534a039f328.444d7b224eadfa061d006041f5d8bc88b42c63a5.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\monitor-mobile-app-management-policies-with-microsoft-intune.md.855a5aa7ca8634fdea2d5cca0b47b720c2c7c1ca.HT": {
+      "SourceFilename": "Sonja\\monitor-mobile-app-management-policies-with-microsoft-intune.md",
+      "XliffHash": "855a5aa7ca8634fdea2d5cca0b47b720c2c7c1ca",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\e530960268e8ef7d9c7f5419e7221bec61c0e6ef.dfd16c286b89c8de5e5b92efc10722e836ac1397.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\deploy-and-monitor-a-device-compliance-policy-in-microsoft-intune.md.12fdbb1fdde41abd6dab747827c799802b8b5102.HT": {
+      "SourceFilename": "Sonja\\deploy-and-monitor-a-device-compliance-policy-in-microsoft-intune.md",
+      "XliffHash": "12fdbb1fdde41abd6dab747827c799802b8b5102",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\8658df1fb9932fb2cab984a13557aad684569df5.e1f99ee5912597baf43e12971c0e8f4d41f1ef09.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\common-windows-pc-management-tasks-with-the-microsoft-intune-computer-client.md.860bbe12ea48f9f192484399af004c34b8dec95e.HT": {
+      "SourceFilename": "Sonja\\common-windows-pc-management-tasks-with-the-microsoft-intune-computer-client.md",
+      "XliffHash": "860bbe12ea48f9f192484399af004c34b8dec95e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\9ef18ee054928fcfb12a36fe8ac3ad3c2909f6c1.ce9f6526b1ac7f69ed729db7fd8a9cca3b5dde32.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\restrict-access-to-networks.md.8df7b0bace75697ffa1b8f099790831387104887.HT": {
+      "SourceFilename": "Sonja\\restrict-access-to-networks.md",
+      "XliffHash": "8df7b0bace75697ffa1b8f099790831387104887",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\fa73c5e2b4e6737377acd206807399b31df37364.e344ed53e3e318c054eb39e10a1473fa2f5d4b4f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\restrict-access-to-exchange-online-with-microsoft-intune.md.68bc8965f9a5cba4bfa857bf5e3558cf92067494.HT": {
+      "SourceFilename": "Sonja\\restrict-access-to-exchange-online-with-microsoft-intune.md",
+      "XliffHash": "68bc8965f9a5cba4bfa857bf5e3558cf92067494",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dd5ae411cc2541566805131d0076efc15875c988.b1a7e13bfa9bf6c0c60924311cd552a14af06bbd.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\install-the-windows-pc-client-with-microsoft-intune.md.2392789c5c6dc8a145fd9253299903ea1254123b.HT": {
+      "SourceFilename": "Sonja\\install-the-windows-pc-client-with-microsoft-intune.md",
+      "XliffHash": "2392789c5c6dc8a145fd9253299903ea1254123b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\d59a0a08b6d72d2b2cb9462d99fc8e435fe0fba8.d9bbf6f9c8aaa2f9df30bbda46cc277283319b62.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\use-groups-to-manage-users-and-devices-with-microsoft-intune.md.27499dfb333b57bab01a074b386e89206c50207a.HT": {
+      "SourceFilename": "Sonja\\use-groups-to-manage-users-and-devices-with-microsoft-intune.md",
+      "XliffHash": "27499dfb333b57bab01a074b386e89206c50207a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\76b8ab90974dc258992ed8c660a04fc08872a4ec.e9278512c0dd24bb2ec0b0c254230961549bb60f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\enroll-corporate-owned-devices-with-the-device-enrollment-manager-in-microsoft-intune.md.2c85060d4e7cfc09b089e1f2676e17d7326aa5d8.HT": {
+      "SourceFilename": "Sonja\\enroll-corporate-owned-devices-with-the-device-enrollment-manager-in-microsoft-intune.md",
+      "XliffHash": "2c85060d4e7cfc09b089e1f2676e17d7326aa5d8",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\585ce92b0f0159060d9a8f1960b4c7b05eafdee7.0d9a0f9dfa4dd94dc7a21237ad518255d1b589d8.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\restrict-access-based-on-device-network-app-risk.md.7ee38d5cce0c00794ff4427e473b411365e05bb4.HT": {
+      "SourceFilename": "Sonja\\restrict-access-based-on-device-network-app-risk.md",
+      "XliffHash": "7ee38d5cce0c00794ff4427e473b411365e05bb4",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\d4eadb73aac14a375f41c434a4303a885bfbae64.babaec76c8729cd86690496efb3818f4ebb2232c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\retire-apps-using-microsoft-intune.md.072fc8517fe0d7ecbbcd348db81b7ab70ea952ef.HT": {
+      "SourceFilename": "Sonja\\retire-apps-using-microsoft-intune.md",
+      "XliffHash": "072fc8517fe0d7ecbbcd348db81b7ab70ea952ef",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\33ff2a202a8317319b6f8ef0a0e5fa10b4335ff3.9244ecb221f5ec3553d0a54b2623f99f90f6c7f3.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\prepare-ios-apps-for-mobile-application-management-with-the-microsoft-intune-app-wrapping-tool.md.093824de436eb05f6719dd0002ab82dd444d9c88.HT": {
+      "SourceFilename": "Sonja\\prepare-ios-apps-for-mobile-application-management-with-the-microsoft-intune-app-wrapping-tool.md",
+      "XliffHash": "093824de436eb05f6719dd0002ab82dd444d9c88",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\a94754404b9ee135642e5683ffa0e4a6351e6830.54c83d28a4b7048e725cbaee99432be96d2faed1.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\microsoft-intune-policy-reference.md.f0cc551635cc3adee292e5cf4746a066666674a6.HT": {
+      "SourceFilename": "Sonja\\microsoft-intune-policy-reference.md",
+      "XliffHash": "f0cc551635cc3adee292e5cf4746a066666674a6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\f02400a423e579f89f3b06b17ede83190635592c.4efeaaaba16670b67a83fa4f4447013dd7f24388.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\restrict-access-to-exchange-onpremises-with-microsoft-intune.md.051f615ef384dc3f2d2a49b703df90cc7991d960.HT": {
+      "SourceFilename": "Sonja\\restrict-access-to-exchange-onpremises-with-microsoft-intune.md",
+      "XliffHash": "051f615ef384dc3f2d2a49b703df90cc7991d960",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\cf9a9aae239e4b6feee57dd1bb0ea52ddaed408c.2e5c47d121db011c09f26a10bc12c960bdfee8e0.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\mac-os-x-policy-settings-in-microsoft-intune.md.3ef72249e826243e2fb8446de9e2f51a0737d92d.HT": {
+      "SourceFilename": "Sonja\\mac-os-x-policy-settings-in-microsoft-intune.md",
+      "XliffHash": "3ef72249e826243e2fb8446de9e2f51a0737d92d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\c6b010e49b4e581dad056aa6e8bb17123030f7b0.dfce6df58f61fe36f8b0074cb6e29c7d6e6c4bfc.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\restrict-access-to-sharepoint-online-with-microsoft-intune.md.4a8632de92ff257461b685413f7883848cc9e760.HT": {
+      "SourceFilename": "Sonja\\restrict-access-to-sharepoint-online-with-microsoft-intune.md",
+      "XliffHash": "4a8632de92ff257461b685413f7883848cc9e760",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\84c9d355fde49fd18899a43ed0def0c801694291.cba4cfaea2fbdcfd97814e614068193de4fdafa8.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\secure-resource-access-with-certificate-profiles.md.4309b41f35ba74662a4e26c05c39c52683341b80.HT": {
+      "SourceFilename": "Sonja\\secure-resource-access-with-certificate-profiles.md",
+      "XliffHash": "4309b41f35ba74662a4e26c05c39c52683341b80",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\b807ecdbd132692dc022bfa5f7a9418d3a614dfb.432893b03a77d354b55722145d4892a88ce32a60.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\ios-mobile-app-provisioning-profiles.md.8fb5f1e7673affa5d19269c02ce6a70150ea1ee3.HT": {
+      "SourceFilename": "Sonja\\ios-mobile-app-provisioning-profiles.md",
+      "XliffHash": "8fb5f1e7673affa5d19269c02ce6a70150ea1ee3",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\77b318fc6670fbda59d0cdcac1b0661f6d910142.3cd7c0132e40b3f805acb25ae0bc0dc422ff0492.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\enable-lookout-mtp-connection-in-intune.md.27a19ac64ebe9a98436b8106ed209ebdf61a8c22.HT": {
+      "SourceFilename": "Sonja\\enable-lookout-mtp-connection-in-intune.md",
+      "XliffHash": "27a19ac64ebe9a98436b8106ed209ebdf61a8c22",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\4ae7d6c571f69c0cc51dc15355e50325afb88694.ddceb2de29d30f174adf0074a3141331e777cfb0.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\configure-and-deploy-lookout-for-work-apps.md.d2459381929a0ec4375b53b32320a1b5c49c31f6.HT": {
+      "SourceFilename": "Sonja\\configure-and-deploy-lookout-for-work-apps.md",
+      "XliffHash": "d2459381929a0ec4375b53b32320a1b5c49c31f6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\c43104ff199e1800bfded35154d2be0cfd0c40f3.42b627f262027ea760ea11af9b6a394734953d24.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\manage-apps-you-purchased-from-the-windows-store-for-business-with-microsoft-intune.md.ed449282d842c289a7c37a89c54e827fbed5bd4e.HT": {
+      "SourceFilename": "Sonja\\manage-apps-you-purchased-from-the-windows-store-for-business-with-microsoft-intune.md",
+      "XliffHash": "ed449282d842c289a7c37a89c54e827fbed5bd4e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\077029a962797a18fab27c3f1f5340eae6edfe04.7c7c97c39840b861d209eef4dc40a8a371741163.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\categorize-devices-with-device-group-mapping-in-microsoft-intune.md.7104754db5350677df12665be1ae153299e0feeb.HT": {
+      "SourceFilename": "Sonja\\categorize-devices-with-device-group-mapping-in-microsoft-intune.md",
+      "XliffHash": "7104754db5350677df12665be1ae153299e0feeb",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\ad63978de4b9fdcacc0046fc05202ac7d7e5edd6.c93d0558b9b666c7e540ea3877143f43aabad505.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\mobile-device-security-policy-settings-in-microsoft-intune.md.0b6cf8316fa81adda8a38fe1fb49567e7f576bbe.HT": {
+      "SourceFilename": "Sonja\\mobile-device-security-policy-settings-in-microsoft-intune.md",
+      "XliffHash": "0b6cf8316fa81adda8a38fe1fb49567e7f576bbe",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\04dec6046a54550070b4fec4622d134ec9ff94b3.8b7cc76caf94b9276aa4e07385185780d4bdad9e.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\specify-corporate-owned-devices-with-international-mobile-equipment-identity-imei-numbers.md.52faff5565a97f97ef8755338099ce661a5214b6.HT": {
+      "SourceFilename": "Sonja\\specify-corporate-owned-devices-with-international-mobile-equipment-identity-imei-numbers.md",
+      "XliffHash": "52faff5565a97f97ef8755338099ce661a5214b6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\09902b33cc63b991ec3de3b82860fa93d347f472.c2c84eb77b1f86fa9145abaccd500dee2f8052d9.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\set-up-your-subscription-with-lookout-mtp.md.cce97edda50074104ce933a4febbc32c445b18fa.HT": {
+      "SourceFilename": "Sonja\\set-up-your-subscription-with-lookout-mtp.md",
+      "XliffHash": "cce97edda50074104ce933a4febbc32c445b18fa",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\8e2c71127801afc21d52e08d13dd9099b263e801.569d0e608d44d5529b1a535c736edb079840eb52.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\understand-microsoft-intune-operations-by-using-reports.md.3de3863d6379a04a1552b249919c556be50fc48a.HT": {
+      "SourceFilename": "Sonja\\understand-microsoft-intune-operations-by-using-reports.md",
+      "XliffHash": "3de3863d6379a04a1552b249919c556be50fc48a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\c9df7eddbae77e64cc3b0fdf9ddc158ed2ed2860.7ca68b9f6a9d022252b54e2e87ac51803be5af45.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\use-remote-wipe-to-help-protect-data-using-microsoft-intune.md.73e3be3a286ed9596445f903e68603a3a5d80421.HT": {
+      "SourceFilename": "Sonja\\use-remote-wipe-to-help-protect-data-using-microsoft-intune.md",
+      "XliffHash": "73e3be3a286ed9596445f903e68603a3a5d80421",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\309f0701426d6ea22c2c9bd1c3a64393b95c4859.b3ce7bc9b6057fa917286fd8c6a2d952d4ebef57.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\windows-10-policy-settings-in-microsoft-intune.md.395e2a675b58ebc256513a7b19c82d82fbbeca45.HT": {
+      "SourceFilename": "Sonja\\windows-10-policy-settings-in-microsoft-intune.md",
+      "XliffHash": "395e2a675b58ebc256513a7b19c82d82fbbeca45",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\712883874f022ceb3f38473839fe0d6e4c373164.4227cc437bc2086604a78b23f60982536e364015.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\ios-mam-policy-settings.md.b5dc355b8a1bafe3d9ed06bb85c21897afaf197a.HT": {
+      "SourceFilename": "Sonja\\ios-mam-policy-settings.md",
+      "XliffHash": "b5dc355b8a1bafe3d9ed06bb85c21897afaf197a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\ba258bfb3140ffc79aa38ef2f46497346cdc6bfa.0364559289aba96c206c4dc6eef195c0d41cc39f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\android-mam-policy-settings.md.f0943a68817e06af69b89a79dc484a745d0e71bd.HT": {
+      "SourceFilename": "Sonja\\android-mam-policy-settings.md",
+      "XliffHash": "f0943a68817e06af69b89a79dc484a745d0e71bd",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\652f3aac9bd0925bd8e8718df04c0eb4b5629902.1fd05a74991c68d877321eca915a355a5485a2b9.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\decide-how-to-prepare-apps-for-mobile-application-management-with-microsoft-intune.md.bda04a1f139b459f6c1ac0592045986e306e771d.HT": {
+      "SourceFilename": "Sonja\\decide-how-to-prepare-apps-for-mobile-application-management-with-microsoft-intune.md",
+      "XliffHash": "bda04a1f139b459f6c1ac0592045986e306e771d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\0e5761859f4c0c30f1bd818c968bba3a3c6c60b6.7a04804cfd49f4e80d4cac8e9c7c8e0af200f4ce.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\what-to-tell-your-end-users-about-using-microsoft-intune.md.8d5ce89bf360504a619c5d0a8da948f09bcef11b.HT": {
+      "SourceFilename": "Sonja\\what-to-tell-your-end-users-about-using-microsoft-intune.md",
+      "XliffHash": "8d5ce89bf360504a619c5d0a8da948f09bcef11b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\2746f2021757ed335be7958f6e7d59b16a3d7649.f0bf8e8cdf81c5d39805656f0b463ace01688586.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\whats-coming-in-intune.md.113fe17ec6dfa8aaef856e4844fcee52cbb11114.HT": {
+      "SourceFilename": "Sonja\\whats-coming-in-intune.md",
+      "XliffHash": "113fe17ec6dfa8aaef856e4844fcee52cbb11114",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\0949172a7b8517b12fb46e8fd1f8a3cd70d93099.6b40f12a94408004898ac39926ae1d982db99b67.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\retire-devices-from-microsoft-intune-management.md.f8b5da54af8715172d656db529adca5b24a61f25.HT": {
+      "SourceFilename": "Sonja\\retire-devices-from-microsoft-intune-management.md",
+      "XliffHash": "f8b5da54af8715172d656db529adca5b24a61f25",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\93c8c07632c067fdb2eef221bc149fa7f6e9d495.92b2f9250f8b89e9d118f3f021abc14cff31b3f0.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\find-a-pfn-for-per-app-vpn.md.7c08636bf04c7c63d30c8ca49c1613502702fc0f.HT": {
+      "SourceFilename": "Sonja\\find-a-pfn-for-per-app-vpn.md",
+      "XliffHash": "7c08636bf04c7c63d30c8ca49c1613502702fc0f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\194e6e2b20c90cce5adcc684a4674e972d0cdc1b.61dbba5cd087512465fadb7af3501dda0cd8c0f9.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\restrict-access-to-dynamics-crm-online-with-microsoft-intune.md.a9ae857bf3477e26c4803a33945167ad1bf8c55d.HT": {
+      "SourceFilename": "Sonja\\restrict-access-to-dynamics-crm-online-with-microsoft-intune.md",
+      "XliffHash": "a9ae857bf3477e26c4803a33945167ad1bf8c55d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\875da922b311b06fa8a1eb8ba7207108684825d5.7d1ccebb3d2aabea845da54c2054641cef4c73ea.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\plan-your-user-and-device-groups.md.bfb0b95d3d16950836f4f84a276a86dc77a3ff40.HT": {
+      "SourceFilename": "Sonja\\plan-your-user-and-device-groups.md",
+      "XliffHash": "bfb0b95d3d16950836f4f84a276a86dc77a3ff40",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\9fc92c7724a9e1f256faa8b028bcf93e354e7997.83d747b229aa96f785774432f87cb0551ede488a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\use-remote-lock-and-passcode-reset-in-microsoft-intune.md.4690025a204db2c6d3a02cc0a4e81b6169b5bd85.HT": {
+      "SourceFilename": "Sonja\\use-remote-lock-and-passcode-reset-in-microsoft-intune.md",
+      "XliffHash": "4690025a204db2c6d3a02cc0a4e81b6169b5bd85",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\3a7c87d915abd6ef4090c1773af3e58b81366998.e8cb5b27d3d747abae6f4e2ac52449613aed154d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\Configure-Intune-certificate-profiles.md.f6664fa705d55ce2fd27d4701e16f3913429b79e.HT": {
+      "SourceFilename": "Sonja\\Configure-Intune-certificate-profiles.md",
+      "XliffHash": "f6664fa705d55ce2fd27d4701e16f3913429b79e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\e383b39493a7113d4e7c50b16df01d291b45036e.6b4066dad112a7864cd99415587b172b983e1068.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\windows-compliance-policy-settings-in-microsoft-intune.md.5c7a52c7af9b6fcf3db7cf7de4f87e56b401bce7.HT": {
+      "SourceFilename": "Sonja\\windows-compliance-policy-settings-in-microsoft-intune.md",
+      "XliffHash": "5c7a52c7af9b6fcf3db7cf7de4f87e56b401bce7",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\12239464012029e3ffff3a9bed4f4ccb2cebe633.494f4e5e915498e073bd87ef735b1708c5be4573.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\configure-access-to-corporate-email-using-email-profiles-with-microsoft-intune.md.1ecba73b61ea4927c544f46334639204fe1163dc.HT": {
+      "SourceFilename": "Sonja\\configure-access-to-corporate-email-using-email-profiles-with-microsoft-intune.md",
+      "XliffHash": "1ecba73b61ea4927c544f46334639204fe1163dc",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\629836ef006e1c33c240f9daa373817a685c14bc.f0ad039c22669e7a7608cbac76740acba742ecaf.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\manage-internet-access-using-managed-browser-policies.md.2610c190b50f07b98d556082af98d948c48740f7.HT": {
+      "SourceFilename": "Sonja\\manage-internet-access-using-managed-browser-policies.md",
+      "XliffHash": "2610c190b50f07b98d556082af98d948c48740f7",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\a8cf580a7df1d9c5240fc702107563bc965ce6ad.56d0f5fb50b1761312daa0583c82af80adc8e554.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\edition-upgrade-policy-settings-in-microsoft-intune.md.7bc50b4474826578dc56b2f3a2ee5435b8ed7f7a.HT": {
+      "SourceFilename": "Sonja\\edition-upgrade-policy-settings-in-microsoft-intune.md",
+      "XliffHash": "7bc50b4474826578dc56b2f3a2ee5435b8ed7f7a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\45130e3e12968d9df579a7a9d0cade0343b7c165.5dbe5758ea823fe6ddca0b7705b9292784137724.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\deploy-apps.md.040c5fe3d14c69ea18916c113e3ad53163a3b74e.HT": {
+      "SourceFilename": "Sonja\\deploy-apps.md",
+      "XliffHash": "040c5fe3d14c69ea18916c113e3ad53163a3b74e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\ef042e24af2300250cf2bd1bf9803678e252b773.1b1d8892364b9fb377a1b04a8a55451d80c39aa9.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\ios-compliance-policy-settings-in-microsoft-intune.md.d65e68017bca5eebb6974f25fe0fa413615c5aef.HT": {
+      "SourceFilename": "Sonja\\ios-compliance-policy-settings-in-microsoft-intune.md",
+      "XliffHash": "d65e68017bca5eebb6974f25fe0fa413615c5aef",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\a2f98bbd34cf8b0c86531ae6ff40b1044c15d8bd.799d99694dd01414931d3fa3f38ed5e2373ed445.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\wi-fi-connections-in-microsoft-intune.md.f4f6cb7424f6b79239467c428538684aeceaa87e.HT": {
+      "SourceFilename": "Sonja\\wi-fi-connections-in-microsoft-intune.md",
+      "XliffHash": "f4f6cb7424f6b79239467c428538684aeceaa87e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\5bad6dce377bcec66154ecbb4febe5316894402f.678d432b423560a3d8447fd7822322405e4bfbaa.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\keep-windows-pcs-up-to-date-with-software-updates-in-microsoft-intune.md.095095e196efe25c255362ee94c8b8232501573e.HT": {
+      "SourceFilename": "Sonja\\keep-windows-pcs-up-to-date-with-software-updates-in-microsoft-intune.md",
+      "XliffHash": "095095e196efe25c255362ee94c8b8232501573e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\e26786066b98adf187a6cf3ccbf172e919871f50.899648d0142bd45974469e4bbc1a63544eb7e34a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\configure-ios-apps-with-mobile-app-configuration-policies-in-microsoft-intune.md.5ccb5dc5e99d076c17589642e9a57bfc9fdb871a.HT": {
+      "SourceFilename": "Sonja\\configure-ios-apps-with-mobile-app-configuration-policies-in-microsoft-intune.md",
+      "XliffHash": "5ccb5dc5e99d076c17589642e9a57bfc9fdb871a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\c7fe00828108ac3f84e91a0eeb3ed4c344228588.9093c90048c9043f67a62d696c0146b58333206c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\android-policy-settings-in-microsoft-intune.md.6eb23e1212b30621b094632be6323171b9711e73.HT": {
+      "SourceFilename": "Sonja\\android-policy-settings-in-microsoft-intune.md",
+      "XliffHash": "6eb23e1212b30621b094632be6323171b9711e73",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\870d735644f08e3eca8c72bca2b156947d798cb5.95d72cf5fb6644ea9eb42d04083cef2ebdcb1a0f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\manage-data-transfer-between-ios-apps-with-microsoft-intune.md.00130e65eda0359d8a47478d9062cccb9d280a75.HT": {
+      "SourceFilename": "Sonja\\manage-data-transfer-between-ios-apps-with-microsoft-intune.md",
+      "XliffHash": "00130e65eda0359d8a47478d9062cccb9d280a75",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\1d212dddc1d5665b7badf6cc27b41e012f74d96c.64c48deb503e6a6cac9a1ea24c60c97952930832.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\renew-a-symantec-code-signing-certificate.md.9588c03c3c7a3741100853c766257b7ec3736373.HT": {
+      "SourceFilename": "Sonja\\renew-a-symantec-code-signing-certificate.md",
+      "XliffHash": "9588c03c3c7a3741100853c766257b7ec3736373",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\afb669f1e867b386bfb5a80bbb4a665be7b71478.706715869e280e92f13e20e627c6580cb100720f.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\introduction-to-device-compliance-policies-in-microsoft-intune.md.43793752d2d1fb697c956b0b0cff1ae9651b31e4.HT": {
+      "SourceFilename": "Sonja\\introduction-to-device-compliance-policies-in-microsoft-intune.md",
+      "XliffHash": "43793752d2d1fb697c956b0b0cff1ae9651b31e4",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\476f44df54fbea5c0fcfe8cf0e3ce4a61bd7c0a0.bcde458db17093b71ac3f99d94c23ebf2820fe47.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\Release-notes-for-Microsoft-Intune.md.853f3ad38a56ea090bc69d71105b477694a6371a.HT": {
+      "SourceFilename": "Sonja\\Release-notes-for-Microsoft-Intune.md",
+      "XliffHash": "853f3ad38a56ea090bc69d71105b477694a6371a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\ad95830b37d3b83554b64d2f82fa537e603190d6.d83f2f41376ba6fc41d7ecf3b2d6dac504101b1b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\migrate-to-intune.md.c6b260f82f39cf08eb29ea6e2c48d69d222c662b.HT": {
+      "SourceFilename": "Sonja\\migrate-to-intune.md",
+      "XliffHash": "c6b260f82f39cf08eb29ea6e2c48d69d222c662b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\b2e4e606327a452a49cd2066a13e030db808836c.95140c8b2819aa3deae99ef61e72464ac7ded103.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\subscription-might-include-downloadable-software.md.f2413f2c945db15a9b44c87a509ea4ef62ba0662.HT": {
+      "SourceFilename": "Sonja\\subscription-might-include-downloadable-software.md",
+      "XliffHash": "f2413f2c945db15a9b44c87a509ea4ef62ba0662",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\912878619cf2573e0678634d8a8a49b34b79f498.ab35de289a93081ea12de06d60b7258d6f3d8672.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\create-and-deploy-mobile-app-management-policies-with-microsoft-intune.md.0040bc0c22bd5898b433d16e9ca7fcbeb43de0f1.HT": {
+      "SourceFilename": "Sonja\\create-and-deploy-mobile-app-management-policies-with-microsoft-intune.md",
+      "XliffHash": "0040bc0c22bd5898b433d16e9ca7fcbeb43de0f1",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\686610249b35f81e9ad7a87fe20d736a32eafb43.f2f51c0b2d6518796b194cb2b875e4feb9a09dd3.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\per-app-vpn-for-android-pulse-secure.md.56732ca3a7f43618096ad722b982064cf84395cb.HT": {
+      "SourceFilename": "Sonja\\per-app-vpn-for-android-pulse-secure.md",
+      "XliffHash": "56732ca3a7f43618096ad722b982064cf84395cb",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\743e6734e36c6f9bcfa1a594f46356b96fe0a77e.53cd67e80ee4f0eff356d2f8d36cf775e1bfc433.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\overview-of-the-microsoft-intune-app-sdk.md.f0e66d5dcaaeb0c6c687dfabbbf8666b93c44903.HT": {
+      "SourceFilename": "Sonja\\overview-of-the-microsoft-intune-app-sdk.md",
+      "XliffHash": "f0e66d5dcaaeb0c6c687dfabbbf8666b93c44903",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\4d5e10ecc50387350eb7f1746603b7b7602190a4.fc32aaa11f3c996c92377436f1e4ece48abc825e.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\intune-service-to-service-exchange-connector.md.e924f61c1e92799b1003b3a37bc5d02b444d89e0.HT": {
+      "SourceFilename": "Sonja\\intune-service-to-service-exchange-connector.md",
+      "XliffHash": "e924f61c1e92799b1003b3a37bc5d02b444d89e0",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\1aabf820170483eacc83bec5e2b275e84dc07ffd.745f54592e23c3e2b3ce67901afee023344d19c9.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\get-notified-by-alerts.md.394c5b488bc3b92a2565eac0642680cf8c863533.HT": {
+      "SourceFilename": "Sonja\\get-notified-by-alerts.md",
+      "XliffHash": "394c5b488bc3b92a2565eac0642680cf8c863533",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\da881ccb5ed26fbec77e1964ff85f7adccb48d53.245800f7c965143e6d9fd398e3039ff4db2aaa4d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\set-up-ios-and-mac-management-with-microsoft-intune.md.60df4152ae34229f278c98a58f14f29b862e3fb4.HT": {
+      "SourceFilename": "Sonja\\set-up-ios-and-mac-management-with-microsoft-intune.md",
+      "XliffHash": "60df4152ae34229f278c98a58f14f29b862e3fb4",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\566a1bbf353921257b4ab7c7c0b73aac987c2085.1d8ff12e8e55837494d57a4bf1f4012bf1489d25.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\enable-access-to-company-resources-with-microsoft-intune.md.99c8780ea60643b595cc0322216fbd0c2893e074.HT": {
+      "SourceFilename": "Sonja\\enable-access-to-company-resources-with-microsoft-intune.md",
+      "XliffHash": "99c8780ea60643b595cc0322216fbd0c2893e074",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\e5ae5a1d5cb077b88fa73cd2b58cd84144e4a9d3.ae9a78fbe3f8d9eca0a264517c00b6149181c4da.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\custom-policy-to-allow-and-block-samsung-knox-apps.md.8fd32c584bcde6ea7f701a62146f813102ead55b.HT": {
+      "SourceFilename": "Sonja\\custom-policy-to-allow-and-block-samsung-knox-apps.md",
+      "XliffHash": "8fd32c584bcde6ea7f701a62146f813102ead55b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\937e291f193f61329598395baa63c24d7fefa25f.301149996b6e88715f454618a49dea7c77922fc8.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\whats-new-in-microsoft-intune.md.9f759117d00b6aace71195e83b03841c22f21546.HT": {
+      "SourceFilename": "Sonja\\whats-new-in-microsoft-intune.md",
+      "XliffHash": "9f759117d00b6aace71195e83b03841c22f21546",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\1d09e5a0adb3ecfa8f2d64f668ea7ff16bdf31fa.c7ef3f1efb79520051bae13da974c1cec060ea75.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\ios-device-enrollment-program-in-microsoft-intune.md.14abde0d682e6b15a082ab913aa995c964035bd6.HT": {
+      "SourceFilename": "Sonja\\ios-device-enrollment-program-in-microsoft-intune.md",
+      "XliffHash": "14abde0d682e6b15a082ab913aa995c964035bd6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\fa02292c2cd6a8b627428752d97cf8a04dcc19b0.ef8128f75c75ef65331631b0c684c7b70b8e8678.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\android-compliance-policy-settings-in-microsoft-intune.md.b5f11d429084cb66fff300457fcd2321c75b49b2.HT": {
+      "SourceFilename": "Sonja\\android-compliance-policy-settings-in-microsoft-intune.md",
+      "XliffHash": "b5f11d429084cb66fff300457fcd2321c75b49b2",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\cf1fde5b5ed55552e573c724b6165203033683da.3d6fdce41a3b2046d6ac8cdce22481d1805a4656.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\ios-direct-enrollment-in-microsoft-intune.md.ca074791dc6309387a27732bede6f2470d3cb7af.HT": {
+      "SourceFilename": "Sonja\\ios-direct-enrollment-in-microsoft-intune.md",
+      "XliffHash": "ca074791dc6309387a27732bede6f2470d3cb7af",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\17836bc826bc89e3f041f7b369be09c1cce9ea4f.e140302c3df279d2fe41eff9cb857b3412d9bdd3.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\protect-apps-and-data-with-microsoft-intune.md.c2607bb2b64ad36259a1c33518cc844d26bfedc8.HT": {
+      "SourceFilename": "Sonja\\protect-apps-and-data-with-microsoft-intune.md",
+      "XliffHash": "c2607bb2b64ad36259a1c33518cc844d26bfedc8",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\4f2127f50750f5b483bd5d9fa2bed31a63b9d65f.54e45e4b376fd543e3202f29dbc2c97143b661cd.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\prerequisites-for-enrollment.md.e315f25a81d5b0f668882754316b18c0177e4c46.HT": {
+      "SourceFilename": "Sonja\\prerequisites-for-enrollment.md",
+      "XliffHash": "e315f25a81d5b0f668882754316b18c0177e4c46",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\5e94e4efa5a3ecb055ce416c3ee8dd21e56bad65.6e7272874fe7f36e00332e65d6650a4749519048.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\get-ready-to-enroll-devices-in-microsoft-intune.md.977a6f24f7d8eb75fae9178f09abc89190780966.HT": {
+      "SourceFilename": "Sonja\\get-ready-to-enroll-devices-in-microsoft-intune.md",
+      "XliffHash": "977a6f24f7d8eb75fae9178f09abc89190780966",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\3a58e11c78c25fb2b34c581f3605cbf51e6c1143.5991dd1a732042b597ee43d52524ce9ba435289d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\whats-new-archive.md.af1c149c1683d707ed350d96c54090f1a47b47cf.HT": {
+      "SourceFilename": "Sonja\\whats-new-archive.md",
+      "XliffHash": "af1c149c1683d707ed350d96c54090f1a47b47cf",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\3e5ca7345aef574446d437bac25bffc0c3414c68.0c035576391ac550225bf4dbe990623660cd521b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\set-up-android-management-with-microsoft-intune.md.49b02a9d9455667b294745612f7b8b34eda92e8d.HT": {
+      "SourceFilename": "Sonja\\set-up-android-management-with-microsoft-intune.md",
+      "XliffHash": "49b02a9d9455667b294745612f7b8b34eda92e8d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\7a2721fc5d53ab4398fe9b69cc561d85d2c09426.5308e7bde3e50ed3c0dfaf57d46ab60b4c5e00f2.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\windows-team-configuration-policy-settings-in-microsoft-intune.md.0aaf3886f2829995680bdb3d5d70aca693bc892b.HT": {
+      "SourceFilename": "Sonja\\windows-team-configuration-policy-settings-in-microsoft-intune.md",
+      "XliffHash": "0aaf3886f2829995680bdb3d5d70aca693bc892b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\a8a6e72468cfabf316cb15b5926841e5308325d5.a06f90aa0bfabda51d02cf547dcc3d357d4d9423.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\end-user-experience-for-mam-enabled-apps-with-microsoft-intune.md.c2cf41290e3fcd0b151dade4b1e26b68e51e469f.HT": {
+      "SourceFilename": "Sonja\\end-user-experience-for-mam-enabled-apps-with-microsoft-intune.md",
+      "XliffHash": "c2cf41290e3fcd0b151dade4b1e26b68e51e469f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\48783b21c64c9031b0fbbd58afb8aa0eb911ed6b.03dac06950d56591245553a680747bf4d01fb6aa.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\resolve-gpo-and-microsoft-intune-policy-conflicts.md.3ee5489f80211456f6f8b4c7cdc15be2afc3c7bb.HT": {
+      "SourceFilename": "Sonja\\resolve-gpo-and-microsoft-intune-policy-conflicts.md",
+      "XliffHash": "3ee5489f80211456f6f8b4c7cdc15be2afc3c7bb",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\286f159e57820a8c8723004c167ae7296626894c.fe953e72ece4b9b4d6ce087542b545e7c1030bca.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "Sonja\\add-apps-for-windows-pcs-in-microsoft-intune.md.33d866be56068d7b92488aeca4fb2c13b95ee849.HT": {
+      "SourceFilename": "Sonja\\add-apps-for-windows-pcs-in-microsoft-intune.md",
+      "XliffHash": "33d866be56068d7b92488aeca4fb2c13b95ee849",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\33ef6a417c38ab04095afc8fb7573ea92253f229.e981925e0d95b6bfec3b201f7dbeeb3d76150c11.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "ATADocsTest\\modifying-ata-config-centercert.md.8ce5c7ec94220e0f02f61d6bd33d5839b0ace29d.HT": {
+      "SourceFilename": "ATADocsTest\\modifying-ata-config-centercert.md",
+      "XliffHash": "8ce5c7ec94220e0f02f61d6bd33d5839b0ace29d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\880403aa83c470eac15c92a2ec25897a471700f3.8e3262c2ecb303c4e91688468af676657cc78c93.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\modifying-ata-config-centercert.a3794519c4963b0a3d3c6a0ea0d34236a8b1a517.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\install-ata-step2.md.41ea9b9841f1f7095f59b5a2180632acf2130c6e.HT": {
+      "SourceFilename": "ATADocsTest\\install-ata-step2.md",
+      "XliffHash": "41ea9b9841f1f7095f59b5a2180632acf2130c6e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\de6ea38e89f37364320c250722f7b96781b1629f.be45b700b580439adad3c3b2b842c12cafa11c6f.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\install-ata-step2.0bcbba271861fb8796c1ecfecaaa015d5b98c4a9.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\ata-update-1.6-migration-guide.md.2f0363f0726dc6089451d5c8eb14619c8f0d31f6.HT": {
+      "SourceFilename": "ATADocsTest\\ata-update-1.6-migration-guide.md",
+      "XliffHash": "2f0363f0726dc6089451d5c8eb14619c8f0d31f6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\cfe7756144a7d9a6a9f225048df620cfe55b4b81.417ca4b0adee355970fa42a327e74cf6ecbabffb.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "ATADocsTest\\modifying-ata-config-centerip.md.eec31ab4c6419bc70a87141fe2cf391c8526ae82.HT": {
+      "SourceFilename": "ATADocsTest\\modifying-ata-config-centerip.md",
+      "XliffHash": "eec31ab4c6419bc70a87141fe2cf391c8526ae82",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\137e5feb9e36046193acaf81e7e493a3850a750e.ea2751eac3fcb9233d29f7b5265cc9c11e49a9c0.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\modifying-ata-config-centerip.66281697913a143125c71044afca9f1e3059f432.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\troubleshooting-ata-using-ata-database.md.7105c762f182cd8ef69562ac46d0b8badcc142be.HT": {
+      "SourceFilename": "ATADocsTest\\troubleshooting-ata-using-ata-database.md",
+      "XliffHash": "7105c762f182cd8ef69562ac46d0b8badcc142be",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\aac9d5e74c540c7b28d94235966b06be992153e3.95b9a52ea3cebc6201877ad6321fcd5caf9685b5.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "ATADocsTest\\ata-threats.md.b3630f9cc41efb9952971dbf9df9315e2556b823.HT": {
+      "SourceFilename": "ATADocsTest\\ata-threats.md",
+      "XliffHash": "b3630f9cc41efb9952971dbf9df9315e2556b823",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\f260740089794b024554d64eeb43477cc1a183d9.0549f5e3037cf923142a97c23840cdfa2ee262c6.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "ATADocsTest\\whats-new-version-1.7.md.da0871aeca126fc2fa77343afe573283a733fd8c.HT": {
+      "SourceFilename": "ATADocsTest\\whats-new-version-1.7.md",
+      "XliffHash": "da0871aeca126fc2fa77343afe573283a733fd8c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\2b1b8f2c41a9b07992ebcafc8c2daeccf6738ead.bf01caa42d9146d99d47e1cb57777e0894150ae4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "ATADocsTest\\install-ata.md.4808fbccfcd88e48b6c9b04cef72eb29c7dfb420.HT": {
+      "SourceFilename": "ATADocsTest\\install-ata.md",
+      "XliffHash": "4808fbccfcd88e48b6c9b04cef72eb29c7dfb420",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\3cfc426c089bbf859d0eb603d6a5373e23602c3b.ec704cd6c0dff55737e48ae9305dc360c3227e43.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\install-ata.79213d339f7d09c52d7ee42a4079111371a162ec.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\whats-new-version-1.4.md.b3f91dc04a3769087c8662c3b0fd3faeaecd7e93.HT": {
+      "SourceFilename": "ATADocsTest\\whats-new-version-1.4.md",
+      "XliffHash": "b3f91dc04a3769087c8662c3b0fd3faeaecd7e93",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\c3ce91d8d53105e8dae6c437596d6c2b8326f253.45353de44ccb5f22e2736c9dbdc87f803588357c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "ATADocsTest\\ata-silent-installation.md.5bfc98bf58f036392bece63bd33fd2b79d879ce0.HT": {
+      "SourceFilename": "ATADocsTest\\ata-silent-installation.md",
+      "XliffHash": "5bfc98bf58f036392bece63bd33fd2b79d879ce0",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\60c22df4e152a452471d2067cbcda32d739e4497.5f4443ef2af1ff5e157857acc9621280e2ed225f.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\ata-silent-installation.c21d79dadc2aeb9cb672ecd5a714bd9d02ceb1eb.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\modifying-ata-configuration.md.05f518c61cf7ce7bfc156218533214e345088bbe.HT": {
+      "SourceFilename": "ATADocsTest\\modifying-ata-configuration.md",
+      "XliffHash": "05f518c61cf7ce7bfc156218533214e345088bbe",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\ed5d084509d718c83b93427000582be54241366e.db69d1019f4f727d78e6de490f1f76a08fc06352.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\modifying-ata-configuration.913bffe9c41049c1524e4453e9702e9488494840.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\ata-database-management.md.c114fa98e66cb21a542d1649a17e731e820909df.HT": {
+      "SourceFilename": "ATADocsTest\\ata-database-management.md",
+      "XliffHash": "c114fa98e66cb21a542d1649a17e731e820909df",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\a6de5f463da5906910470ca54c9bceb4e2954ba8.2c58f5e6774b8a407e3d7e3188230dcc54102dc1.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\ata-database-management.6dd604b4a70dc0b56e48604a3966d35c2a9d52d8.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\troubleshooting-ata-using-perf-counters.md.eaa76dcbb4d47ea1783ebb9598be302d184be228.HT": {
+      "SourceFilename": "ATADocsTest\\troubleshooting-ata-using-perf-counters.md",
+      "XliffHash": "eaa76dcbb4d47ea1783ebb9598be302d184be228",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\75646ac1e1c6c11769510119045cd3b20fd01818.772570866d6f5c4d6033d6701b459a4d408423f6.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "ATADocsTest\\troubleshooting-ata-known-errors.md.26a18039f76e8775cb69ddb0e45e1656bbcac09e.HT": {
+      "SourceFilename": "ATADocsTest\\troubleshooting-ata-known-errors.md",
+      "XliffHash": "26a18039f76e8775cb69ddb0e45e1656bbcac09e",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\82e79752689029abd1319aedd1a4b1370e9321bd.c747d4af60683b0eba876ccd702dff954432c32d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "ATADocsTest\\configure-event-collection.md.ab701fc921bd3592bd0ab239eb70db438d32d730.HT": {
+      "SourceFilename": "ATADocsTest\\configure-event-collection.md",
+      "XliffHash": "ab701fc921bd3592bd0ab239eb70db438d32d730",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\691c336ddaccfa6ec4e569e74eb799f56f1b5732.194884de8094a5e00e3b48b342788420a4e6fa24.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\configure-event-collection.b15fde28da4ecd52e8efe20121494f14cc5a9aab.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\install-ata-step3.md.2fc0f23203689afd8bc51e49bacaf779675e71cf.HT": {
+      "SourceFilename": "ATADocsTest\\install-ata-step3.md",
+      "XliffHash": "2fc0f23203689afd8bc51e49bacaf779675e71cf",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\c39a9ca7698b6e59529d6fe630866469a843f6ff.39e1ad1e131faee9849e5078d360a74d66b20ab1.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\install-ata-step3.15f95f78f6d1861e775ba85017323db5eed45b47.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\install-ata-step4.md.239541cdbe8216a7b5940d315377fe58012202cd.HT": {
+      "SourceFilename": "ATADocsTest\\install-ata-step4.md",
+      "XliffHash": "239541cdbe8216a7b5940d315377fe58012202cd",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\0c61b2b322e3b91dcb02f0f400ce94c6d232fb89.679131b6208224d4d83d00a63839b6c6716930c9.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\install-ata-step4.9b8310b6f942532cb0eae8f89d18f87dd292a93a.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\what-is-ata.md.a6e75e171f30d7e08bbc566d70ef990f17c2b65d.HT": {
+      "SourceFilename": "ATADocsTest\\what-is-ata.md",
+      "XliffHash": "a6e75e171f30d7e08bbc566d70ef990f17c2b65d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\c83ab31ead73015aa95bf2f252d0a706def0fbab.2fa0b5f5fecaaed16d658427c2ea37a41d008c91.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "ATADocsTest\\install-ata-step5.md.8927cb1c88296f083ae021b63123725fc3001366.HT": {
+      "SourceFilename": "ATADocsTest\\install-ata-step5.md",
+      "XliffHash": "8927cb1c88296f083ae021b63123725fc3001366",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\25989a6f75058cbd919b12a3e7c05771b164887d.d843573ef703ee25330a268480b4b071060c95b8.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\install-ata-step5.2e0b20eaeebaddf1ea772e433c2469c06e60fa47.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\working-with-suspicious-activities.md.3e9f2b28495c1ac76f754e601e4fa4e871462b36.HT": {
+      "SourceFilename": "ATADocsTest\\working-with-suspicious-activities.md",
+      "XliffHash": "3e9f2b28495c1ac76f754e601e4fa4e871462b36",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\6d488e9956c3ce6f130f00dc3c439fc2c6d460a3.0d9fc531cb9a294dda349526ef1f5dd85216b7ac.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\working-with-suspicious-activities.e4d98f833f7eb92f392ad3f1fd64af848711608e.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\modifying-ata-config-consoleurl.md.9aedb254403e3bf8b9dfda3c92e706fe921ad7bd.HT": {
+      "SourceFilename": "ATADocsTest\\modifying-ata-config-consoleurl.md",
+      "XliffHash": "9aedb254403e3bf8b9dfda3c92e706fe921ad7bd",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\80ef404fcbea9bd1deea509e3fbb78b2928054a7.0a6bb52902f5c1c095125cfca14bcc038a03ac1d.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\modifying-ata-config-consoleurl.c5072e0f57162021212704e27eb0f71177530369.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\validate-port-mirroring.md.1b512b4ff6fb1eaf034ab9b740004ac8a514b19a.HT": {
+      "SourceFilename": "ATADocsTest\\validate-port-mirroring.md",
+      "XliffHash": "1b512b4ff6fb1eaf034ab9b740004ac8a514b19a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\ea660dbcdf27df63717258136b01e4ba0118542d.0cb7ffd8d1e01ce2dc83216dfd96c7ddd02a99a9.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\validate-port-mirroring.23bb5db71fbfad2f150e582d1539ebfdd600e411.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\setting-syslog-email-server-settings.md.f9fb32cc51a7bef31f9a08b264c75aba07e446ad.HT": {
+      "SourceFilename": "ATADocsTest\\setting-syslog-email-server-settings.md",
+      "XliffHash": "f9fb32cc51a7bef31f9a08b264c75aba07e446ad",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\a76874be9009cc6ea0880e6dc79ae69369591943.b1a020fb2badc31d2a0371fd4f40f6855b661009.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\setting-syslog-email-server-settings.5d1181638ecf9f4284c6e9d09806df8737abb579.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\install-ata-step1.md.4106245443f3917f740e6519a997a24cbf6a90a4.HT": {
+      "SourceFilename": "ATADocsTest\\install-ata-step1.md",
+      "XliffHash": "4106245443f3917f740e6519a997a24cbf6a90a4",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\80256eee6e1f7ca899a07d6475836c0e53ef4263.9492748fbc18c5598c3a9eb14dd6f7a000af4481.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\install-ata-step1.f79b5a735f5280163477264dac29b70c738d30b7.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\whats-new-version-1.6.md.5a87afbc54f81b52c28c4943892f8256d77ff973.HT": {
+      "SourceFilename": "ATADocsTest\\whats-new-version-1.6.md",
+      "XliffHash": "5a87afbc54f81b52c28c4943892f8256d77ff973",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\a2b431308e80dd85e93436a97429f194ae833d27.601dc4c974839c23f58b11c41da8835cef753d9c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "ATADocsTest\\troubleshooting-ata-using-logs.md.e139efd359be2787cb2026b5bd5de85db69ccd1d.HT": {
+      "SourceFilename": "ATADocsTest\\troubleshooting-ata-using-logs.md",
+      "XliffHash": "e139efd359be2787cb2026b5bd5de85db69ccd1d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\7b8805d39c588dc6f680f334af9372a6ed2fec46.1a88d3e141e8ff26e79c08a1f13d559cdf142bc4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "ATADocsTest\\ata-update-1.5-migration-guide.md.c996a47d82aad3c3db8ea49e12dd89c2685e17c4.HT": {
+      "SourceFilename": "ATADocsTest\\ata-update-1.5-migration-guide.md",
+      "XliffHash": "c996a47d82aad3c3db8ea49e12dd89c2685e17c4",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\0ef0b75bc59206390657bdfb923c8462f8a6b786.0bbfb6945fa8291185519bd6b6392a4841a1d393.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "ATADocsTest\\configure-port-mirroring.md.ba72ba94e0ea39a9ff8151cfda67ef4c5f72b434.HT": {
+      "SourceFilename": "ATADocsTest\\configure-port-mirroring.md",
+      "XliffHash": "ba72ba94e0ea39a9ff8151cfda67ef4c5f72b434",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\9e2f383153bffe521b776962d4be5cb7b0b12066.3e7195e305b0bce67f006d91e1a7414ead5d1eaf.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\configure-port-mirroring.f95fb64130b85d357a6a59f9258c39a8d45332d4.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\ata-architecture.md.bcc43380229001b34158ff57d0dc1ecda15fb0d6.HT": {
+      "SourceFilename": "ATADocsTest\\ata-architecture.md",
+      "XliffHash": "bcc43380229001b34158ff57d0dc1ecda15fb0d6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\a9ddb1ddcf96b6e5d6c79ef33df841c8bd54a771.bbbc3bd5307aff2013bda642e468f2da300fa4b7.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\ata-architecture.094f2f3986acf14ccb0db5d6a8487481285a4b9b.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\setting-ata-alerts.md.1e209b1c543b551d2bb4087743d1fe3128bc51a7.HT": {
+      "SourceFilename": "ATADocsTest\\setting-ata-alerts.md",
+      "XliffHash": "1e209b1c543b551d2bb4087743d1fe3128bc51a7",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\7568c15906fbdcc2c861cb45d72a49ca6eebe8e3.00dfc17657da01efaf0ac2e4ec6c23904195fab0.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\setting-ata-alerts.cb04b3c278e75342b07640ea1111a3269595561b.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\install-ata-step6.md.6a6ebfa0d87e5e45d8d0892b25e98b5987d6f082.HT": {
+      "SourceFilename": "ATADocsTest\\install-ata-step6.md",
+      "XliffHash": "6a6ebfa0d87e5e45d8d0892b25e98b5987d6f082",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\58135cf04e740998fb837bfbb03a68faeaaf79ed.aa8d900e82d29988cab58feea560ade5ceb40aed.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\install-ata-step6.337f8303064ad49215aa14acf004468072f87362.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\ata-technical-faq.md.e2f78b5a81b6e7b206034bc84f634eb8131f0846.HT": {
+      "SourceFilename": "ATADocsTest\\ata-technical-faq.md",
+      "XliffHash": "e2f78b5a81b6e7b206034bc84f634eb8131f0846",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\97a1ceae8453bfd305efeae7cc4760282c962c4c.c349b747253cc9b4a1114d1c505bc05281163939.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "ATADocsTest\\ata-update-1.7-migration-guide.md.1c05829e05460cecfb87b8e48a6e1e000a3db1a2.HT": {
+      "SourceFilename": "ATADocsTest\\ata-update-1.7-migration-guide.md",
+      "XliffHash": "1c05829e05460cecfb87b8e48a6e1e000a3db1a2",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\cf22e9bd54699344c478ab4d169220c93e053f5b.372586beb68070a2a7e2f913d472c6871ef1677c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "ATADocsTest\\placeholder.md.e0e513d79dac5f63e9d6c96a6655067d63daf667.HT": {
+      "SourceFilename": "ATADocsTest\\placeholder.md",
+      "XliffHash": "e0e513d79dac5f63e9d6c96a6655067d63daf667",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\b40ffb0a1f8991f40d4f70f8053f2b97323aacdb.967e589c4d9ff647aa30f91b3b9311bbf82b537d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "ATADocsTest\\modifying-ata-config-dcpassword.md.c9f7074fbcb86271da1a1dd27fba3988d8c4f585.HT": {
+      "SourceFilename": "ATADocsTest\\modifying-ata-config-dcpassword.md",
+      "XliffHash": "c9f7074fbcb86271da1a1dd27fba3988d8c4f585",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\ab209972f0870d05f4e0645c1ab8a4571696d812.ab846dde900d8850fd2e868374c827f917c8f2c5.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\modifying-ata-config-dcpassword.e3fc12327d812a7d49e351bd13005f46d5c0178d.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\TOC.md.aaf1eeace83d27c3e4706c0d4cad38f80b9efecc.HT": {
+      "SourceFilename": "ATADocsTest\\TOC.md",
+      "XliffHash": "aaf1eeace83d27c3e4706c0d4cad38f80b9efecc",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\24b9e0d9bde0e8d7ff9e85f132134c52861b500c.e1ac7de01741e74a9ac121fd0b783d2219c1c475.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "ATADocsTest\\index.md.98f5f68f44e9459a93a1d891eec53cbba182f6e5.HT": {
+      "SourceFilename": "ATADocsTest\\index.md",
+      "XliffHash": "98f5f68f44e9459a93a1d891eec53cbba182f6e5",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\a05f2536897cd7d9e3534c0c58165817e0138d45.37edbdec833208e3585a83be5631af2769901e6b.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "ATADocsTest\\working-with-ata-console.md.eb76ff4d02992d12a40bdb384583422fe15c3700.HT": {
+      "SourceFilename": "ATADocsTest\\working-with-ata-console.md",
+      "XliffHash": "eb76ff4d02992d12a40bdb384583422fe15c3700",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\78430b2743930ec6c5ea66e8ed9eedbd22324870.249c7a809ba48bca6d5437902c7c55a6b8e5f37d.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\working-with-ata-console.da3c92775323ebb728b29d8fbfa7067ac856263d.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\ata-prerequisites.md.34dd19d9267d832ceebc533da0064f4cad56d27b.HT": {
+      "SourceFilename": "ATADocsTest\\ata-prerequisites.md",
+      "XliffHash": "34dd19d9267d832ceebc533da0064f4cad56d27b",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\4e4c455f09d5f14e48bcd84c33f375dce325d60b.54e54b3eacf9e4638e74285cd7122cd7d4f3e3ca.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\ata-prerequisites.40b0061f2020c7c26b3ad48c1026edd8fe0a2ae0.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\ata-capacity-planning.md.32d858831c709aac39e8402c07ed49ad60261ff4.HT": {
+      "SourceFilename": "ATADocsTest\\ata-capacity-planning.md",
+      "XliffHash": "32d858831c709aac39e8402c07ed49ad60261ff4",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\81fb50ee2e1d4841e391a1a0c6f4d3aa02c02618.30449364b0ce625587f69d2dad10c9f35983d85a.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\ata-capacity-planning.8c719909b7dbdd623c3922f7e16155acd3cc4d54.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\whats-new-version-1.5.md.e89bef6184eaf3a4be3d979a92ab4ee37963a5f2.HT": {
+      "SourceFilename": "ATADocsTest\\whats-new-version-1.5.md",
+      "XliffHash": "e89bef6184eaf3a4be3d979a92ab4ee37963a5f2",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\6f443269d36d97fb5f7dae51f6a58890b64e2105.608d52f0aa4d57b75c9f2fa8be83c941a81db8cc.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "ATADocsTest\\operate-ata.md.0a85bb7e38038d55f7302b8ee368dc7ed3a96912.HT": {
+      "SourceFilename": "ATADocsTest\\operate-ata.md",
+      "XliffHash": "0a85bb7e38038d55f7302b8ee368dc7ed3a96912",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\36d0690d47544db542666f785d43ee2a1e7d98d7.0c2db689581594a2728e3b3b255c6a556dd05ff2.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\operate-ata.31c44548c07c96a6a987eaefc3f51f629c991062.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\ata-release-notes.md.e73edfe76e59d3f6215f5cc5b485baefa09c6587.HT": {
+      "SourceFilename": "ATADocsTest\\ata-release-notes.md",
+      "XliffHash": "e73edfe76e59d3f6215f5cc5b485baefa09c6587",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\b61fda76181a72287d3290dc093732d35164ed96.369bc880e07285099da10ac09c976a4bc1f90c96.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "ATADocsTest\\preinstall-ata.md.28b4fe41f8779c31ee0c0fc4109dd946412756fc.HT": {
+      "SourceFilename": "ATADocsTest\\preinstall-ata.md",
+      "XliffHash": "28b4fe41f8779c31ee0c0fc4109dd946412756fc",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\a61d9b776eab87a4005c2b0ad4f33d1f17470fee.87ba1ad7b69ccd0baac41e2528f142c57d45038c.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\preinstall-ata.82c43621ba374d514acfdd2182a3f567f9560190.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\working-with-detection-settings.md.ff09e53bdf3a07225cdd002ee933d4ee1122790d.HT": {
+      "SourceFilename": "ATADocsTest\\working-with-detection-settings.md",
+      "XliffHash": "ff09e53bdf3a07225cdd002ee933d4ee1122790d",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\f53ed05e169391b0049b4d108177297e99909113.b5a78fc8b590720d3bbb58b2b4fc8d35206cba8b.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\working-with-detection-settings.9cb0d034c53af711aee56a90b61d7a0eba27bda8.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\ata-role-groups.md.da507b84e14a2a6862504d2d2ab5253a219e9654.HT": {
+      "SourceFilename": "ATADocsTest\\ata-role-groups.md",
+      "XliffHash": "da507b84e14a2a6862504d2d2ab5253a219e9654",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\d4b8e27b2d120d8b01289af1acd903f12f5cc019.e262dbf12c683cc3793cbb3879d077387f454ed5.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\ata-role-groups.6d703eb1274b41043e1588bda8ddf7feaef3245b.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\manage-telemetry-settings.md.f9c6a2b0cb90dd5d77a7ee74537851ab870a82bd.HT": {
+      "SourceFilename": "ATADocsTest\\manage-telemetry-settings.md",
+      "XliffHash": "f9c6a2b0cb90dd5d77a7ee74537851ab870a82bd",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\18556032aa7ec7a0f5ae25f1504b31d024f5b52b.789c926a2b6dc3eb14e9be54f8f128a5535a3b0a.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\manage-telemetry-settings.f7dd1fcb34873c01abd62bef3b7776f8ded36b27.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    },
+    "ATADocsTest\\ata-health-center.md.4b782590a8ddf66da4c2727047191effda8c2960.HT": {
+      "SourceFilename": "ATADocsTest\\ata-health-center.md",
+      "XliffHash": "4b782590a8ddf66da4c2727047191effda8c2960",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\2829b11b9d43ad933d08262159f8202bc4cc924d.fb2e0a69a084e6366f70e88ed190d5403c180cd3.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\ata-health-center.ad1932b01e15b4f723688aa87ea0d4ec471093b3.de-de.xlf",
+      "LocXliffCommit": "f06139dbc99f023b329153198e4f1e17f80ebf2c"
+    }
+  }
+}

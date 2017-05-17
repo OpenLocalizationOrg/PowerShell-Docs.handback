@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-1c394fd" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b0e587f6951e31a17fc6c6b32cf935471cd1ebf1</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">gallery\psgallery\psgallery_pseditions.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8eb04d2e0e310aceb42a9916da7683f68cc02fbd</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">44bef89f7fc16547e072118cde8f251157ed5e48</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Items with compatible PowerShell Editions</source>
+          <target state="translated">Elemente mit kompatiblen PowerShell-Editionen</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Starting with version 5.1, PowerShell is available in different editions which denote varying feature sets and platform compatibility.</source>
+          <target state="translated">Ab Version 5.1 steht PowerShell in verschiedenen Editionen zur Verfügung, die unterschiedliche Featuregruppen und Plattformkompatibilität bieten.</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Desktop Edition:<ept id="p1">**</ept> Built on .NET Framework and provides compatibility with scripts and modules targeting versions of PowerShell running on full footprint editions of Windows such as Server Core and Windows Desktop.</source>
+          <target state="translated"><bpt id="p1">**</bpt>Desktop-Edition:<ept id="p1">**</ept> Diese Edition basiert auf .NET Framework und bietet Kompatibilität mit Skripts und Modulen für Versionen von PowerShell, die unter Vollversionen von Windows wie Server Core und Windows Desktop ausgeführt werden.</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Core Edition:<ept id="p1">**</ept> Built on .NET Core and provides compatibility with scripts and modules targeting versions of PowerShell running on reduced footprint editions of Windows such as Nano Server and Windows IoT.</source>
+          <target state="translated"><bpt id="p1">**</bpt>Core-Edition:<ept id="p1">**</ept> Diese Edition basiert auf .NET Core und bietet Kompatibilität mit Skripts und Modulen für Versionen von PowerShell, die unter funktionsreduzierten Versionen von Windows wie Nano Server und Windows IoT ausgeführt werden.</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>PowerShell Gallery extracts supported PSEditions metadata and allows you to filters the items compatible for specific PowerShell Editions</source>
+          <target state="translated">PowerShell-Galerie unterstützten PSEditions Metadaten extrahiert und Sie können Filter Elemente kompatibel für bestimmte Editionen von PowerShell</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>If an item has compatible PSEditions specified, they will be listed as part of 'PowerShell Editions' in the item display page and also in items results.</source>
+          <target state="translated">Verfügt ein Element kompatibel PSEditions angegeben, als Teil der "PowerShell Editionen" aufgeführt werden in der Anzeige Artikelseite und in Elemente.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source><ph id="ph1">![</ph>Item display page with PSEditions<ph id="ph2">](Images/ItemDisplayPageWithPSEditions.PNG)</ph></source>
+          <target state="translated"><ph id="ph1">![</ph>Anzeigen der Artikelseite mit PSEditions<ph id="ph2">](Images/ItemDisplayPageWithPSEditions.PNG)</ph></target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Search for items in the gallery UI which works on PowerShellCore</source>
+          <target state="translated">Suchen Sie nach Elementen in der Galerie auf PowerShellCore funktioniert Benutzeroberfläche</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Use Tags:"PSEdition_Desktop" and Tags:"PSEdition_Core" to filters the items on PowerShell Gallery.</source>
+          <target state="translated">Verwenden von Tags: Tags und "PSEdition_Desktop": "PSEdition_Core" zum Filtern der Elemente in der PowerShell-Galerie.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Use Tags:"PSEdition_Core" to search items compatible with PowerShell Core Edition.</source>
+          <target state="translated">Verwenden von Tags: "PSEdition_Core", um Elemente mit PowerShell Core Edition kompatibel zu suchen.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Search results for items compatible with Core PSEdition</source>
+          <target state="translated">Suchergebnisse für Elemente mit Core PSEdition kompatibel</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Use Tags:"PSEdition_Desktop" to search items compatible with PowerShell Desktop Edition.</source>
+          <target state="translated">Verwenden von Tags: "PSEdition_Desktop", um Elemente mit PowerShell Desktop Edition kompatibel zu suchen.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Search results for items compatible with Desktop PSEdition</source>
+          <target state="translated">Suchergebnisse für Elemente mit Desktop PSEdition kompatibel</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>More details on authoring and finding the items with compatible PowerShell Editions</source>
+          <target state="translated">Weitere Informationen zu erstellen, und suchen die Elemente mit kompatiblen PowerShell-Editionen</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Modules with PSEditions<ept id="p1">](../psget/module/modulewithpseditionsupport.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>Module mit PSEditions<ept id="p1">](../psget/module/modulewithpseditionsupport.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Scripts with PSEditions<ept id="p1">](../psget/script/scriptwithpseditionsupport.md)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>Skripts mit PSEditions<ept id="p1">](../psget/script/scriptwithpseditionsupport.md)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

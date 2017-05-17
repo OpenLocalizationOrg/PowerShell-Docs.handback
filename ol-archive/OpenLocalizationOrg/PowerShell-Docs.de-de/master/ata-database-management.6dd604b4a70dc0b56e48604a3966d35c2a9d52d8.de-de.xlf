@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-4bd6fc0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a6de5f463da5906910470ca54c9bceb4e2954ba8</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ATADocsTest\ata-database-management.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2c58f5e6774b8a407e3d7e3188230dcc54102dc1</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c114fa98e66cb21a542d1649a17e731e820909df</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>ATA Database Management | Microsoft ATA</source>
+          <target state="translated">ATA-Datenbankverwaltung | Microsoft ATA</target>
+          
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Procedures to help you move, backup, or restore the ATA database.</source>
+          <target state="translated">Vorgänge zum Verschieben, Sichern oder Wiederherstellen der ATA-Datenbank.</target>
+          
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Applies to: Advanced Threat Analytics version 1.7</source>
+          <target state="translated">Gilt für: Advanced Threat Analytics Version 1.7</target>
+          
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>ATA Database Management</source>
+          <target state="translated">ATA-Datenbankverwaltung</target>
+          
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>If you need to move, backup or restore the ATA database, use these procedures for working with MongoDB.</source>
+          <target state="translated">Verwenden Sie diese Verfahren im Umgang mit MongoDB, wenn die ATA-Datenbank verschoben, gesichert oder wiederhergestellt werden soll.</target>
+          
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Backing up the ATA database</source>
+          <target state="translated">Sichern der ATA-Datenbank</target>
+          
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Refer to the <bpt id="p1">[</bpt>relevant MongoDB documentation<ept id="p1">](http://docs.mongodb.org/manual/administration/backup/)</ept>.</source>
+          <target state="translated">Informationen hierzu finden Sie in der <bpt id="p1">[</bpt>entsprechenden MongoDB-Dokumentation<ept id="p1">](http://docs.mongodb.org/manual/administration/backup/)</ept>.</target>
+          
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Restoring the ATA database</source>
+          <target state="translated">Wiederherstellen der ATA-Datenbank</target>
+          
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Refer to the <bpt id="p1">[</bpt>relevant MongoDB documentation<ept id="p1">](http://docs.mongodb.org/manual/administration/backup/)</ept>.</source>
+          <target state="translated">Informationen hierzu finden Sie in der <bpt id="p1">[</bpt>entsprechenden MongoDB-Dokumentation<ept id="p1">](http://docs.mongodb.org/manual/administration/backup/)</ept>.</target>
+          
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Moving the ATA database to another drive</source>
+          <target state="translated">Verschieben der ATA-Datenbank auf ein anderes Laufwerk</target>
+          
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Stop the <bpt id="p1">**</bpt>Microsoft Advanced Threat Analytics Center<ept id="p1">**</ept> service.</source>
+          <target state="translated">Halten Sie den Dienst <bpt id="p1">**</bpt>Microsoft Advanced Threat Analytics Center<ept id="p1">**</ept> an.</target>
+          
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Stop the <bpt id="p1">**</bpt>MongoDB<ept id="p1">**</ept> service.</source>
+          <target state="translated">Halten Sie den Dienst <bpt id="p1">**</bpt>MongoDB<ept id="p1">**</ept> an.</target>
+          
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Open the Mongo configuration file located by default at: C:\Program Files\Microsoft Advanced Threat Analytics\Center\MongoDB\bin\mongod.cfg.</source>
+          <target state="translated">Öffnen Sie die MongoDB-Konfigurationsdatei, die standardmäßig unter „C:\Program Files\Microsoft Advanced Threat Analytics\Center\MongoDB\bin\mongod.cfg“ zu finden ist.</target>
+          
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Find the parameter</source>
+          <target state="translated">Suchen Sie den Parameter.</target>
+          
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Move the folder listed in the <ph id="ph1">`dbPath`</ph> parameter to the new location.</source>
+          <target state="translated">Verschieben Sie den im <ph id="ph1">`dbPath`</ph>-Parameter aufgeführten Ordner an den neuen Speicherort.</target>
+          
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Change the <ph id="ph1">`dbPath`</ph> parameter inside the mongo configuration file to the new folder path and save and close the file.</source>
+          <target state="translated">Ändern Sie den <ph id="ph1">`dbPath`</ph>-Parameter innerhalb der MongoDB-Konfiguration in den neuen Ordnerpfad der Datei, und speichern und schließen Sie die Datei.</target>
+          
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Modify MongoDB configuration image</source>
+          <target state="translated">Ändern des MongoDB-Konfigurationsimages</target>
+          
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Start the <bpt id="p1">**</bpt>MongoDB<ept id="p1">**</ept> service.</source>
+          <target state="translated">Starten Sie den Dienst <bpt id="p1">**</bpt>MongoDB<ept id="p1">**</ept>.</target>
+          
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Start the <bpt id="p1">**</bpt>Microsoft Advanced Threat Analytics Center<ept id="p1">**</ept> service.</source>
+          <target state="translated">Starten Sie den Dienst <bpt id="p1">**</bpt>Microsoft Advanced Threat Analytics Center<ept id="p1">**</ept>.</target>
+          
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>ATA Configuration file</source>
+          <target state="translated">ATA-Konfigurationsdatei</target>
+          
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>The configuration of ATA is stored in the "SystemProfile" collection in the database.</source>
+          <target state="translated">Die Konfiguration von ATA ist in der Sammlung „SystemProfile“ in der Datenbank gespeichert.</target>
+          
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>This collection is backed up every hour by the ATA Center service to files called: "SystemProfile_<bpt id="p1">*</bpt>timestamp<ept id="p1">*</ept>.json".</source>
+          <target state="translated">Diese Sammlung wird vom ATA Center-Dienst stündlich in Dateien mit dem Namen „SystemProfile_<bpt id="p1">*</bpt>Zeitstempel<ept id="p1">*</ept>.json“ gespeichert.</target>
+          
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>The most recent 10 versions are stored.</source>
+          <target state="translated">Die 10 neuesten Versionen werden gespeichert.</target>
+          
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>This is located in a subfolder called "Backup".</source>
+          <target state="translated">Diese Datei befindet sich im Unterordner „Backup“.</target>
+          
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>In the default ATA installed location it can be found here:  <bpt id="p1">*</bpt>C:\Program Files\Microsoft Advanced Threat Analytics\Center\Backup\SystemProfile_<ept id="p1">*</ept>timestamp<bpt id="p2">*</bpt>.json<ept id="p2">*</ept>.</source>
+          <target state="translated">Im ATA-Standardinstallationsverzeichnis ist die Datei unter <bpt id="p1">*</bpt>C:\Programme\Microsoft Advanced Threat Analytics\Center\Backup\SystemProfile_<ept id="p1">*</ept>Zeitstempel<bpt id="p2">*</bpt>.json<ept id="p2">*</ept> zu finden.</target>
+          
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Note<ept id="p1">**</ept>: It is recommended that you back up this file somewhere when making major changes to ATA.</source>
+          <target state="translated"><bpt id="p1">**</bpt>Hinweis<ept id="p1">**</ept>: Wenn Sie größere Änderungen an ATA vornehmen, wird empfohlen, eine Sicherung dieser Datei zu erstellen.</target>
+          
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>It is possible to restore all the settings by running the following command:</source>
+          <target state="translated">Sie können alle Einstellungen wiederherstellen, indem Sie den folgenden Befehl ausführen:</target>
+          
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>See Also</source>
+          <target state="translated">Siehe auch</target>
+          
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>ATA architecture</source>
+          <target state="translated">ATA-Architektur</target>
+          
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>ATA prerequisites</source>
+          <target state="translated">ATA-Voraussetzungen</target>
+          
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Check out the ATA forum!</source>
+          <target state="translated">Weitere Informationen finden Sie im ATA-Forum.</target>
+          
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

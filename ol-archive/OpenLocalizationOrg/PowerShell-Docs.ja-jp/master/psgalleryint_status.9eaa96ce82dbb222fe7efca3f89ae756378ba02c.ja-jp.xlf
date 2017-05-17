@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="ja-jp">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-1c394fd" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">41905ee6ef4c6b0afc41b1c68c84db27e19df2fd</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">gallery\psgallery\psgalleryint_status.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dec786349fac262d771a2ce72f82dd7b1a86e807</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e8b94268a37682ad0bf8607a9eb423b3c327e6db</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>PowerShell Gallery Status</source>
+          <target state="translated">PowerShell ギャラリーの状態</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>8/10/2016 - Resolved: Unable to send emails to <ph id="ph1">cgadmin@microsoft.com</ph></source>
+          <target state="translated">8/10/2016 - 解決: 電子メールを送信できません。 <ph id="ph1">cgadmin@microsoft.com</ph></target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">__</bpt>Summary of Impact<ept id="p1">__</ept>: Between 8/5/2016 and 8/10/2016, customers were unable to send emails to <ph id="ph1">cgadmin@microsoft.com,</ph> or use the Contact Us feature.</source>
+          <target state="translated"><bpt id="p1">__</bpt>影響の概要<ept id="p1">__</ept>: 8/5/2016 と 8/10/2016 では、顧客にでした。 電子メールを送信 <ph id="ph1">cgadmin@microsoft.com,</ph> または問い合わせ機能を使用します。</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">__</bpt>Root Cause<ept id="p1">__</ept>: Engineers identified the cause as a configuration change of the email account.</source>
+          <target state="translated"><bpt id="p1">__</bpt>根本的な原因<ept id="p1">__</ept>: エンジニアは、電子メール アカウントの構成の変更に原因があることを突き止めました。</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">__</bpt>Resolution<ept id="p1">__</ept>: Engineers worked to resolve the configuration issue.</source>
+          <target state="translated"><bpt id="p1">__</bpt>解決策<ept id="p1">__</ept>: エンジニアは、構成の問題を解決するための作業を行いました。</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">__</bpt>Next Steps<ept id="p1">__</ept>: If you used the Contact Us link or sent mail to <ph id="ph1">cgadmin@microsoft.com</ph> during this time and we have not responded, please try again.</source>
+          <target state="translated"><bpt id="p1">__</bpt>次のステップ<ept id="p1">__</ept>: 問い合わせ] リンクを使用するかにメールを送信したかどうか <ph id="ph1">cgadmin@microsoft.com</ph> には時間、私たちが応答していない、もう一度やり直してください。</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Thank you for your patience.</source>
+          <target state="translated">ご不便をおかけして申し訳ございませんでした。</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,24 @@
+{  
+   "locales":[  
+      "ja-jp",
+      "de-de"
+   ],
+   "files":[  
+      "!/*.md",
+      "!/*.MD",
+      "**/**/*.md",
+      "**/*.md",
+      "**/**/*.MD",
+      "**/*.MD"
+   ],
+   "includeDependencies":false,
+   "autoPush":true,
+   "useJavascriptMarkdownTransformer":true,
+   "markdownTransformerOptions":{  
+      "trimBoundingPhTags":false,
+      "mergeAdjacentPhTags":false,
+      "lockBackslashEscapeChars":true,
+      "lockAtSign":true,
+      "linkifyHeaders":true
+   }
+}

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="ja-jp">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-1c394fd" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b28bce839403217ece4edd67d984a282b60d164d</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">gallery\psget\module\psget_find-command.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fa6a02be2b9b85b31d95ab3e2ae89d4b0b19a356</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">23994ef70e236f9b73d25d55e2ab78529f405df0</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Find-Command</source>
+          <target state="translated">Find コマンド</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Finds PowerShell commands in modules.</source>
+          <target state="translated">モジュールで PowerShell コマンドを検索します。</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">説明</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>The Find-Command cmdlet finds PowerShell commands such as cmdlets, aliases, functions, and workflows.</source>
+          <target state="translated">Find コマンド コマンドレットは、コマンドレット、エイリアス、関数、およびワークフローなどの PowerShell コマンドを検索します。</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Find-Command searches modules in registered repositories.</source>
+          <target state="translated">Find コマンドは、登録されているリポジトリでモジュールを検索します。</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>For each command that this cmdlet finds, it returns a PSGetCommandInfo object.</source>
+          <target state="translated">このコマンドレットを検索するコマンドごとに、PSGetCommandInfo オブジェクトを返します。</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>You can pass a PSGetCommandInfo object to the Install-Module cmdlet to install the module that contains the command.</source>
+          <target state="translated">PSGetCommandInfo オブジェクトは、コマンドが含まれたモジュールをインストールするインストール モジュールのコマンドレットに渡すことができます。</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Find-Command can filter with version parameters: MinimumVersion, RequiredVersion, AllVersions.</source>
+          <target state="translated">Find コマンドは、バージョン パラメーターを使用してフィルター処理できます。 MinimumVersion RequiredVersion、AllVersions です。</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>These parameters are mutually exclusive.</source>
+          <target state="translated">これらのパラメーターでは、相互に排他的です。</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>These version parameters are allowed only with the single module name without any wildcards.</source>
+          <target state="translated">これらのバージョン パラメーターは、任意のワイルドカードを含まない 1 つのモジュール名のみで許可されます。</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>If the RequiredVersion parameter is not specified, Find-Command returns the latest version of the module that is equal to or greater than the minimum version specified or the latest version of the module if no minimum version is specified.</source>
+          <target state="translated">RequiredVersion パラメーターが指定されていない場合、検索コマンドは、最低限のバージョンが指定されていない場合、同じかまたは指定された最小のバージョンや、モジュールの最新のバージョンよりも大きいは、モジュールの最新バージョンを返します。</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>If the RequiredVersion parameter is specified, Find-Command only returns the version of the module that exactly matches the specified version.</source>
+          <target state="translated">RequiredVersion パラメーターが指定されている場合、検索コマンドには、指定されたバージョンを完全に一致するモジュールのバージョンのみを返します。</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Find-Command can filter on module metadata with the -Tag parameter</source>
+          <target state="translated">モジュールのメタデータの検索コマンドをフィルターできますタグ パラメーターを使用</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Find-Command can filter on repository-specific search language with the -Filter parameter.</source>
+          <target state="translated">リポジトリに固有の検索の言語で検索コマンドを絞り込むフィルター パラメーターを使用します。</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Find-Command can filter on modules from all or few of the registered repositories.</source>
+          <target state="translated">Find コマンドは、登録されているリポジトリのほとんどまたはすべてのモジュールにフィルター処理できます。</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Cmdlet syntax</source>
+          <target state="translated">コマンドレット構文</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Cmdlet online help reference</source>
+          <target state="translated">コマンドレットのオンライン ヘルプ リファレンス</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Find-Command<ept id="p1">](http://go.microsoft.com/fwlink/?LinkId=733636)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>Find コマンド<ept id="p1">](http://go.microsoft.com/fwlink/?LinkId=733636)</ept></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Example commands</source>
+          <target state="translated">コマンド例</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

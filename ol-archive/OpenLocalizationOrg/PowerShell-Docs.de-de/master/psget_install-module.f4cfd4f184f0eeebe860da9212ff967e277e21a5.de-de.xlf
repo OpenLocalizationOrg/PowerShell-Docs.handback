@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-1c394fd" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f61d83c2cc12babccbdb75e6ae334b1f90de1bd6</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">gallery\psget\module\psget_install-module.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6b3d563aeb77968d7459fef29dc7ef8fcd3f5a94</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a643bd24ea4fbc9270e0dfd17ad4c12ea6981b67</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Install-Module</source>
+          <target state="translated">Install-Module</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Installs the PowerShell modules from online repositories to the local computer.</source>
+          <target state="translated">Installiert die PowerShell-Module von online-Repositorys auf dem lokalen Computer.</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Beschreibung</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Install-Module cmdlet downloads one or more modules from an online gallery, validates and installs them on the local computer to the specified installation scope.</source>
+          <target state="translated">Install-Module-Cmdlet ein oder mehrere Module aus einer online-Katalog heruntergeladen, überprüft und installiert sie auf dem lokalen Computer auf den Bereich der angegebenen Installation.</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The Install-Module cmdlet gets one or more modules that meet specified criteria from an online gallery, verifies that search results are valid modules, and copies module folders to the installation location.</source>
+          <target state="translated">Das Cmdlet "Install-Module" Ruft ein oder mehrere Module, die aus einem Onlinekatalog angegebene Kriterien erfüllen, überprüft, ob Suchergebnisse gültige Module und Kopien Modul Ordner an den Installationsort sind.</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>When no scope is defined, or when the value of the Scope parameter is AllUsers, the module is installed to %systemdrive%:\Program Files\WindowsPowerShell\Modules.</source>
+          <target state="translated">Wenn kein Bereich definiert ist oder wenn der Wert des Bereichsparameters AllUsers ist, wird das Modul %systemdrive%:\Program Files\WindowsPowerShell\Modules installiert.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>When the value of Scope is CurrentUser, the module is installed to $home\Documents\WindowsPowerShell\Modules.</source>
+          <target state="translated">Wenn der Wert des Bereichs CurrentUser ist, wird das Modul $Home\Documents\WindowsPowerShell\Modules installiert.</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>You can filter your results based on minimum and exact versions of specified modules.</source>
+          <target state="translated">Sie können die Ergebnisse auf der Basis Mindest- und genaue Versionen der angegebenen Module filtern.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Side-by-side version support on Windows PowerShell 5.0 or newer</source>
+          <target state="translated">Unterstützung der gleichzeitigen Ausführung unterschiedlicher Versionen für Windows PowerShell 5.0 oder höher</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Module dependency installation support</source>
+          <target state="translated">Unterstützung der Installation von Modulabhängigkeiten</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Untrusted prompt:<ept id="p1">**</ept>User acceptance is required for installing the modules from an untrusted repository.</source>
+          <target state="translated"><bpt id="p1">**</bpt>Nicht vertrauenswürdige auffordern:<ept id="p1">**</ept>Benutzerakzeptanz ist erforderlich für die Installation der Module von einem nicht vertrauenswürdigen Repository aus.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>-Force reinstalls the installed module</source>
+          <target state="translated">-Force neu installierte Modul installiert.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>RequiredVersion installs the specified version in SxS with existing versions on PowerShell version 5.0 or newer.</source>
+          <target state="translated">RequiredVersion wird die angegebene Version in SxS mit vorhandenen Versionen in PowerShell, Version 5.0 oder höher installiert.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Scope</source>
+          <target state="translated">Bereich</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Specifies the installation scope of the module.</source>
+          <target state="translated">Gibt den Bereich der Installation des Moduls.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>The acceptable values for this parameter are: AllUsers and CurrentUser.</source>
+          <target state="translated">Die zulässigen Werte für diesen Parameter sind: AllUsers und CurrentUser.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>The default installation scope is AllUsers.</source>
+          <target state="translated">Der Standardbereich für die Installation ist AllUsers.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>The AllUsers scope lets modules be installed in a location that is accessible to all users of the computer, that is, "$env:SystemDrive\Program Files\WindowsPowerShell\Modules".</source>
+          <target state="translated">Die AllUsers-Bereich kann Module, die an einem Speicherort installiert werden, die für alle Benutzer des Computers zugänglich ist "$env: SystemDrive\Program Files\WindowsPowerShell\Modules".</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>The CurrentUser scope lets modules be installed only to "$home\Documents\WindowsPowerShell\Modules", so that the module is available only to the current user.</source>
+          <target state="translated">Bereich CurrentUser kann Module, die nur auf "$Home\Documents\WindowsPowerShell\Modules", installiert werden, damit das Modul nur für den aktuellen Benutzer verfügbar ist.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Notes</source>
+          <target state="translated">Hinweise</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>This cmdlet runs on Windows PowerShell 3.0 or later releases of Windows PowerShell, on Windows 7 or Windows 2008 R2 and later releases of Windows.</source>
+          <target state="translated">Mit diesem Cmdlet wird auf Windows PowerShell 3.0 oder spätere Versionen von Windows PowerShell unter Windows 7 oder Windows 2008 R2 und höheren Versionen von Windows ausgeführt werden.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>If an installed module cannot be imported (that is, if it does not have a .psm1, .psd1, or .dll of the same name within the folder), installation fails unless you add the Force parameter to your command.</source>
+          <target state="translated">Wenn ein installiertes Modul (d. h., verfügt es kein psm1, psd1 oder DLL-Datei mit dem gleichen Namen innerhalb des Ordners) importiert werden kann, schlägt die Installation fehl, wenn Sie den Force-Parameter auf den Befehl hinzufügen.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>If a version of the module on the computer matches the value specified for the Name parameter, and you have not added the MinimumVersion or RequiredVersion parameter, Install-Module silently continues without installing that module.</source>
+          <target state="translated">Wenn eine Version des Moduls auf dem Computer für den Name-Parameter angegebenen Wert entspricht, und Sie nicht den Parameter MinimumVersion oder RequiredVersion hinzugefügt haben, weiterhin installieren-Module im Hintergrund ohne dieses Modul installieren.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>If the MinimumVersion or RequiredVersion parameters are specified, and the existing module does not match the values in that parameter, then an error occurs.</source>
+          <target state="translated">Wenn das vorhandene Modul nicht der Werte in diesen Parameter entspricht MinimumVersion oder RequiredVersion Parameter angegeben werden, tritt ein Fehler auf.</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>To be more specific: if the version of the currently-installed module is either lower than the value of the MinimumVersion parameter, or not equal to the value of the RequiredVersion parameter, an error occurs.</source>
+          <target state="translated">Genauer: Wenn die Version des installierten Moduls kleiner als der Wert des Parameters MinimumVersion oder nicht gleich dem Wert des Parameters RequiredVersion ist, wird ein Fehler auftritt.</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>If the version of the installed module is greater than the value of the MinimumVersion parameter, or equal to the value of the RequiredVersion parameter, Install-Module silently continues without installing that module.</source>
+          <target state="translated">Ist die Version des installierten Modul größer als der Wert des Parameters MinimumVersion oder gleich dem Wert des Parameters RequiredVersion, weiterhin installieren-Module im Hintergrund ohne dieses Modul wird installiert.</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Install-Module returns an error if no module exists in the online gallery that matches the specified name.</source>
+          <target state="translated">Install-Modul gibt einen Fehler zurück, wenn kein Modul im Onlinekatalog vorhanden ist, die mit den angegebenen Namen übereinstimmt.</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>To install multiple modules, specify an array of the module names, separated by commas.</source>
+          <target state="translated">Um mehrere Module zu installieren, geben Sie ein Array von den Modulnamen müssen durch Kommas getrennt.</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>You cannot add MinimumVersion or RequiredVersion if you specify multiple module names.</source>
+          <target state="translated">Sie können MinimumVersion oder RequiredVersion hinzufügen, wenn Sie mehrere Namen angeben.</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>By default, modules are installed to the Program Files folder, to prevent confusion when you are installing Windows PowerShell Desired State Configuration (DSC) resources.You can pipe multiple PSGetItemInfo objects to Install-Module; this is another way of specifying multiple modules to install in a single command.</source>
+          <target state="translated">Standardmäßig werden die Module in den Ordner "Programme", um Verwechslungen zu vermeiden, bei der Installation von Windows PowerShell Desired State Configuration (DSC) Ressourcen installiert. Sie können mehrere PSGetItemInfo Objekte auf Install-Modul übergeben; Dies ist eine andere Möglichkeit, mehrere Module anzugeben, in einen einzelnen Befehl zu installieren.</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>To help prevent running modules that contain malicious code, installed modules are not automatically imported by installation.</source>
+          <target state="translated">Zum Vermeiden von ausgeführten Module, die installierten böswilligen Code enthalten sind Module nicht automatisch durch Installation importiert.</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>As a security best practice, evaluate module code before running any cmdlets or functions in a module for the first time.</source>
+          <target state="translated">Aus Sicherheitsgründen empfiehlt es sich, Modulcode vor dem Ausführen alle Cmdlets und Funktionen in einem Modul zum ersten Mal ausgewertet.</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Cmdlet syntax</source>
+          <target state="translated">Cmdlet-syntax</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Cmdlet online help reference</source>
+          <target state="translated">Online-Hilfe-Cmdlet-Referenz</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Install-Module<ept id="p1">](http://go.microsoft.com/fwlink/?LinkID=398573)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>Install-Modul<ept id="p1">](http://go.microsoft.com/fwlink/?LinkID=398573)</ept></target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Example commands</source>
+          <target state="translated">Beispiele für Befehle</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Install-Module cmdlet in pipeline operations</source>
+          <target state="translated">Install-Module-Cmdlet in der Pipeline-Vorgänge</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Side-by-Side Version Support on PowerShell 5.0 or newer</source>
+          <target state="translated">Unterstützung der gleichzeitigen Ausführung unterschiedlicher Versionen für PowerShell 5.0 oder höher</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>PowerShellGet supports the side-by-side (SxS) module version support in Install-Module, Update-Module, and Publish-Module cmdlets that run in Windows PowerShell 5.0 or newer.</source>
+          <target state="translated">PowerShellGet unterstützt die Side-by-Side (SxS)-Modul versionsunterstützung in Install-Module, Update-Module und Publish-Module-Cmdlets, die in Windows PowerShell 5.0 oder höher ausgeführt.</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Install-Module examples</source>
+          <target state="translated">Beispiele für die Install-Modul</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Install module with its dependencies</source>
+          <target state="translated">Installieren des Moduls mit Abhängigkeiten</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Error scenarios</source>
+          <target state="translated">Fehlerszenarien</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

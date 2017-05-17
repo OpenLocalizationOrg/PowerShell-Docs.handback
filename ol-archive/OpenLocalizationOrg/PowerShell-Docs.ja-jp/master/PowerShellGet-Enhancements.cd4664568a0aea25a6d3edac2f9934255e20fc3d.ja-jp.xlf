@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="ja-jp">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-1c394fd" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">025565404b60cebefac27e51c70d70edb5e47bc9</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">wmf\5.1\features-scenarios-cache\PowerShellGet-Enhancements.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7b6f7c929f01b111d9d1f45a0a96a65979b8fef5</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b4e78851f798a078693246dbfa38ab85ecf786ba</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>example template of a feature or scenario writeup</source>
+          <target state="translated">機能またはシナリオ書き込みのテンプレート例</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Note: provide a proposed descriptive title and a brief description</source>
+          <target state="translated">注: わかりやすいタイトルと簡単な説明を提供します</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>PowerShellGet Enhancements</source>
+          <target state="translated">PowerShellGet の機能強化</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>The cmdlets in the PowerShellGet module have been updated considerably in WMF 5.1.</source>
+          <target state="translated">PowerShellGet モジュールのコマンドレットは、WMF 5.1 で大幅に更新されています。</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The following new scenarios are now supported:</source>
+          <target state="translated">次の新しいシナリオはサポートされているようになりました。</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Proxy Support:<ept id="p1">**</ept> Using the PowerShellGet cmdlets with an internal proxy is now supported, with the addition of the Proxy and ProxyCredential parameters to all of the Find-, Install-, Save-, and Publish- cmdlets in the PowerShellGet module (eg: Find-Module, Install-Module, Save-Module, Publish-Module).</source>
+          <target state="translated"><bpt id="p1">**</bpt>プロキシ サポート:<ept id="p1">**</ept> PowerShellGet コマンドレットを使用すると、内部のプロキシでできるようになって、PowerShellGet モジュールで、検索、インストールで、保存、および発行コマンドレットのすべてにプロキシと ProxyCredential パラメーターの追加することで (例: 保存モジュールの検索モジュールのインストール、モジュール、発行 Module)。</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Enforcing Catalog Signing:<ept id="p1">**</ept> All PowerShellGet cmdlets now check for and enforce updating of signed modules.</source>
+          <target state="translated"><bpt id="p1">**</bpt>カタログの署名を適用するには:<ept id="p1">**</ept> PowerShellGet のすべてのコマンドレットは今すぐ確認し、署名されたモジュールの更新を適用します。</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Modules signed using the new Catalog cmdlets will be checked by the PowerShellGet cmdlets to ensure that the module has not been modified in transit, and that updates to the module may only come from the original publisher.</source>
+          <target state="translated">送信中、モジュールが変更されていないこと、およびモジュールへの更新は、元のパブリッシャーからのみで発生ことを確認 PowerShellGet コマンドレットを使用して、新しいカタログ コマンドレットを使用して署名したモジュールがチェックされます。</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>This affects Install-Module, and Update-Module cmdlets.</source>
+          <target state="translated">これは、インストール モジュール、および更新プログラム モジュールのコマンドレットに影響します。</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Sharing and Acquiring Role Capabilities:<ept id="p1">**</ept> Role Capabilities are the endpoint definitions used to configure Just Enough Administration to constrain, and will be shared via the PowerShell Gallery in PowerShell Modules.</source>
+          <target state="translated"><bpt id="p1">**</bpt>ロールの機能を共有し、ロックを獲得しよう:<ept id="p1">**</ept> ロール機能はだけ十分な管理を制限するためを構成するために使用するエンドポイントの定義と PowerShell モジュールで PowerShell ギャラリー経由で共有されます。</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Cmdlets include Find-RoleCapability, and New-PSRoleCapabilityFile.</source>
+          <target state="translated">コマンドレットには、検索 RoleCapability、および新規 PSRoleCapabilityFile が含まれます。</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Find Command:<ept id="p1">**</ept> Find-Command allows users to locate a module in the PowerShell Gallery that contains a command they are looking for.</source>
+          <target state="translated"><bpt id="p1">**</bpt>Find コマンド:<ept id="p1">**</ept> 検索コマンドにより、ユーザーが探しているコマンドが含まれる PowerShell ギャラリーでモジュールを検索します。</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Authenticated repositories:<ept id="p1">**</ept> Visual Studio Package Management feed requires authentication, something that is now supported via the PowerShellGet cmdlets.</source>
+          <target state="translated"><bpt id="p1">**</bpt>認証のリポジトリ:<ept id="p1">**</ept> Visual Studio パッケージの管理のフィードには、認証、PowerShellGet コマンドレットを使用してできるようになっているものが必要です。</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>User feedback identified additional areas for improvement that have been addressed in 5.1, including:</source>
+          <target state="translated">ユーザーからのフィードバックが 5.1 で処理された改善のための追加の領域を識別します。</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Install-Script changes:<ept id="p1">**</ept> The location used by Install-script is not added to the user path automatically in 5.1.</source>
+          <target state="translated"><bpt id="p1">**</bpt>インストール スクリプトの変更:<ept id="p1">**</ept> インストール スクリプトによって使用される場所は、5.1 で自動的にユーザーのパスには追加されません。</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>This change was made in the standalone version of PowerShellGet, and is now in WMF 5.1.</source>
+          <target state="translated">この変更は、PowerShellGet のスタンドアロン バージョンにあったし、WMF 5.1 になります。</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Adding metadata fields to existing scripts:<ept id="p1">**</ept> Update-ScriptFileInfo can be used on existing scripts to add the default metadata fields needed to publish to the PowerShellGallery.</source>
+          <target state="translated"><bpt id="p1">**</bpt>既存のスクリプトへのメタデータ フィールドの追加:<ept id="p1">**</ept> 、PowerShellGallery への公開に必要な既定のメタデータ フィールドを追加する既存のスクリプトを更新 ScriptFileInfo を使用できます。</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Previously users needed to manually merge this into an existing script.</source>
+          <target state="translated">以前のユーザーは、これを既存のスクリプトに手動でマージに必要です。</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Publishing a lower-versioned module to the Gallery:<ept id="p1">**</ept> It is now possible to publish a module with a lower version number than the current previous highest version to the Gallery using Publish-Module.</source>
+          <target state="translated"><bpt id="p1">**</bpt>下でバージョン管理されたモジュールをギャラリーに発行:<ept id="p1">**</ept> ことが現在までの最上位バージョンよりも低いバージョン番号を含むモジュールを発行モジュールを使用してギャラリーに発行できます。</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>If a publisher  released version 2.0.0 of their module with breaking changes from the 1.x versions, they could not easily release a fix to version 1.5.0.</source>
+          <target state="translated">1.x バージョンからの変更を中断すると、モジュールのバージョン 2.0.0 がパブリッシャーにリリースされる場合、簡単を解放できませんでした 1.5.0 のバージョンに修正します。</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Now, they can publish a 1.5.1, which will improve support for maintaining modules in the PowerShell Gallery.</source>
+          <target state="translated">これで、PowerShell ギャラリー内のモジュールを維持するためのサポートを強化する、1.5.1 を公開できます。</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Checking for command over-write when installing scripts and modules:<ept id="p1">**</ept> Install-Module and Install-Script will now check to see if they contain commands that are already present on the system, and will by default error out if that happens.</source>
+          <target state="translated"><bpt id="p1">**</bpt>スクリプトおよびモジュールをインストールするときに、コマンドの上書きのチェック:<ept id="p1">**</ept> モジュールのインストールとインストール スクリプトは今すぐに、システムが既に存在するコマンドが含まれているかどうかをおよびチェック アウトする場合の動作によって既定のエラーです。</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Bootstrapping Nuget in Publish- cmdlets:<ept id="p1">**</ept> Previously there was no way to automatically install the Nuget provider when using Publish-Module or Publish-Script, which made certain automation tasks very difficult.</source>
+          <target state="translated"><bpt id="p1">**</bpt>発行コマンドレットで Nuget のブートス トラップ:<ept id="p1">**</ept> 以前発行モジュールまたは特定のオートメーション タスクを非常に困難にする公開スクリプトを使用する場合、Nuget プロバイダーを自動的にインストールする方法がありません。</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Users may now add -Force to Publish- commands to bypass the prompt.</source>
+          <target state="translated">プロンプトをバイパスする Publish コマンドに強制的にユーザーを追加のようになりました。</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Note: additional detail covering new concepts, implementation, examples, etc should be linked to the canonical technical documentation</source>
+          <target state="translated">注: 新しい概念、実装、例などに関する追加詳細は正規のテクニカル ドキュメントにリンクしてください。</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Learn more about using PowerShellGet<ept id="p1">**</ept></source>
+          <target state="translated"><bpt id="p1">**</bpt>PowerShellGet の使用に関する詳細します。<ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>About-CatalogSigning<ept id="p1">]()</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>CatalogSigning について<ept id="p1">]()</ept></target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Filter Get-Module results by CompatiblePSEditions<ept id="p1">]()</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>CompatiblePSEditions で Get モジュールの結果をフィルター処理します。<ept id="p1">]()</ept></target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Prevent script execution unless run on a comaptible edition of PowerShell<ept id="p1">]()</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>PowerShell の互換性のあるエディションで実行するいないと、スクリプトの実行を防止します。<ept id="p1">]()</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

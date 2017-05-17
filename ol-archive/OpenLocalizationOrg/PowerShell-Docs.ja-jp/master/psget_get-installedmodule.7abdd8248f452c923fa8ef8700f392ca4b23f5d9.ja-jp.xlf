@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="ja-jp">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-1c394fd" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">53873c0071914bb833bce476a9436a07308ddcf1</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">gallery\psget\module\psget_get-installedmodule.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">67f91a0750eb40f9b4e23e4c333b4b9922a0dd09</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0dc71e2729ea74890cf4e42d80a8b82d3d1c1657</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Get-InstalledModule</source>
+          <target state="translated">Get-InstalledModule</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Gets installed modules on a computer.</source>
+          <target state="translated">取得は、コンピューターにモジュールをインストールします。</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">説明</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>The Get-InstalledModule cmdlet gets installed PowerShell modules on a computer which were installed using Install-Module cmdlet.</source>
+          <target state="translated">Get InstalledModule コマンドレットは、インストール モジュールのコマンドレットを使用してインストールされたコンピューターにインストールされている PowerShell モジュールを取得します。</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>For each installed module, Get-InstalledModule returns a PSRepositoryItemInfo object which can optionally be piped to Uninstall-Module for uninstalling the installed modules.</source>
+          <target state="translated">各インストールされているモジュールは、Get InstalledModule は、インストールされているモジュールをアンインストールするため、アンインストール モジュールに必要に応じてパイプすることもできる PSRepositoryItemInfo オブジェクトを返します。</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Get-InstalledModule can filter installed modules based on name, version parameters.</source>
+          <target state="translated">Get InstalledModule は、インストールされているモジュールの名前、バージョン パラメーターに基づいてフィルター処理できます。</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Get-InstalledModule can filter with version parameters: MinimumVersion, MaximumVersion, RequiredVersion, AllVersions.</source>
+          <target state="translated">Get InstalledModule がバージョン パラメーターを使用してフィルター処理できます。 MinimumVersion、MaximumVersion、RequiredVersion、AllVersions です。</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>These parameters are mutually exclusive, except MinmimumVersion and MaximumVersion.</source>
+          <target state="translated">これらのパラメーターは MinmimumVersion と MaximumVersion を除く、相互に排他的です。</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>These version parameters are allowed only with the single module name without any wildcards.</source>
+          <target state="translated">これらのバージョン パラメーターは、任意のワイルドカードを含まない 1 つのモジュール名のみで許可されます。</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>If the RequiredVersion parameter is not specified, Get-InstalledModule returns the latest version of the installed module that is equal to or greater than the minimum version specified or the latest version of the module if no minimum version is specified.</source>
+          <target state="translated">RequiredVersion パラメーターが指定されていない場合、Get InstalledModule は最低限のバージョンが指定されていない場合、同じかまたは指定された最小のバージョンや、モジュールの最新のバージョンよりも大きいはインストールされたモジュールの最新バージョンを返します。</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>If the RequiredVersion parameter is specified, Get-InstalledModule only returns the version of installed module that exactly matches the specified version.</source>
+          <target state="translated">RequiredVersion パラメーターが指定されている場合、指定したバージョンを完全に一致するインストール済みのモジュールのバージョンは Get InstalledModule だけを返します。</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Cmdlet syntax</source>
+          <target state="translated">コマンドレット構文</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Cmdlet online help reference</source>
+          <target state="translated">コマンドレットのオンライン ヘルプ リファレンス</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Get-InstalledModule<ept id="p1">](http://go.microsoft.com/fwlink/?LinkId=526863)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>Get InstalledModule<ept id="p1">](http://go.microsoft.com/fwlink/?LinkId=526863)</ept></target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Example commands</source>
+          <target state="translated">コマンド例</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>InstalledDate and UpdatedDate properties in PSGetRepositoryItemInfo object</source>
+          <target state="translated">PSGetRepositoryItemInfo オブジェクトで InstalledDate と UpdatedDate プロパティ</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

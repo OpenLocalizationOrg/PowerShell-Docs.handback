@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-4bd6fc0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a76874be9009cc6ea0880e6dc79ae69369591943</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ATADocsTest\setting-syslog-email-server-settings.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b1a020fb2badc31d2a0371fd4f40f6855b661009</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f9fb32cc51a7bef31f9a08b264c75aba07e446ad</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Setting ATA Notifications | Microsoft ATA</source>
+          <target state="translated">Festlegen von ATA-Benachrichtigungen | Microsoft ATA</target>
+          
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Describes how to have ATA notify you (by email or by ATA event forwarding) when it detects suspicious activities</source>
+          <target state="translated">Beschreibt, wie ATA für den Versand von Benachrichtigungen (per E-Mail oder ATA-Ereignisweiterleitung) bei verdächtigen Aktivitäten konfiguriert werden kann</target>
+          
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Applies to: Advanced Threat Analytics version 1.7</source>
+          <target state="translated">Gilt für: Advanced Threat Analytics Version 1.7</target>
+          
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Provide ATA with up your email server settings</source>
+          <target state="translated">Bereitstellen der Einstellungen Ihres E-Mail-Servers für ATA</target>
+          
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>ATA can notify you when it detects a suspicious activity.</source>
+          <target state="translated">ATA kann Benachrichtigungen senden, wenn eine verdächtige Aktivität erkannt wird.</target>
+          
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>For ATA to be able to send email notifications, you must first configure the <bpt id="p1">**</bpt>Email server settings<ept id="p1">**</ept>.</source>
+          <target state="translated">Damit ATA E-Mail-Benachrichtigungen senden kann, müssen Sie zunächst die <bpt id="p1">**</bpt>E-Mail-Servereinstellungen<ept id="p1">**</ept> konfigurieren.</target>
+          
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>On the ATA Center server, click the <bpt id="p1">**</bpt>Microsoft Advanced Threat Analytics Management<ept id="p1">**</ept> icon on the desktop.</source>
+          <target state="translated">Klicken Sie auf dem ATA Center-Server auf das Symbol <bpt id="p1">**</bpt>Microsoft Advanced Threat Analytics Management<ept id="p1">**</ept> auf dem Desktop.</target>
+          
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Enter your user name and password and click <bpt id="p1">**</bpt>Log in<ept id="p1">**</ept>.</source>
+          <target state="translated">Geben Sie Ihren Benutzernamen und Ihr Kennwort ein, und klicken Sie auf <bpt id="p1">**</bpt>Anmelden<ept id="p1">**</ept>.</target>
+          
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Select the settings option on the toolbar and select <bpt id="p1">**</bpt>Configuration<ept id="p1">**</ept>.</source>
+          <target state="translated">Wählen Sie auf der Symbolleiste die Einstellungsoption und dann <bpt id="p1">**</bpt>Konfiguration<ept id="p1">**</ept> aus.</target>
+          
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>ATA configuration settings icon</source>
+          <target state="translated">Symbol der ATA-Konfigurationseinstellungen</target>
+          
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>In the <bpt id="p1">**</bpt>notifications<ept id="p1">**</ept> section, under <bpt id="p2">**</bpt>Mail server<ept id="p2">**</ept>, enter the following information:</source>
+          <target state="translated">Geben Sie im Bereich <bpt id="p1">**</bpt>Benachrichtigungen<ept id="p1">**</ept> unter <bpt id="p2">**</bpt>Mailserver<ept id="p2">**</ept> die folgenden Informationen ein:</target>
+          
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Field</source>
+          <target state="translated">Feld</target>
+          
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Beschreibung</target>
+          
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Value</source>
+          <target state="translated">Wert</target>
+          
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>SMTP server endpoint (required)</source>
+          <target state="translated">SMTP-Server-Endpunkt (erforderlich)</target>
+          
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Enter the FQDN of your SMTP server and optionally change the port number (default 25).</source>
+          <target state="translated">Geben Sie den vollqualifizierten Domänennamen des SMTP-Servers ein, und ändern Sie optional die Portnummer (standardmäßig 25).</target>
+          
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>For example:</source>
+          <target state="translated">Beispiel:</target>
+          
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>smtp.contoso.com</source>
+          <target state="translated">smtp.contoso.com</target>
+          
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>SSL</source>
+          <target state="translated">SSL</target>
+          
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Toggle SSL if the SMTP server required SSL.</source>
+          <target state="translated">Schalten Sie auf SSL-Betrieb um, falls der SMTP-Server SSL erfordert.</target>
+          
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> If you enable SSL you will also need to change the Port number.</source>
+          <target state="translated"><bpt id="p1">**</bpt>Hinweis:<ept id="p1">**</ept> Wenn Sie SSL aktivieren, müssen Sie auch die Portnummer ändern.</target>
+          
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Default is disabled</source>
+          <target state="translated">Der Standardwert ist „deaktiviert“</target>
+          
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Authentication</source>
+          <target state="translated">Authentifizierung</target>
+          
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Enable if your SMTP server requires authentication.</source>
+          <target state="translated">Aktivieren Sie diese Option, falls der Proxyserver eine Authentifizierung erfordert.</target>
+          
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> If you enable authentication you must provide a user name and password of an email account that has permission to connect to the SMTP server.</source>
+          <target state="translated"><bpt id="p1">**</bpt>Hinweis:<ept id="p1">**</ept> Wenn Authentifizierung aktiviert ist, müssen ein Benutzername und ein Kennwort für ein E-Mail-Konto eingegeben werden, das für den Aufbau einer Verbindung mit dem SMTP-Server berechtigt ist.</target>
+          
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Default is disabled</source>
+          <target state="translated">Der Standardwert ist „deaktiviert“</target>
+          
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Send from (required)</source>
+          <target state="translated">Senden von (erforderlich)</target>
+          
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Enter an email address from whom the email will be sent from.</source>
+          <target state="translated">Geben Sie die E-Mail-Adresse ein, die als Absender der E-Mail eingetragen wird.</target>
+          
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>For example:</source>
+          <target state="translated">Beispiel:</target>
+          
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>ATA@contoso.com</source>
+          <target state="translated">ATA@contoso.com</target>
+          
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>ATA email server settings image</source>
+          <target state="translated">Bild mit den ATA-E-Mail-Servereinstellungen</target>
+          
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Provide ATA with your Syslog server settings</source>
+          <target state="translated">Bereitstellen der Einstellungen Ihres Syslog-Servers für ATA</target>
+          
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>ATA can notify you when it detects a suspicious activity by sending the notification to your Syslog server.</source>
+          <target state="translated">ATA kann Sie durch Senden der Benachrichtigung an den Syslog-Server benachrichtigen, wenn verdächtige Aktivität erkannt wird.</target>
+          
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>If you enable Syslog notifications, you can set the following for them.</source>
+          <target state="translated">Wenn Syslog-Benachrichtigungen aktiviert werden, lassen sich dafür folgende Einstellungen vornehmen.</target>
+          
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Before configuring Syslog notifications, work with your SIEM admin to find out the following information:</source>
+          <target state="translated">Vor dem Konfigurieren von Syslog-Benachrichtigungen sollten Sie gemeinsam mit dem zuständigen SIEM-Administrator folgende Angaben ermitteln:</target>
+          
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>FQDN or IP address of the SIEM server</source>
+          <target state="translated">FQDN oder IP-Adresse des SIEM-Servers</target>
+          
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Port on which the SIEM server is listening</source>
+          <target state="translated">Port, der vom SIEM-Server abgehört wird</target>
+          
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>What transport to use: UDP, TCP or TLS (Secured Syslog)</source>
+          <target state="translated">Transportprotokoll: UDP, TCP oder TLS (geschütztes Syslog)</target>
+          
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Format in which to send the data RFC 3164 or 5424</source>
+          <target state="translated">Versandformat der Daten: RFC 3164 oder 5424</target>
+          
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>On the ATA Center server, click the <bpt id="p1">**</bpt>Microsoft Advanced Threat Analytics Management<ept id="p1">**</ept> icon on the desktop.</source>
+          <target state="translated">Klicken Sie auf dem ATA Center-Server auf das Symbol <bpt id="p1">**</bpt>Microsoft Advanced Threat Analytics Management<ept id="p1">**</ept> auf dem Desktop.</target>
+          
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Enter your user name and password and click <bpt id="p1">**</bpt>Log in<ept id="p1">**</ept>.</source>
+          <target state="translated">Geben Sie Ihren Benutzernamen und Ihr Kennwort ein, und klicken Sie auf <bpt id="p1">**</bpt>Anmelden<ept id="p1">**</ept>.</target>
+          
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Select the settings option on the toolbar and select <bpt id="p1">**</bpt>Configuration<ept id="p1">**</ept>.</source>
+          <target state="translated">Wählen Sie auf der Symbolleiste die Einstellungsoption und dann <bpt id="p1">**</bpt>Konfiguration<ept id="p1">**</ept> aus.</target>
+          
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>ATA configuration settings icon</source>
+          <target state="translated">Symbol der ATA-Konfigurationseinstellungen</target>
+          
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Under Notifications section, Select <bpt id="p1">**</bpt>Syslog server<ept id="p1">**</ept> and enter the following information:</source>
+          <target state="translated">Wählen Sie im Bereich „Benachrichtigungen“ <bpt id="p1">**</bpt>Syslog-Server<ept id="p1">**</ept> aus, und geben Sie die folgende Informationen ein:</target>
+          
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Field</source>
+          <target state="translated">Feld</target>
+          
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Beschreibung</target>
+          
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Syslog server endpoint</source>
+          <target state="translated">Syslog-Server-Endpunkt</target>
+          
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>FQDN of the Syslog server and optionally change the port number (default 514)</source>
+          <target state="translated">Geben Sie den vollqualifizierten Domänennamen des Syslog-Servers ein, und ändern Sie optional die Portnummer (standardmäßig 514).</target>
+          
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Transport</source>
+          <target state="translated">Transport</target>
+          
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Can be UDP, TCP or TLS (Secured Syslog)</source>
+          <target state="translated">Kann UDP, TCP oder TLS (sicheres Syslog) sein</target>
+          
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Format</source>
+          <target state="translated">Format</target>
+          
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>This is the format that ATA uses to send events to the SIEM server - either RFC 5424 or RFC 3164.</source>
+          <target state="translated">Dies ist das von ATA verwendete Format für das Senden der Ereignisse an den SIEM-Server: RFC 5424 oder RFC 3164.</target>
+          
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>ATA Syslog server settings image</source>
+          <target state="translated">ATA Syslog server settings image</target>
+          
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>See Also</source>
+          <target state="translated">Weitere Informationen</target>
+          
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>Check out the ATA forum!</source>
+          <target state="translated">Weitere Informationen finden Sie im ATA-Forum.</target>
+          
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

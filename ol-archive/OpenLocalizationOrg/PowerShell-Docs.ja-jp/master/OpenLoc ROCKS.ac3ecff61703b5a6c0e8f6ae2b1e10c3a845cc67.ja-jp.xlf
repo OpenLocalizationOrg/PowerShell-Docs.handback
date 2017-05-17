@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="ja-jp">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-1c394fd" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1e97e7496cbb66ff8b8a10b1412383cf9f3f4c34</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dsc\Test1\OpenLoc ROCKS.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9fb884c10a688785ff083cdf504d12780e6a3560</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8c8fbdd129a608b9009a59ccc242792bd3d76915</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>I really like OpenLoc.</source>
+          <target state="translated">私が好き OpenLoc します。</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>It works <bpt id="p1">*</bpt>exceptionally<ept id="p1">*</ept> well.</source>
+          <target state="translated">うまく <bpt id="p1">*</bpt>非常に<ept id="p1">*</ept> もします。</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Not sure <bpt id="p1">***</bpt>what else<ept id="p1">***</ept> to say??</source>
+          <target state="translated">わからない <bpt id="p1">***</bpt>他に何<ept id="p1">***</ept> たい [概要] タブ</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>OK, one more update.</source>
+          <target state="translated">[Ok] を 1 つ以上の更新。</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Pure genius.</source>
+          <target state="translated">純粋な天才します。</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>And yet another update.</source>
+          <target state="translated">さらに別の更新します。</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>From Sonja.</source>
+          <target state="translated">Sonja します。</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Cool.</source>
+          <target state="translated">いいですね。</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>MORE UPDATES.</source>
+          <target state="translated">更新します。</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>LOVE THEM.</source>
+          <target state="translated">それらが大好きです。</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>And yet another update.</source>
+          <target state="translated">さらに別の更新します。</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Fabulous.</source>
+          <target state="translated">すばらしい。</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

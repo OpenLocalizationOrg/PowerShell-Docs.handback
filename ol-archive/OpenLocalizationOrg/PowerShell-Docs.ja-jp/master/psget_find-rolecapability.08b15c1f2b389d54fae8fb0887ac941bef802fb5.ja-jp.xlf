@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="ja-jp">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-1c394fd" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">34220e3fcf97066fc3c2a1253d98ab5dead14441</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">gallery\psget\module\psget_find-rolecapability.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">27c703f1ed1ce771a657464b2e992adcb746fc50</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6cc68a7993f04dd33cf70885c1ae7eaeac07a7d1</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Find-RoleCapability</source>
+          <target state="translated">検索 RoleCapability</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Finds role capabilities in modules.</source>
+          <target state="translated">モジュール内のロールの機能を検索します。</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">説明</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>The Find-RoleCapability cmdlet finds PowerShell role capabilities in modules.</source>
+          <target state="translated">検索 RoleCapability コマンドレットは、モジュールで PowerShell ロール機能を検索します。</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Find-RoleCapability searches modules in registered repositories.</source>
+          <target state="translated">検索 RoleCapability は、登録されているリポジトリでモジュールを検索します。</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>For each role capability that this cmdlet finds, it returns a PSGetRoleCapabilityInfo object.</source>
+          <target state="translated">このコマンドレットが検出された各ロール機能の PSGetRoleCapabilityInfo オブジェクトを返します。</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>You can pass a PSGetRoleCapabilityInfo object to the Install-Module cmdlet to install the module that contains the role capability.</source>
+          <target state="translated">PSGetRoleCapabilityInfo オブジェクトは、ロール機能を含むモジュールをインストールするインストール モジュールのコマンドレットに渡すことができます。</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>PowerShell role capabilities define which commands, applications, and so on are available to a user at a Just Enough Administration (JEA) endpoint.</source>
+          <target state="translated">アプリケーションというようにユーザーが利用できる、だけ十分な Administration (JEA) エンドポイントでを PowerShell ロール機能は、コマンドを定義します。</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Role capabilities are defined by files with a .psrc extension.</source>
+          <target state="translated">ロールの機能は、.psrc 拡張子の付いたファイルによって定義されます。</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Find-RoleCapability can filter with version parameters: MinimumVersion, RequiredVersion, AllVersions.</source>
+          <target state="translated">検索 RoleCapability がバージョン パラメーターを使用してフィルター処理できます。 MinimumVersion RequiredVersion、AllVersions です。</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>These parameters are mutually exclusive.</source>
+          <target state="translated">これらのパラメーターでは、相互に排他的です。</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>These version parameters are allowed only with the single module name without any wildcards.</source>
+          <target state="translated">これらのバージョン パラメーターは、任意のワイルドカードを含まない 1 つのモジュール名のみで許可されます。</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>If the RequiredVersion parameter is not specified, Find-RoleCapability returns the latest version of the module that is equal to or greater than the minimum version specified or the latest version of the module if no minimum version is specified.</source>
+          <target state="translated">RequiredVersion パラメーターが指定されていない場合、検索 RoleCapability は最低限のバージョンが指定されていない場合、同じかまたは指定された最小のバージョンや、モジュールの最新のバージョンよりも大きいは、モジュールの最新バージョンを返します。</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>If the RequiredVersion parameter is specified, Find-RoleCapability only returns the version of the module that exactly matches the specified version.</source>
+          <target state="translated">RequiredVersion パラメーターが指定されている場合、指定したバージョンを完全に一致するモジュールのバージョンは検索 RoleCapability だけを返します。</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Find-RoleCapability can filter on module metadata with the -Tag parameter</source>
+          <target state="translated">モジュールのメタデータにフィルターされます検索 RoleCapability タグ パラメーターを使用。</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Find-RoleCapability can filter on repository-specific search language with the -Filter parameter.</source>
+          <target state="translated">リポジトリに固有の検索の言語にフィルターされます。 検索 RoleCapability フィルター パラメーターを使用します。</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Find-RoleCapability can filter on modules from all or few of the registered repositories.</source>
+          <target state="translated">検索 RoleCapability は、登録されているリポジトリのほとんどまたはすべてのモジュールにフィルター処理できます。</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Cmdlet syntax</source>
+          <target state="translated">コマンドレット構文</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Cmdlet online help reference</source>
+          <target state="translated">コマンドレットのオンライン ヘルプ リファレンス</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Find-RoleCapability<ept id="p1">](http://go.microsoft.com/fwlink/?LinkId=718029)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>検索 RoleCapability<ept id="p1">](http://go.microsoft.com/fwlink/?LinkId=718029)</ept></target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Example commands</source>
+          <target state="translated">コマンド例</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

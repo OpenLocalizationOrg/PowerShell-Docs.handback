@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-1c394fd" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">df940c200d4099560fdeb24bc471816f576f50db</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">gallery\psget\repository\psget_get-psrepository.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions" />
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e8b0e503f3a14c56bd2cbf20b22c510f202fa56f</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">096caf9436c7e9cf26412ab041edbe9bf3fb36ce</xliffext:olxliffhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Get-PSRepository</source>
+          <target state="translated">Get-PSRepository</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Gets the registered repositories on a computer.</source>
+          <target state="translated">Ruft die registrierten Repositorys auf einem Computer ab.</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Beschreibung</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>The Get-PSRepository cmdlet gets PowerShell module repositories that are registered for the current user on a computer.</source>
+          <target state="translated">Das Cmdlet "Get-PSRepository" ruft PowerShell-Modul-Repositorys, die registriert sind, für den aktuellen Benutzer auf einem Computer.</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>For each registered repository, Get-PSRepository returns a PSRepository object which can optionally be piped to Unregister-PSRepository for unregistering a registered repository.</source>
+          <target state="translated">Für jeden registrierten Repository gibt Get-PSRepository ein PSRepository-Objekt, das optional geleitet werden kann, Unregister-PSRepository zum Aufheben der Registrierung einer registrierten Repository zurück.</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Cmdlet syntax</source>
+          <target state="translated">Cmdlet-syntax</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Cmdlet online help reference</source>
+          <target state="translated">Online-Hilfe-Cmdlet-Referenz</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Get-PSRepository<ept id="p1">](http://go.microsoft.com/fwlink/?LinkID=517127)</ept></source>
+          <target state="translated"><bpt id="p1">[</bpt>Get-PSRepository<ept id="p1">](http://go.microsoft.com/fwlink/?LinkID=517127)</ept></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Example commands</source>
+          <target state="translated">Beispiele für Befehle</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
