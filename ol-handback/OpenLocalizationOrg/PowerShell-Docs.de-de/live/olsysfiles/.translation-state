@@ -1,5 +1,6 @@
 {
   "LastProcessedCommit": "1b901393eb419c2b6c804781a96f75862af10e11",
+  "LastTranslatedCommit": "291d39741e82d22ac3564155efa27d4f992eceda",
   "LastConfigHash": "ea7022742735e6f640574758d406185d14bbc88b",
   "Items": {
     "c3b8854dbecd4ab03e46c51a23ac00461bdd7014": {
@@ -866,6 +867,12 @@
       "HandoffDateTime": "2017-08-18T09:40:27.5266146Z",
       "HandoffXliffHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
       "HandoffPriority": "",
+      "TargetFileCommit": "291d39741e82d22ac3564155efa27d4f992eceda",
+      "TargetFilePath": "test\\empty.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\empty.1767202d020d8640e051d7dfaf573bbe0c560126.de-de.xlf",
+      "HandbackFileCommit": "71c4f23c74ddfd666136c29127c0d9d933ff29db",
+      "HandbackDateTime": "2017-08-18T09:45:48.7593599Z",
+      "UpdatedDateTime": "2017-08-18T09:45:48.7593599Z",
       "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\empty.1767202d020d8640e051d7dfaf573bbe0c560126.de-de.xlf",
       "ArchiveFileCommit": "54ce6ab87617ba47fbbb756c7c4916333fda46a9",
       "ArchiveFileDateTime": "2017-08-18T09:40:28.6706942Z"
