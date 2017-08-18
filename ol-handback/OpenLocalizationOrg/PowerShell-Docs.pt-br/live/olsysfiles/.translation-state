@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "1b901393eb419c2b6c804781a96f75862af10e11",
+  "LastProcessedCommit": "1cc7082ffc28d8c0370b5cdc0eb435eb557a30d7",
   "LastTranslatedCommit": "65231b2b555d724b2d32c6ebc33bdf89fee11458",
   "LastConfigHash": "ea7022742735e6f640574758d406185d14bbc88b",
   "Items": {
@@ -876,6 +876,25 @@
       "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.pt-br\\live\\empty.1767202d020d8640e051d7dfaf573bbe0c560126.pt-br.xlf",
       "ArchiveFileCommit": "abe980ee2135fecf57cd87f716bac4242ebfad21",
       "ArchiveFileDateTime": "2017-08-18T09:45:30.0644442Z"
+    },
+    "69cc42589c74f7a2100c1ba6e33dd1b2157c741e": {
+      "FileHash": "69cc42589c74f7a2100c1ba6e33dd1b2157c741e",
+      "SourceFileCommit": "1cc7082ffc28d8c0370b5cdc0eb435eb557a30d7",
+      "SourceFilePath": "test\\empty.md",
+      "HandoffReason": 1,
+      "FilePathList": [
+        "test\\empty.md"
+      ],
+      "HasMetadata": true,
+      "TranslationType": 2,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.pt-br\\live\\empty.1767202d020d8640e051d7dfaf573bbe0c560126.pt-br.xlf",
+      "HandoffFileCommit": "9ee6c13e4ac70c0916bdd5c0e0f7341e2db84a9b",
+      "HandoffDateTime": "2017-08-18T10:05:40.8683016Z",
+      "HandoffXliffHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.pt-br\\live\\empty.1767202d020d8640e051d7dfaf573bbe0c560126.pt-br.xlf",
+      "ArchiveFileCommit": "564caa7bc98fbaef0c79dbd98bab1b2801b6c92a",
+      "ArchiveFileDateTime": "2017-08-18T10:05:41.2276762Z"
     }
   }
 }
