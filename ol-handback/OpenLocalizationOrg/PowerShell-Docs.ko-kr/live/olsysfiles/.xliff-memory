@@ -310,7 +310,9 @@
       "SourceFilename": "test\\empty.md",
       "XliffHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.ko-kr\\live\\6075a76af06b1fbe98759a752100f3d82cad6015.3cb1a4b37a469c8af929f5311a73f3b42d676ea6.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.ko-kr\\live\\6075a76af06b1fbe98759a752100f3d82cad6015.3cb1a4b37a469c8af929f5311a73f3b42d676ea6.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.ko-kr\\live\\empty.1767202d020d8640e051d7dfaf573bbe0c560126.ko-kr.xlf",
+      "LocXliffCommit": "2ab3397df8c57165162be222083e707fffe68363"
     }
   }
 }
