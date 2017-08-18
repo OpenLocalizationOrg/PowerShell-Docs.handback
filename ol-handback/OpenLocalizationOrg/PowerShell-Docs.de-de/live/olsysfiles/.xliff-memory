@@ -10,79 +10,105 @@
       "SourceFilename": "dsc\\pullClientConfigID.md",
       "XliffHash": "a7e1c0470f94cd0a4a8cc031905e1ccffe6f3971",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\54bb78b313c4f0c721862910496c5154ed5444ef.a4989be7c8b70d56ffb9afe38a398ae8bb178428.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\54bb78b313c4f0c721862910496c5154ed5444ef.a4989be7c8b70d56ffb9afe38a398ae8bb178428.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\pullClientConfigID.1b955603d220e49bbe52711bacf74c46feec04cc.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\lnxFileResource.md.433e2102f2763cec100b85f08f72bacfc073bb10.MT": {
       "SourceFilename": "dsc\\lnxFileResource.md",
       "XliffHash": "433e2102f2763cec100b85f08f72bacfc073bb10",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\8be1ad92f73cb8ddb2ced42d6471c90a67807b7a.5cdc442d8b6944193363f1c67f34f8aecf2fcd34.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\8be1ad92f73cb8ddb2ced42d6471c90a67807b7a.5cdc442d8b6944193363f1c67f34f8aecf2fcd34.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxFileResource.1f67ed46e7bb4ac04f73143e1d7ab7e9199d3191.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\windowsfeatureResource.md.7f9d624d8a4d519df03e71647f03e7dd17c6a03c.MT": {
       "SourceFilename": "dsc\\windowsfeatureResource.md",
       "XliffHash": "7f9d624d8a4d519df03e71647f03e7dd17c6a03c",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\1484f03d1d80b73e3131095e3363b246929a0a35.b468863c51effc2df22e88681d1a2d3f497a18d9.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\1484f03d1d80b73e3131095e3363b246929a0a35.b468863c51effc2df22e88681d1a2d3f497a18d9.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\lnxBuiltInResources.md.8d8d987493a2c4fb3d95454565037eaf381ab0fb.MT": {
       "SourceFilename": "dsc\\lnxBuiltInResources.md",
       "XliffHash": "8d8d987493a2c4fb3d95454565037eaf381ab0fb",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\e4d20bc0f083c463514e2044ce86679041263075.e0dd9115a3d5f537012d4f6f4856da141115043f.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\e4d20bc0f083c463514e2044ce86679041263075.e0dd9115a3d5f537012d4f6f4856da141115043f.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxBuiltInResources.12cc0e2a7d17afe6b1e1b9c928760080863926f9.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\lnxUserResource.md.06c933680fce35ac6decbcbe5047610fc1dc586c.MT": {
       "SourceFilename": "dsc\\lnxUserResource.md",
       "XliffHash": "06c933680fce35ac6decbcbe5047610fc1dc586c",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\31eea97ab4912ca241557cddbf59929e085ebe80.4f038732618215f34b6c1a01d33324cdf75dad14.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\31eea97ab4912ca241557cddbf59929e085ebe80.4f038732618215f34b6c1a01d33324cdf75dad14.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxUserResource.2376554a25dd8dfad6a78a6180b7c7166e4817e1.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\metaConfig4.md.a128433d9f3821dd4c37bc57cc029b5bb57e4f12.MT": {
       "SourceFilename": "dsc\\metaConfig4.md",
       "XliffHash": "a128433d9f3821dd4c37bc57cc029b5bb57e4f12",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\ef2664b6dd61bd55898971adf7e4a57f92be88cc.010fd94117b563ece4f580bbd5be1ca12fe71e37.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\ef2664b6dd61bd55898971adf7e4a57f92be88cc.010fd94117b563ece4f580bbd5be1ca12fe71e37.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\metaConfig4.4ec702d458e6574099cead724f0e57c3c5d262df.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\lnxSshAuthorizedKeysResource.md.a86df1947e462977967b42c3e90e4507ccb1a96f.MT": {
       "SourceFilename": "dsc\\lnxSshAuthorizedKeysResource.md",
       "XliffHash": "a86df1947e462977967b42c3e90e4507ccb1a96f",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\6b36c9b34b8f76cbae8443058dbd949e47dbc0b2.0d839af9ad2e509607f67dff6249201351591e55.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\6b36c9b34b8f76cbae8443058dbd949e47dbc0b2.0d839af9ad2e509607f67dff6249201351591e55.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxSshAuthorizedKeysResource.9a647ff238cd38a2fc7da58f3cc5682acf7d3346.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\serviceResource.md.9eb079136bc8f12f0bbbc98bf27c4d4ec8a7a27a.MT": {
       "SourceFilename": "dsc\\serviceResource.md",
       "XliffHash": "9eb079136bc8f12f0bbbc98bf27c4d4ec8a7a27a",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\ca609ad6055d8053e43e482ed2e57b3db41c3549.d04038f42f6403dd074d9477f36e3fc494a3cbfc.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\ca609ad6055d8053e43e482ed2e57b3db41c3549.d04038f42f6403dd074d9477f36e3fc494a3cbfc.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\secureServer.md.c261156340ab49805bdddacee5a359aa3dcb90f1.MT": {
       "SourceFilename": "dsc\\secureServer.md",
       "XliffHash": "c261156340ab49805bdddacee5a359aa3dcb90f1",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\2290a81a8dbc82b7881d2b6006d70a90578f9a56.630d9048173141516cd0ef5d451f6c7d6ab81a0b.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\2290a81a8dbc82b7881d2b6006d70a90578f9a56.630d9048173141516cd0ef5d451f6c7d6ab81a0b.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\secureServer.ce207607010d18109152742ba23c923cd3cddba2.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\packageResource.md.0713735d6238e166a4a057d3501b6c1c657611c2.MT": {
       "SourceFilename": "dsc\\packageResource.md",
       "XliffHash": "0713735d6238e166a4a057d3501b6c1c657611c2",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\9c9f1da0b560c44c9760583c4193bdf4eaee09f7.4d1cfd568fcbaf69b68a1534aa63bb26f2461051.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\9c9f1da0b560c44c9760583c4193bdf4eaee09f7.4d1cfd568fcbaf69b68a1534aa63bb26f2461051.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\packageResource.132c4949cee174dc0dc324456d220436cb9884e6.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\pullClientConfigNames.md.01fe1f6a2e48d8eba78a23ba48ace18edeb383e3.MT": {
       "SourceFilename": "dsc\\pullClientConfigNames.md",
       "XliffHash": "01fe1f6a2e48d8eba78a23ba48ace18edeb383e3",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\42c9a0b9ad1f9073bb9c927e68baa7e9d7b77d95.301f255c094ec83c2d3ecbb94f2141ea9a8f83bb.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\42c9a0b9ad1f9073bb9c927e68baa7e9d7b77d95.301f255c094ec83c2d3ecbb94f2141ea9a8f83bb.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\pullClientConfigNames.90531abb3b29bfd751ad2f3a115a4ba02024827e.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\lnxGroupResource.md.7723d3ca97453fc8c5df3c564ee20dfeb96ab475.MT": {
       "SourceFilename": "dsc\\lnxGroupResource.md",
       "XliffHash": "7723d3ca97453fc8c5df3c564ee20dfeb96ab475",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\9bda555be3a52c574eccfa66b114883e2f543c70.2b5ab0a3edfb7b9b2b1ada92a3dc200b83cd8eef.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\9bda555be3a52c574eccfa66b114883e2f543c70.2b5ab0a3edfb7b9b2b1ada92a3dc200b83cd8eef.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxGroupResource.0cedb684d797032bd47cdb852629c36da0884567.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\fileResource.md.d40a76054001e4be1e708f7f40b8e981dc3ae0d5.MT": {
       "SourceFilename": "dsc\\fileResource.md",
       "XliffHash": "d40a76054001e4be1e708f7f40b8e981dc3ae0d5",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\ce115dd79b0793718f8e79bb465f244b7cc725b1.e37f83680bc2912a0fca1b0c7dd42614fc9f9bdb.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\ce115dd79b0793718f8e79bb465f244b7cc725b1.e37f83680bc2912a0fca1b0c7dd42614fc9f9bdb.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\userResource.md.d290754db7183ac1b43c1e0e6d44507a425f8076.MT": {
       "SourceFilename": "dsc\\userResource.md",
@@ -94,25 +120,33 @@
       "SourceFilename": "dsc\\scriptResource.md",
       "XliffHash": "5357917cd9938196c6d461cb9170e25b5c5aecbc",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\b081337b68091f95498d23fecbc64701866b2cec.1393e44b72e3003bac52d0df23881390437cb295.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\b081337b68091f95498d23fecbc64701866b2cec.1393e44b72e3003bac52d0df23881390437cb295.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\lnxGettingStarted.md.614779a5683f4bad8957f7b27ed5f7cdb3494cd5.MT": {
       "SourceFilename": "dsc\\lnxGettingStarted.md",
       "XliffHash": "614779a5683f4bad8957f7b27ed5f7cdb3494cd5",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\ce17b7bb17435cd925f196e4736114982de4e056.63f90f45a8aba1b062383e30bd26048ac64f0116.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\ce17b7bb17435cd925f196e4736114982de4e056.63f90f45a8aba1b062383e30bd26048ac64f0116.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxGettingStarted.1601cf6d0eb8b4f7343575c8fbf2106bfaad8b65.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\lnxEnvironmentResource.md.9eecb5e404cc99bdff0e4e1280684474123254e6.MT": {
       "SourceFilename": "dsc\\lnxEnvironmentResource.md",
       "XliffHash": "9eecb5e404cc99bdff0e4e1280684474123254e6",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\ef0812e4b382b5efb6e6f42d8671fab3ab663a4b.56ca67fa28b945b113c58a8398b2c6aadf904940.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\ef0812e4b382b5efb6e6f42d8671fab3ab663a4b.56ca67fa28b945b113c58a8398b2c6aadf904940.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxEnvironmentResource.60c6523b1d06708f748c9039105a2042fa341552.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\pullServer.md.623704b9af17b618714ad9b678ecda71e7787d7f.MT": {
       "SourceFilename": "dsc\\pullServer.md",
       "XliffHash": "623704b9af17b618714ad9b678ecda71e7787d7f",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\2668c9aa8c36621eb9797e634354bc7fa285d3b8.87e3fed441dad6f8efdd2d5481a55f94de8c0f7c.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\2668c9aa8c36621eb9797e634354bc7fa285d3b8.87e3fed441dad6f8efdd2d5481a55f94de8c0f7c.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\pullServer.4b925b277da29998394af746bdbdd508fda48909.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\TOC.md.e2773aaeb4acac23496ea1288f4403711a22061e.MT": {
       "SourceFilename": "dsc\\TOC.md",
@@ -124,55 +158,73 @@
       "SourceFilename": "README.md",
       "XliffHash": "251aca4663707076dd8dc262ff6047809765e619",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\8c1262cca40e2a1f72254cf349d163ee2a4bcebe.c1a0f003bbba37dcc89f150ae2fffa7938312f33.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\8c1262cca40e2a1f72254cf349d163ee2a4bcebe.c1a0f003bbba37dcc89f150ae2fffa7938312f33.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\lnxArchiveResource.md.b4d744a4c8740e8289d3d80837c475fe64aa038d.MT": {
       "SourceFilename": "dsc\\lnxArchiveResource.md",
       "XliffHash": "b4d744a4c8740e8289d3d80837c475fe64aa038d",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\2e0a09a025bcee8fc97e417b21a51773904a0d2e.4aebeabf7f64cd6df33103ff687bda0c326dcded.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\2e0a09a025bcee8fc97e417b21a51773904a0d2e.4aebeabf7f64cd6df33103ff687bda0c326dcded.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxArchiveResource.095aab7d23720fd394f2573c30223a6bbcc0a4ef.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\archiveResource.md.323a35a53f7eed53ed46187e6edaf27b9e7dc44c.MT": {
       "SourceFilename": "dsc\\archiveResource.md",
       "XliffHash": "323a35a53f7eed53ed46187e6edaf27b9e7dc44c",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\4da61995a6b849dedc3ac8ec8ab3edbbdccb28c8.6110a6c180c429fd81ae308fcf7f1b8b148a0b81.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\4da61995a6b849dedc3ac8ec8ab3edbbdccb28c8.6110a6c180c429fd81ae308fcf7f1b8b148a0b81.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\metaConfig.md.b4d271e7fb1f4f2cdd0861fc75bd3bd8815d2100.MT": {
       "SourceFilename": "dsc\\metaConfig.md",
       "XliffHash": "b4d271e7fb1f4f2cdd0861fc75bd3bd8815d2100",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\d7b3908ae670a7bcc976f2675834316862a25802.fb57d2403bc0a448e8f311ac45182964f5d0e080.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\d7b3908ae670a7bcc976f2675834316862a25802.fb57d2403bc0a448e8f311ac45182964f5d0e080.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\metaConfig.915dba9ed66671e4a41c35a16d5248bb4c94e3d6.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\logResource.md.738677dc262202eff48cee8369288868bd0f322a.MT": {
       "SourceFilename": "dsc\\logResource.md",
       "XliffHash": "738677dc262202eff48cee8369288868bd0f322a",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\0f4922e1df8725aad839211dbe0dfc532692f606.079d6624ae507b0d7bc1a76e0d759114986b0f38.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\0f4922e1df8725aad839211dbe0dfc532692f606.079d6624ae507b0d7bc1a76e0d759114986b0f38.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\logResource.07af9dfcf6076ef19059178c3b404762677920f0.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\authoringResourceMofDesigner.md.eb91562b8e0ecb4f644c63c6b71cf23f98721e7c.MT": {
       "SourceFilename": "dsc\\authoringResourceMofDesigner.md",
       "XliffHash": "eb91562b8e0ecb4f644c63c6b71cf23f98721e7c",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\a95d0b59a90cbae44ec8d68bdaf59a1e318736d9.dab229617dec0195127e22da248bd98dc52af7d2.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\a95d0b59a90cbae44ec8d68bdaf59a1e318736d9.dab229617dec0195127e22da248bd98dc52af7d2.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\authoringResourceMofDesigner.09b1adffc4afb0d9b1154880e2dab0b25d82d51b.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\lnxServiceResource.md.94796feb21c917a171fe200e3eebcbc5465e63d9.MT": {
       "SourceFilename": "dsc\\lnxServiceResource.md",
       "XliffHash": "94796feb21c917a171fe200e3eebcbc5465e63d9",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\3d766f5b9e2bb9284e717d5a998b1a7c291221fc.38d7b52913314e7c780891dc9e692bc2bb32ec08.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\3d766f5b9e2bb9284e717d5a998b1a7c291221fc.38d7b52913314e7c780891dc9e692bc2bb32ec08.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxServiceResource.e637c7f7b18939ec8c16eadf2c42ab00e236fb7b.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\resources.md.770de9bedae476e1c591a05f5ac29f866beefefa.MT": {
       "SourceFilename": "dsc\\resources.md",
       "XliffHash": "770de9bedae476e1c591a05f5ac29f866beefefa",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\df54abe3d92ffaff2998e9fb3157b42cf83143c2.9d5a4a84b8bf133935f91a8001e42ace13a026c1.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\df54abe3d92ffaff2998e9fb3157b42cf83143c2.9d5a4a84b8bf133935f91a8001e42ace13a026c1.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\troubleshooting.md.6be19152e4988fcaec28ca8283cd613cf24037ef.MT": {
       "SourceFilename": "dsc\\troubleshooting.md",
       "XliffHash": "6be19152e4988fcaec28ca8283cd613cf24037ef",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\2886767875ee6a9882ca050e34787cfa1fb64109.2cc15ea6a725ac9fbe256f09da5ef6f99f2f38f0.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\2886767875ee6a9882ca050e34787cfa1fb64109.2cc15ea6a725ac9fbe256f09da5ef6f99f2f38f0.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\authoringResource.md.3e8003341fa7e89e3468a5c447fa8f0624b205d1.MT": {
       "SourceFilename": "dsc\\authoringResource.md",
@@ -184,31 +236,41 @@
       "SourceFilename": "dsc\\secureMOF.md",
       "XliffHash": "e1aa44efaa09d7881266ccb27ff258abd272a4c1",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\14cf6c2005eb756200e7fd065b61e4120d84c02e.6f2699621740f65a5cf87be4727941be89097576.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\14cf6c2005eb756200e7fd065b61e4120d84c02e.6f2699621740f65a5cf87be4727941be89097576.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\lnxPackageResource.md.24320bc8e12eb915aea4d8b36ab2d8c14ba95363.MT": {
       "SourceFilename": "dsc\\lnxPackageResource.md",
       "XliffHash": "24320bc8e12eb915aea4d8b36ab2d8c14ba95363",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\37c34dfa85386e8d190a5cfd459c3a6885cca838.e9c7c1c3139967fd7315e34505f0bf9a7f5badb8.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\37c34dfa85386e8d190a5cfd459c3a6885cca838.e9c7c1c3139967fd7315e34505f0bf9a7f5badb8.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxPackageResource.db35ab938bbfbb38cae53fe9ae98fd22b5f18009.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\builtInResource.md.d9eca72166ce7dff9f4673ee46e1a415609e6fc8.MT": {
       "SourceFilename": "dsc\\builtInResource.md",
       "XliffHash": "d9eca72166ce7dff9f4673ee46e1a415609e6fc8",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\e3243caa7ec8682a4010e25a4ae0b2359c2d7866.bdc3d6d455931d12567f84c61424128d1f5e089b.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\e3243caa7ec8682a4010e25a4ae0b2359c2d7866.bdc3d6d455931d12567f84c61424128d1f5e089b.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\builtInResource.2f855e1582347e986aa4e5e62b842b886596fdc2.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\lnxFileLineResource.md.84996d06f68c9873ee7b13a125deb0f13e58d5ca.MT": {
       "SourceFilename": "dsc\\lnxFileLineResource.md",
       "XliffHash": "84996d06f68c9873ee7b13a125deb0f13e58d5ca",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\0b7aa5b03a19ff1afa79f5ae96f24d034531e4b8.cf23bcce4c8a57a4078f1d859ac8e1d749aa7dd5.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\0b7aa5b03a19ff1afa79f5ae96f24d034531e4b8.cf23bcce4c8a57a4078f1d859ac8e1d749aa7dd5.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxFileLineResource.d91fc802a4c6cdbff5a2e35f92b34c36c6dbf5eb.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\pullClient.md.6fe4b772fe60b3ea0b7dc7b7b0df032f7361b306.MT": {
       "SourceFilename": "dsc\\pullClient.md",
       "XliffHash": "6fe4b772fe60b3ea0b7dc7b7b0df032f7361b306",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\4cb0a0836e56ca31f9e101be81e1427493cbbcd5.64293744a585798e82df13ec3177cc1512191cd8.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\4cb0a0836e56ca31f9e101be81e1427493cbbcd5.64293744a585798e82df13ec3177cc1512191cd8.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\pullClient.4844144e7d40a6e8b1be2cfaa80a5307f19f47f9.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\authoringResourceMofCS.md.189695f74a28372c661bea330805f5fbc5e22e12.MT": {
       "SourceFilename": "dsc\\authoringResourceMofCS.md",
@@ -220,91 +282,121 @@
       "SourceFilename": "dsc\\authoringResourceClass.md",
       "XliffHash": "36f3f1013c0e2919e12ff785d52606ff786c15c9",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\565d71def9c15b19f10ec144ff29e82b9e205e31.6e76249552bcb5d08375ce5c5979692e211ed5f7.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\565d71def9c15b19f10ec144ff29e82b9e205e31.6e76249552bcb5d08375ce5c5979692e211ed5f7.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\authoringResourceClass.3603134df9ad1cad202d10769ff631a083cc3aae.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\partialConfigs.md.e2d27759abd06ab2b92b8acf52d07f62d18d1279.MT": {
       "SourceFilename": "dsc\\partialConfigs.md",
       "XliffHash": "e2d27759abd06ab2b92b8acf52d07f62d18d1279",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\3f1843e8a1335617c562084ce69fc82ae7c2c694.010301cc9f6e69df7a11295c636e9d54aa51cd80.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\3f1843e8a1335617c562084ce69fc82ae7c2c694.010301cc9f6e69df7a11295c636e9d54aa51cd80.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\lnxScriptResource.md.2001560e8fcd81cac18d1e9076e9d2bf63dad9eb.MT": {
       "SourceFilename": "dsc\\lnxScriptResource.md",
       "XliffHash": "2001560e8fcd81cac18d1e9076e9d2bf63dad9eb",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\056b0c86701cfd096c863560836dc129ecefc862.d0548d0ab3eade64b13e9ed9ddf5be6fb099f9dc.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\056b0c86701cfd096c863560836dc129ecefc862.d0548d0ab3eade64b13e9ed9ddf5be6fb099f9dc.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxScriptResource.1344a5d5b807ee53705e93842d9ef5e25a883359.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\authoringResourceMOF.md.baf1eabcc8e636a6d1f6aa7d2d6348413e56b0a8.MT": {
       "SourceFilename": "dsc\\authoringResourceMOF.md",
       "XliffHash": "baf1eabcc8e636a6d1f6aa7d2d6348413e56b0a8",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\f64cbea29a1e9998b8ade46d69c1ef1c584bd633.f0e6a5b356febc53a1576441a148175d9fc1f3e4.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\f64cbea29a1e9998b8ade46d69c1ef1c584bd633.f0e6a5b356febc53a1576441a148175d9fc1f3e4.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\authoringResourceMOF.1f503c33425780c369e78193e2f2f4e9242c401b.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\registryResource.md.d83b74382a56c154c8b3c482f9d50b00b3ec582e.MT": {
       "SourceFilename": "dsc\\registryResource.md",
       "XliffHash": "d83b74382a56c154c8b3c482f9d50b00b3ec582e",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\44f3bb3bec83fd779c83d0326d55c88ead77cfba.3414c4fc083a68d4748d0a439c9e29d9d0fe947f.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\44f3bb3bec83fd779c83d0326d55c88ead77cfba.3414c4fc083a68d4748d0a439c9e29d9d0fe947f.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\queryServerNodes.md.edb1e44df98baba7f29c82cfb3ff6f04340924ca.MT": {
       "SourceFilename": "dsc\\queryServerNodes.md",
       "XliffHash": "edb1e44df98baba7f29c82cfb3ff6f04340924ca",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\fc1456c57ade6862957e54ee53f18f189785848a.32bc52ed127bef54b337b1c445e65aa1cd7c96bf.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\fc1456c57ade6862957e54ee53f18f189785848a.32bc52ed127bef54b337b1c445e65aa1cd7c96bf.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\windowsProcessResource.md.91e6d66d00b8ef03685f2535dce5ea186d8b6282.MT": {
       "SourceFilename": "dsc\\windowsProcessResource.md",
       "XliffHash": "91e6d66d00b8ef03685f2535dce5ea186d8b6282",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\47c387c525a58a88f18e61920736a6e0e7f2098d.585177eb5093b8c809e43e34ef6c2f0e2c4a97b7.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\47c387c525a58a88f18e61920736a6e0e7f2098d.585177eb5093b8c809e43e34ef6c2f0e2c4a97b7.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\overview.md.c200d3fc6ee5157ad9b98375e959abcb7a8ac35c.MT": {
       "SourceFilename": "dsc\\overview.md",
       "XliffHash": "c200d3fc6ee5157ad9b98375e959abcb7a8ac35c",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\7f5f99f0f0befde13272221e376006dffbddb994.d21d2ffa00f2ebcb05e29cf1d7bd418f2854663a.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\7f5f99f0f0befde13272221e376006dffbddb994.d21d2ffa00f2ebcb05e29cf1d7bd418f2854663a.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\pullClientConfigID4.md.593b4d642bc7ff7041e501137812fb89cc3a893a.MT": {
       "SourceFilename": "dsc\\pullClientConfigID4.md",
       "XliffHash": "593b4d642bc7ff7041e501137812fb89cc3a893a",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\3714670bd9ded38e54c1f2e3f64658950c6d3f40.83753c7d138bc831be950ac1c163f89a55976f43.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\3714670bd9ded38e54c1f2e3f64658950c6d3f40.83753c7d138bc831be950ac1c163f89a55976f43.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\pullClientConfigID4.3556f8028eee8a539990f2895506bcbafb14a012.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\environmentResource.md.6723edf02385a27676655a82058c0b959f7d9f7c.MT": {
       "SourceFilename": "dsc\\environmentResource.md",
       "XliffHash": "6723edf02385a27676655a82058c0b959f7d9f7c",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\f4ce18cb2680c7d9347a1887c282c3e4707a2c8c.66f44be12ab94eb24eecb51286f9406613355bac.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\f4ce18cb2680c7d9347a1887c282c3e4707a2c8c.66f44be12ab94eb24eecb51286f9406613355bac.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\environmentResource.eb91ffd4cd8bdb9476e5a83de1a20d3b7b502a56.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\configurations.md.3a93ad446db6a33cb9105a31955bb58a87c01ca7.MT": {
       "SourceFilename": "dsc\\configurations.md",
       "XliffHash": "3a93ad446db6a33cb9105a31955bb58a87c01ca7",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\065f423b82d69a7c9dbc6384711d2135a3b7e5ec.e6e2f96f41327505c94d9a59aeaa7e7421b20d83.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\065f423b82d69a7c9dbc6384711d2135a3b7e5ec.e6e2f96f41327505c94d9a59aeaa7e7421b20d83.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\configurations.02626ddbf3a00f8ede56fdfd2e46a027800e75b6.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "CONTRIBUTING.md.8f9829f7b312fd9942141a196c76f369e775a241.MT": {
       "SourceFilename": "CONTRIBUTING.md",
       "XliffHash": "8f9829f7b312fd9942141a196c76f369e775a241",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\c3b8854dbecd4ab03e46c51a23ac00461bdd7014.f70a3250e9544e228ee1ee6fb32af8ad2dd87a25.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\c3b8854dbecd4ab03e46c51a23ac00461bdd7014.f70a3250e9544e228ee1ee6fb32af8ad2dd87a25.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\CONTRIBUTING.3f454a98e586d1aa0d322e19afd5e67e08f2d3c8.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\configData.md.e247f4efeac795ef530b505bb4594fd0d3c9c6cd.MT": {
       "SourceFilename": "dsc\\configData.md",
       "XliffHash": "e247f4efeac795ef530b505bb4594fd0d3c9c6cd",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\25ea7bc8b398577cb2916ec833d61c38af812637.31cbc8cf954a40214e46bb14775877f70282c1d7.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\25ea7bc8b398577cb2916ec833d61c38af812637.31cbc8cf954a40214e46bb14775877f70282c1d7.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\configData.51d01a46dd9af8b425788cc485523b09f8470b95.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\enactingConfigurations.md.1371a063c008c07efd861e9c91e0b2d5f8a37e57.MT": {
       "SourceFilename": "dsc\\enactingConfigurations.md",
       "XliffHash": "1371a063c008c07efd861e9c91e0b2d5f8a37e57",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\277d3032f45323050e140f466f639e5606fef53a.00934f615fe9769d7e6c72383616ae3232fd5827.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\277d3032f45323050e140f466f639e5606fef53a.00934f615fe9769d7e6c72383616ae3232fd5827.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\enactingConfigurations.5949c3926cc7d368fa49b0ba340a078984794e5d.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\authoringResourceComposite.md.f37809aafbb100e71951125c1ac4112a743a0b4f.MT": {
       "SourceFilename": "dsc\\authoringResourceComposite.md",
       "XliffHash": "f37809aafbb100e71951125c1ac4112a743a0b4f",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\c7b9c9ffe6a4a82c8d8935ab75d9942bf8b9970d.f257f45231b8bf17ddb820b5cfd65b730aefdc0a.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\c7b9c9ffe6a4a82c8d8935ab75d9942bf8b9970d.f257f45231b8bf17ddb820b5cfd65b730aefdc0a.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\authoringResourceComposite.6d5d1e53e83e25cfc63e26078da390a4fa6737f2.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "test\\empty.md.da39a3ee5e6b4b0d3255bfef95601890afd80709.MT": {
       "SourceFilename": "test\\empty.md",
@@ -312,37 +404,47 @@
       "TranslationType": 2,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\69cc42589c74f7a2100c1ba6e33dd1b2157c741e.dca50f8cf62c0489974d4960d2ff14da14413d3a.xml",
       "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\empty.1767202d020d8640e051d7dfaf573bbe0c560126.de-de.xlf",
-      "LocXliffCommit": "71c4f23c74ddfd666136c29127c0d9d933ff29db"
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\groupResource.md.ed77e328a8430f983e8a4b92bc53005bdbf66b12.MT": {
       "SourceFilename": "dsc\\groupResource.md",
       "XliffHash": "ed77e328a8430f983e8a4b92bc53005bdbf66b12",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\bc098355d65bff2203a212f2387be6f79fbb63e8.bdc0c88f3af76a54bce073e91c6b74e2cc8e98aa.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\bc098355d65bff2203a212f2387be6f79fbb63e8.bdc0c88f3af76a54bce073e91c6b74e2cc8e98aa.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\groupResource.d19d416269795c92566b62c36b9782062dcea43e.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\userResource.md.14efc72078c60173aa8017edb677545fcff58611.MT": {
       "SourceFilename": "dsc\\userResource.md",
       "XliffHash": "14efc72078c60173aa8017edb677545fcff58611",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\e4b793025b00cb3137eddc0e7ec437f03abdf3c4.2bf743793417ce4b7f5eb7f549fd65d3795efe5d.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\e4b793025b00cb3137eddc0e7ec437f03abdf3c4.2bf743793417ce4b7f5eb7f549fd65d3795efe5d.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\userResource.5de4fbe03e9e06934442ba451eb0564931863f45.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\TOC.md.9dff3a53ef740b433449640938f5a34e71775f59.MT": {
       "SourceFilename": "dsc\\TOC.md",
       "XliffHash": "9dff3a53ef740b433449640938f5a34e71775f59",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\66cefb1620ad412d3f4e041561ae1df356fdb1e6.63e7e3bc6072284277d8b617ddf060d1751e1b8b.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\66cefb1620ad412d3f4e041561ae1df356fdb1e6.63e7e3bc6072284277d8b617ddf060d1751e1b8b.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\authoringResource.md.2b001dcfb39d87dc4cae076c0f3778676701d3a5.MT": {
       "SourceFilename": "dsc\\authoringResource.md",
       "XliffHash": "2b001dcfb39d87dc4cae076c0f3778676701d3a5",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\fde661d2dc3c7c099c34134f4e665ba02cc3ceb9.d6865c479a0eb8c76b0f4aa5910579004be5cdcb.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\fde661d2dc3c7c099c34134f4e665ba02cc3ceb9.d6865c479a0eb8c76b0f4aa5910579004be5cdcb.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     },
     "dsc\\authoringResourceMofCS.md.c06b7e3a0b717808ba92fcc27e0817d14d965f2a.MT": {
       "SourceFilename": "dsc\\authoringResourceMofCS.md",
       "XliffHash": "c06b7e3a0b717808ba92fcc27e0817d14d965f2a",
       "TranslationType": 2,
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\28a9448f7c815bc154612af16634435b6987b7fc.859d193d2604a9711e6784bf61b8b8fa15e1e7c7.xml"
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\28a9448f7c815bc154612af16634435b6987b7fc.859d193d2604a9711e6784bf61b8b8fa15e1e7c7.xml",
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\authoringResourceMofCS.0647b27b00ec52b2f524a2856e48bc7c29c0f867.de-de.xlf",
+      "LocXliffCommit": "5dc985f055c9ceb8f4d8b9ca52b970b51d419c11"
     }
   }
 }
