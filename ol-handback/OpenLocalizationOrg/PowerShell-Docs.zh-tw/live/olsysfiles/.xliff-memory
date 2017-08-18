@@ -305,6 +305,12 @@
       "XliffHash": "f37809aafbb100e71951125c1ac4112a743a0b4f",
       "TranslationType": 2,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.zh-tw\\live\\c7b9c9ffe6a4a82c8d8935ab75d9942bf8b9970d.f268fba7e5b03077191d0546e88874e1c0a494bb.xml"
+    },
+    "test\\empty.md.da39a3ee5e6b4b0d3255bfef95601890afd80709.MT": {
+      "SourceFilename": "test\\empty.md",
+      "XliffHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "TranslationType": 2,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.zh-tw\\live\\1f42e5b4020c93cad1681a64d8f899953311d180.792c7c12f5dd89a7e28c0ac3416a801302d48c1c.xml"
     }
   }
 }
