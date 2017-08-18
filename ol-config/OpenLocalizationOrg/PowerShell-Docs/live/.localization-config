@@ -17,5 +17,6 @@
    "includeDependencies":true,
    "autoPush":true,
    "translationSysFileDestination": "HandbackRepo",
-   "translationType": "MT"
+   "translationType": "MT",
+   "autoHandbackNoChangeXliff": true
 }
