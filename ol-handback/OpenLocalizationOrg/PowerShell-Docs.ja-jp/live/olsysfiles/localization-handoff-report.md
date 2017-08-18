@@ -6,18 +6,18 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [test\empty.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/0b2fc52cc33d24096ebad31821c188fba7bf5bb2/test/empty.md) | HandedOffSuccess | [Details](#1f42e5b4020c93cad1681a64d8f899953311d18062)
+ [test\empty.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/1b901393eb419c2b6c804781a96f75862af10e11/test/empty.md) | ArchivedSuccess | [Details](#6075a76af06b1fbe98759a752100f3d82cad60150)
 
 ## Item Details
-##### <a name='1f42e5b4020c93cad1681a64d8f899953311d18062'></a> Source: [test\empty.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/0b2fc52cc33d24096ebad31821c188fba7bf5bb2/test/empty.md)
-* Status: HandedOffSuccess
+##### <a name='6075a76af06b1fbe98759a752100f3d82cad60150'></a> Source: [test\empty.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/1b901393eb419c2b6c804781a96f75862af10e11/test/empty.md)
+* Status: ArchivedSuccess
 * Target File: 
-* Handoff File: [empty.1767202d020d8640e051d7dfaf573bbe0c560126.ja-jp.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/72f71ef4be754a0843053bb16f4890e9ff425342/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.ja-jp/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.ja-jp.xlf)
-* Handoff Datetime: 2017-08-18 09:24:05
+* Handoff File: [empty.1767202d020d8640e051d7dfaf573bbe0c560126.ja-jp.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/33a15156e434ca73378bafe85ac04f35337a0fba/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.ja-jp/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.ja-jp.xlf)
+* Handoff Datetime: 2017-08-18 09:39:17
 * Handoff Reason: Include
 * Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [empty.1767202d020d8640e051d7dfaf573bbe0c560126.ja-jp.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/7716f0c9e129c8e46ad205013177e4ae90df1370/ol-archive/OpenLocalizationOrg/PowerShell-Docs.ja-jp/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.ja-jp.xlf)
+* Archive Datetime: 2017-08-18 09:39:33
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Handback Name: 
