@@ -6,21 +6,24 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [test\empty.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/1b901393eb419c2b6c804781a96f75862af10e11/test/empty.md) | ArchivedSuccess | [Details](#6075a76af06b1fbe98759a752100f3d82cad601562)
+ [test\empty.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/1cc7082ffc28d8c0370b5cdc0eb435eb557a30d7/test/empty.md) | ArchivedSuccess | [Details](#69cc42589c74f7a2100c1ba6e33dd1b2157c741e62)
 
 ## Item Details
-##### <a name='6075a76af06b1fbe98759a752100f3d82cad601562'></a> Source: [test\empty.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/1b901393eb419c2b6c804781a96f75862af10e11/test/empty.md)
+##### <a name='69cc42589c74f7a2100c1ba6e33dd1b2157c741e62'></a> Source: [test\empty.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/1cc7082ffc28d8c0370b5cdc0eb435eb557a30d7/test/empty.md)
 * Status: ArchivedSuccess
 * Target File: 
-* Handoff File: [empty.1767202d020d8640e051d7dfaf573bbe0c560126.it-it.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d19ea8c5bb145f5d37836bea50acc3a9d5ac59b5/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.it-it/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.it-it.xlf)
-* Handoff Datetime: 2017-08-18 09:44:58
+* Handoff File: [empty.1767202d020d8640e051d7dfaf573bbe0c560126.it-it.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/98b188875b12353fa7a04e271366f0b84a846fea/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.it-it/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.it-it.xlf)
+* Handoff Datetime: 2017-08-18 10:05:09
 * Handoff Reason: Include
 * Handoff Name: 
-* Archive File: [empty.1767202d020d8640e051d7dfaf573bbe0c560126.it-it.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/e3025e028a28a538497e2d5dc72ad05f46a1e418/ol-archive/OpenLocalizationOrg/PowerShell-Docs.it-it/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.it-it.xlf)
-* Archive Datetime: 2017-08-18 09:44:58
+* Archive File: [empty.1767202d020d8640e051d7dfaf573bbe0c560126.it-it.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/588279bfcbe021a5e760b9467b0b027cec48e394/ol-archive/OpenLocalizationOrg/PowerShell-Docs.it-it/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.it-it.xlf)
+* Archive Datetime: 2017-08-18 10:05:10
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Handback Name: 
+* Current Target File: [test\empty.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.it-it/blob/44ecaa3c59c2fce97a111845cd7466adc65815c8/test/empty.md)
+* Current Handback File: [empty.1767202d020d8640e051d7dfaf573bbe0c560126.it-it.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/5b9dbf0a9a32976b11a900f956d2d8fb288196e7/ol-handback/OpenLocalizationOrg/PowerShell-Docs.it-it/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.it-it.xlf)
+* Current Handback Datetime: 2017-08-18 09:46:16
 * [Back to Top](#report-top)
 
 
