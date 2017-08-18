@@ -13,7 +13,7 @@
 
 | Handoff Xliff | Referenced Xliff | 
 | --- | --- | 
-| [ol-handoff\OpenLocalizationOrg\PowerShell-Docs.ko-kr\live\empty.1767202d020d8640e051d7dfaf573bbe0c560126.ko-kr.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/507201b255a101edf91a140d15f7e9ec8fa3039e/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.ko-kr/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.ko-kr.xlf) | **Empty Handoff File** | 
+| [ol-handoff\OpenLocalizationOrg\PowerShell-Docs.ko-kr\live\empty.1767202d020d8640e051d7dfaf573bbe0c560126.ko-kr.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5691874a023116e6476f5ea908c15b5a7f522ada/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.ko-kr/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.ko-kr.xlf) | **Empty Handoff File** | 
 
 ## Auto Archived List
 > The following xliff are archived automatically since the same xliff has been archived or it is already handback
@@ -23,5 +23,5 @@
 
 | Handoff Xliff | Archived Reason | 
 | --- | --- | 
-| [ol-handoff\OpenLocalizationOrg\PowerShell-Docs.ko-kr\live\empty.1767202d020d8640e051d7dfaf573bbe0c560126.ko-kr.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/507201b255a101edf91a140d15f7e9ec8fa3039e/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.ko-kr/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.ko-kr.xlf) | Handbacked | 
+| [ol-handoff\OpenLocalizationOrg\PowerShell-Docs.ko-kr\live\empty.1767202d020d8640e051d7dfaf573bbe0c560126.ko-kr.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5691874a023116e6476f5ea908c15b5a7f522ada/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.ko-kr/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.ko-kr.xlf) | Handbacked | 
 
