@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "1b901393eb419c2b6c804781a96f75862af10e11",
+  "LastProcessedCommit": "1cc7082ffc28d8c0370b5cdc0eb435eb557a30d7",
   "LastTranslatedCommit": "291d39741e82d22ac3564155efa27d4f992eceda",
   "LastConfigHash": "ea7022742735e6f640574758d406185d14bbc88b",
   "Items": {
@@ -13,10 +13,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\CONTRIBUTING.3f454a98e586d1aa0d322e19afd5e67e08f2d3c8.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "8f9829f7b312fd9942141a196c76f369e775a241",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\CONTRIBUTING.3f454a98e586d1aa0d322e19afd5e67e08f2d3c8.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "4da61995a6b849dedc3ac8ec8ab3edbbdccb28c8": {
       "FileHash": "4da61995a6b849dedc3ac8ec8ab3edbbdccb28c8",
@@ -28,10 +31,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "323a35a53f7eed53ed46187e6edaf27b9e7dc44c",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "fde661d2dc3c7c099c34134f4e665ba02cc3ceb9": {
       "FileHash": "fde661d2dc3c7c099c34134f4e665ba02cc3ceb9",
@@ -43,10 +49,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
-      "HandoffXliffHash": "3e8003341fa7e89e3468a5c447fa8f0624b205d1",
-      "HandoffPriority": ""
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
+      "HandoffXliffHash": "2b001dcfb39d87dc4cae076c0f3778676701d3a5",
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "565d71def9c15b19f10ec144ff29e82b9e205e31": {
       "FileHash": "565d71def9c15b19f10ec144ff29e82b9e205e31",
@@ -58,10 +67,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\authoringResourceClass.3603134df9ad1cad202d10769ff631a083cc3aae.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "36f3f1013c0e2919e12ff785d52606ff786c15c9",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\authoringResourceClass.3603134df9ad1cad202d10769ff631a083cc3aae.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "c7b9c9ffe6a4a82c8d8935ab75d9942bf8b9970d": {
       "FileHash": "c7b9c9ffe6a4a82c8d8935ab75d9942bf8b9970d",
@@ -73,10 +85,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\authoringResourceComposite.6d5d1e53e83e25cfc63e26078da390a4fa6737f2.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "f37809aafbb100e71951125c1ac4112a743a0b4f",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\authoringResourceComposite.6d5d1e53e83e25cfc63e26078da390a4fa6737f2.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "f64cbea29a1e9998b8ade46d69c1ef1c584bd633": {
       "FileHash": "f64cbea29a1e9998b8ade46d69c1ef1c584bd633",
@@ -88,10 +103,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\authoringResourceMOF.1f503c33425780c369e78193e2f2f4e9242c401b.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "baf1eabcc8e636a6d1f6aa7d2d6348413e56b0a8",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\authoringResourceMOF.1f503c33425780c369e78193e2f2f4e9242c401b.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "28a9448f7c815bc154612af16634435b6987b7fc": {
       "FileHash": "28a9448f7c815bc154612af16634435b6987b7fc",
@@ -103,10 +121,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\authoringResourceMofCS.0647b27b00ec52b2f524a2856e48bc7c29c0f867.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
-      "HandoffXliffHash": "189695f74a28372c661bea330805f5fbc5e22e12",
-      "HandoffPriority": ""
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
+      "HandoffXliffHash": "c06b7e3a0b717808ba92fcc27e0817d14d965f2a",
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\authoringResourceMofCS.0647b27b00ec52b2f524a2856e48bc7c29c0f867.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "a95d0b59a90cbae44ec8d68bdaf59a1e318736d9": {
       "FileHash": "a95d0b59a90cbae44ec8d68bdaf59a1e318736d9",
@@ -118,10 +139,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\authoringResourceMofDesigner.09b1adffc4afb0d9b1154880e2dab0b25d82d51b.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "eb91562b8e0ecb4f644c63c6b71cf23f98721e7c",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\authoringResourceMofDesigner.09b1adffc4afb0d9b1154880e2dab0b25d82d51b.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "e3243caa7ec8682a4010e25a4ae0b2359c2d7866": {
       "FileHash": "e3243caa7ec8682a4010e25a4ae0b2359c2d7866",
@@ -133,10 +157,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\builtInResource.2f855e1582347e986aa4e5e62b842b886596fdc2.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "d9eca72166ce7dff9f4673ee46e1a415609e6fc8",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\builtInResource.2f855e1582347e986aa4e5e62b842b886596fdc2.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "25ea7bc8b398577cb2916ec833d61c38af812637": {
       "FileHash": "25ea7bc8b398577cb2916ec833d61c38af812637",
@@ -148,10 +175,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\configData.51d01a46dd9af8b425788cc485523b09f8470b95.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "e247f4efeac795ef530b505bb4594fd0d3c9c6cd",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\configData.51d01a46dd9af8b425788cc485523b09f8470b95.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "065f423b82d69a7c9dbc6384711d2135a3b7e5ec": {
       "FileHash": "065f423b82d69a7c9dbc6384711d2135a3b7e5ec",
@@ -163,10 +193,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\configurations.02626ddbf3a00f8ede56fdfd2e46a027800e75b6.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "3a93ad446db6a33cb9105a31955bb58a87c01ca7",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\configurations.02626ddbf3a00f8ede56fdfd2e46a027800e75b6.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "277d3032f45323050e140f466f639e5606fef53a": {
       "FileHash": "277d3032f45323050e140f466f639e5606fef53a",
@@ -178,10 +211,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\enactingConfigurations.5949c3926cc7d368fa49b0ba340a078984794e5d.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "1371a063c008c07efd861e9c91e0b2d5f8a37e57",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\enactingConfigurations.5949c3926cc7d368fa49b0ba340a078984794e5d.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "f4ce18cb2680c7d9347a1887c282c3e4707a2c8c": {
       "FileHash": "f4ce18cb2680c7d9347a1887c282c3e4707a2c8c",
@@ -193,10 +229,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\environmentResource.eb91ffd4cd8bdb9476e5a83de1a20d3b7b502a56.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "6723edf02385a27676655a82058c0b959f7d9f7c",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\environmentResource.eb91ffd4cd8bdb9476e5a83de1a20d3b7b502a56.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "ce115dd79b0793718f8e79bb465f244b7cc725b1": {
       "FileHash": "ce115dd79b0793718f8e79bb465f244b7cc725b1",
@@ -208,10 +247,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "d40a76054001e4be1e708f7f40b8e981dc3ae0d5",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "bc098355d65bff2203a212f2387be6f79fbb63e8": {
       "FileHash": "bc098355d65bff2203a212f2387be6f79fbb63e8",
@@ -223,10 +265,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\groupResource.d19d416269795c92566b62c36b9782062dcea43e.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
-      "HandoffXliffHash": "361fa4f3f3d2b4e338df8f268c47801b27e5601b",
-      "HandoffPriority": ""
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
+      "HandoffXliffHash": "ed77e328a8430f983e8a4b92bc53005bdbf66b12",
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\groupResource.d19d416269795c92566b62c36b9782062dcea43e.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "3e61149f7b05f74d662d3038233013ffdcbed1a3": {
       "FileHash": "3e61149f7b05f74d662d3038233013ffdcbed1a3",
@@ -241,8 +286,8 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\3e61149f7b05f74d662d3038233013ffdcbed1a3.jpg",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffPriority": ""
     },
     "1ba842005c2b1ce80a3670429b3e010c7b1c1f59": {
@@ -258,8 +303,8 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\1ba842005c2b1ce80a3670429b3e010c7b1c1f59.jpg",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffPriority": ""
     },
     "86d829b1fcdd41e648ed0594eaf337b3726c143c": {
@@ -275,8 +320,8 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\86d829b1fcdd41e648ed0594eaf337b3726c143c.png",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffPriority": ""
     },
     "d3008e3fe7da4c118c693d2b34a0b329780f8d86": {
@@ -292,8 +337,8 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\d3008e3fe7da4c118c693d2b34a0b329780f8d86.png",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffPriority": ""
     },
     "2e0a09a025bcee8fc97e417b21a51773904a0d2e": {
@@ -306,10 +351,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxArchiveResource.095aab7d23720fd394f2573c30223a6bbcc0a4ef.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "b4d744a4c8740e8289d3d80837c475fe64aa038d",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxArchiveResource.095aab7d23720fd394f2573c30223a6bbcc0a4ef.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "e4d20bc0f083c463514e2044ce86679041263075": {
       "FileHash": "e4d20bc0f083c463514e2044ce86679041263075",
@@ -321,10 +369,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxBuiltInResources.12cc0e2a7d17afe6b1e1b9c928760080863926f9.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "8d8d987493a2c4fb3d95454565037eaf381ab0fb",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxBuiltInResources.12cc0e2a7d17afe6b1e1b9c928760080863926f9.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "ef0812e4b382b5efb6e6f42d8671fab3ab663a4b": {
       "FileHash": "ef0812e4b382b5efb6e6f42d8671fab3ab663a4b",
@@ -336,10 +387,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxEnvironmentResource.60c6523b1d06708f748c9039105a2042fa341552.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "9eecb5e404cc99bdff0e4e1280684474123254e6",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxEnvironmentResource.60c6523b1d06708f748c9039105a2042fa341552.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "0b7aa5b03a19ff1afa79f5ae96f24d034531e4b8": {
       "FileHash": "0b7aa5b03a19ff1afa79f5ae96f24d034531e4b8",
@@ -351,10 +405,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxFileLineResource.d91fc802a4c6cdbff5a2e35f92b34c36c6dbf5eb.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "84996d06f68c9873ee7b13a125deb0f13e58d5ca",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxFileLineResource.d91fc802a4c6cdbff5a2e35f92b34c36c6dbf5eb.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "8be1ad92f73cb8ddb2ced42d6471c90a67807b7a": {
       "FileHash": "8be1ad92f73cb8ddb2ced42d6471c90a67807b7a",
@@ -366,10 +423,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxFileResource.1f67ed46e7bb4ac04f73143e1d7ab7e9199d3191.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "433e2102f2763cec100b85f08f72bacfc073bb10",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxFileResource.1f67ed46e7bb4ac04f73143e1d7ab7e9199d3191.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "ce17b7bb17435cd925f196e4736114982de4e056": {
       "FileHash": "ce17b7bb17435cd925f196e4736114982de4e056",
@@ -381,10 +441,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxGettingStarted.1601cf6d0eb8b4f7343575c8fbf2106bfaad8b65.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "614779a5683f4bad8957f7b27ed5f7cdb3494cd5",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxGettingStarted.1601cf6d0eb8b4f7343575c8fbf2106bfaad8b65.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "9bda555be3a52c574eccfa66b114883e2f543c70": {
       "FileHash": "9bda555be3a52c574eccfa66b114883e2f543c70",
@@ -396,10 +459,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxGroupResource.0cedb684d797032bd47cdb852629c36da0884567.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "7723d3ca97453fc8c5df3c564ee20dfeb96ab475",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxGroupResource.0cedb684d797032bd47cdb852629c36da0884567.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "37c34dfa85386e8d190a5cfd459c3a6885cca838": {
       "FileHash": "37c34dfa85386e8d190a5cfd459c3a6885cca838",
@@ -411,10 +477,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxPackageResource.db35ab938bbfbb38cae53fe9ae98fd22b5f18009.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "24320bc8e12eb915aea4d8b36ab2d8c14ba95363",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxPackageResource.db35ab938bbfbb38cae53fe9ae98fd22b5f18009.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "056b0c86701cfd096c863560836dc129ecefc862": {
       "FileHash": "056b0c86701cfd096c863560836dc129ecefc862",
@@ -426,10 +495,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxScriptResource.1344a5d5b807ee53705e93842d9ef5e25a883359.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "2001560e8fcd81cac18d1e9076e9d2bf63dad9eb",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxScriptResource.1344a5d5b807ee53705e93842d9ef5e25a883359.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "3d766f5b9e2bb9284e717d5a998b1a7c291221fc": {
       "FileHash": "3d766f5b9e2bb9284e717d5a998b1a7c291221fc",
@@ -441,10 +513,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxServiceResource.e637c7f7b18939ec8c16eadf2c42ab00e236fb7b.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "94796feb21c917a171fe200e3eebcbc5465e63d9",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxServiceResource.e637c7f7b18939ec8c16eadf2c42ab00e236fb7b.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "6b36c9b34b8f76cbae8443058dbd949e47dbc0b2": {
       "FileHash": "6b36c9b34b8f76cbae8443058dbd949e47dbc0b2",
@@ -456,10 +531,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxSshAuthorizedKeysResource.9a647ff238cd38a2fc7da58f3cc5682acf7d3346.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "a86df1947e462977967b42c3e90e4507ccb1a96f",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxSshAuthorizedKeysResource.9a647ff238cd38a2fc7da58f3cc5682acf7d3346.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "31eea97ab4912ca241557cddbf59929e085ebe80": {
       "FileHash": "31eea97ab4912ca241557cddbf59929e085ebe80",
@@ -471,10 +549,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxUserResource.2376554a25dd8dfad6a78a6180b7c7166e4817e1.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "06c933680fce35ac6decbcbe5047610fc1dc586c",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\lnxUserResource.2376554a25dd8dfad6a78a6180b7c7166e4817e1.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "0f4922e1df8725aad839211dbe0dfc532692f606": {
       "FileHash": "0f4922e1df8725aad839211dbe0dfc532692f606",
@@ -486,10 +567,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\logResource.07af9dfcf6076ef19059178c3b404762677920f0.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "738677dc262202eff48cee8369288868bd0f322a",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\logResource.07af9dfcf6076ef19059178c3b404762677920f0.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "d7b3908ae670a7bcc976f2675834316862a25802": {
       "FileHash": "d7b3908ae670a7bcc976f2675834316862a25802",
@@ -501,10 +585,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\metaConfig.915dba9ed66671e4a41c35a16d5248bb4c94e3d6.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "b4d271e7fb1f4f2cdd0861fc75bd3bd8815d2100",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\metaConfig.915dba9ed66671e4a41c35a16d5248bb4c94e3d6.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "ef2664b6dd61bd55898971adf7e4a57f92be88cc": {
       "FileHash": "ef2664b6dd61bd55898971adf7e4a57f92be88cc",
@@ -516,10 +603,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\metaConfig4.4ec702d458e6574099cead724f0e57c3c5d262df.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "a128433d9f3821dd4c37bc57cc029b5bb57e4f12",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\metaConfig4.4ec702d458e6574099cead724f0e57c3c5d262df.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "7f5f99f0f0befde13272221e376006dffbddb994": {
       "FileHash": "7f5f99f0f0befde13272221e376006dffbddb994",
@@ -531,10 +621,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "c200d3fc6ee5157ad9b98375e959abcb7a8ac35c",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "9c9f1da0b560c44c9760583c4193bdf4eaee09f7": {
       "FileHash": "9c9f1da0b560c44c9760583c4193bdf4eaee09f7",
@@ -546,10 +639,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\packageResource.132c4949cee174dc0dc324456d220436cb9884e6.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "0713735d6238e166a4a057d3501b6c1c657611c2",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\packageResource.132c4949cee174dc0dc324456d220436cb9884e6.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "3f1843e8a1335617c562084ce69fc82ae7c2c694": {
       "FileHash": "3f1843e8a1335617c562084ce69fc82ae7c2c694",
@@ -561,10 +657,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "e2d27759abd06ab2b92b8acf52d07f62d18d1279",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "4cb0a0836e56ca31f9e101be81e1427493cbbcd5": {
       "FileHash": "4cb0a0836e56ca31f9e101be81e1427493cbbcd5",
@@ -576,10 +675,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\pullClient.4844144e7d40a6e8b1be2cfaa80a5307f19f47f9.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "6fe4b772fe60b3ea0b7dc7b7b0df032f7361b306",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\pullClient.4844144e7d40a6e8b1be2cfaa80a5307f19f47f9.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "54bb78b313c4f0c721862910496c5154ed5444ef": {
       "FileHash": "54bb78b313c4f0c721862910496c5154ed5444ef",
@@ -591,10 +693,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\pullClientConfigID.1b955603d220e49bbe52711bacf74c46feec04cc.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "a7e1c0470f94cd0a4a8cc031905e1ccffe6f3971",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\pullClientConfigID.1b955603d220e49bbe52711bacf74c46feec04cc.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "3714670bd9ded38e54c1f2e3f64658950c6d3f40": {
       "FileHash": "3714670bd9ded38e54c1f2e3f64658950c6d3f40",
@@ -606,10 +711,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\pullClientConfigID4.3556f8028eee8a539990f2895506bcbafb14a012.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "593b4d642bc7ff7041e501137812fb89cc3a893a",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\pullClientConfigID4.3556f8028eee8a539990f2895506bcbafb14a012.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "42c9a0b9ad1f9073bb9c927e68baa7e9d7b77d95": {
       "FileHash": "42c9a0b9ad1f9073bb9c927e68baa7e9d7b77d95",
@@ -621,10 +729,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\pullClientConfigNames.90531abb3b29bfd751ad2f3a115a4ba02024827e.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "01fe1f6a2e48d8eba78a23ba48ace18edeb383e3",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\pullClientConfigNames.90531abb3b29bfd751ad2f3a115a4ba02024827e.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "2668c9aa8c36621eb9797e634354bc7fa285d3b8": {
       "FileHash": "2668c9aa8c36621eb9797e634354bc7fa285d3b8",
@@ -636,10 +747,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\pullServer.4b925b277da29998394af746bdbdd508fda48909.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "623704b9af17b618714ad9b678ecda71e7787d7f",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\pullServer.4b925b277da29998394af746bdbdd508fda48909.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "fc1456c57ade6862957e54ee53f18f189785848a": {
       "FileHash": "fc1456c57ade6862957e54ee53f18f189785848a",
@@ -651,10 +765,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "edb1e44df98baba7f29c82cfb3ff6f04340924ca",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "44f3bb3bec83fd779c83d0326d55c88ead77cfba": {
       "FileHash": "44f3bb3bec83fd779c83d0326d55c88ead77cfba",
@@ -666,10 +783,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "d83b74382a56c154c8b3c482f9d50b00b3ec582e",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "df54abe3d92ffaff2998e9fb3157b42cf83143c2": {
       "FileHash": "df54abe3d92ffaff2998e9fb3157b42cf83143c2",
@@ -681,10 +801,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "770de9bedae476e1c591a05f5ac29f866beefefa",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "b081337b68091f95498d23fecbc64701866b2cec": {
       "FileHash": "b081337b68091f95498d23fecbc64701866b2cec",
@@ -696,10 +819,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "5357917cd9938196c6d461cb9170e25b5c5aecbc",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "14cf6c2005eb756200e7fd065b61e4120d84c02e": {
       "FileHash": "14cf6c2005eb756200e7fd065b61e4120d84c02e",
@@ -711,10 +837,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "e1aa44efaa09d7881266ccb27ff258abd272a4c1",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "2290a81a8dbc82b7881d2b6006d70a90578f9a56": {
       "FileHash": "2290a81a8dbc82b7881d2b6006d70a90578f9a56",
@@ -726,10 +855,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\secureServer.ce207607010d18109152742ba23c923cd3cddba2.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "c261156340ab49805bdddacee5a359aa3dcb90f1",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\secureServer.ce207607010d18109152742ba23c923cd3cddba2.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "ca609ad6055d8053e43e482ed2e57b3db41c3549": {
       "FileHash": "ca609ad6055d8053e43e482ed2e57b3db41c3549",
@@ -741,10 +873,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "9eb079136bc8f12f0bbbc98bf27c4d4ec8a7a27a",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "66cefb1620ad412d3f4e041561ae1df356fdb1e6": {
       "FileHash": "66cefb1620ad412d3f4e041561ae1df356fdb1e6",
@@ -756,10 +891,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
-      "HandoffXliffHash": "e2773aaeb4acac23496ea1288f4403711a22061e",
-      "HandoffPriority": ""
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
+      "HandoffXliffHash": "9dff3a53ef740b433449640938f5a34e71775f59",
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "2886767875ee6a9882ca050e34787cfa1fb64109": {
       "FileHash": "2886767875ee6a9882ca050e34787cfa1fb64109",
@@ -771,10 +909,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "6be19152e4988fcaec28ca8283cd613cf24037ef",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "e4b793025b00cb3137eddc0e7ec437f03abdf3c4": {
       "FileHash": "e4b793025b00cb3137eddc0e7ec437f03abdf3c4",
@@ -786,10 +927,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\userResource.5de4fbe03e9e06934442ba451eb0564931863f45.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
-      "HandoffXliffHash": "d290754db7183ac1b43c1e0e6d44507a425f8076",
-      "HandoffPriority": ""
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
+      "HandoffXliffHash": "14efc72078c60173aa8017edb677545fcff58611",
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\userResource.5de4fbe03e9e06934442ba451eb0564931863f45.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "1484f03d1d80b73e3131095e3363b246929a0a35": {
       "FileHash": "1484f03d1d80b73e3131095e3363b246929a0a35",
@@ -801,10 +945,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "7f9d624d8a4d519df03e71647f03e7dd17c6a03c",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "47c387c525a58a88f18e61920736a6e0e7f2098d": {
       "FileHash": "47c387c525a58a88f18e61920736a6e0e7f2098d",
@@ -816,10 +963,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "91e6d66d00b8ef03685f2535dce5ea186d8b6282",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "8c1262cca40e2a1f72254cf349d163ee2a4bcebe": {
       "FileHash": "8c1262cca40e2a1f72254cf349d163ee2a4bcebe",
@@ -831,10 +981,13 @@
       ],
       "TranslationType": 2,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.de-de.xlf",
-      "HandoffFileCommit": "77d6df403608583bb47421d0a2f2553b42ac4374",
-      "HandoffDateTime": "2017-04-14T06:01:05.3928855Z",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
       "HandoffXliffHash": "251aca4663707076dd8dc262ff6047809765e619",
-      "HandoffPriority": ""
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     },
     "1f42e5b4020c93cad1681a64d8f899953311d180": {
       "FileHash": "1f42e5b4020c93cad1681a64d8f899953311d180",
@@ -876,6 +1029,25 @@
       "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\empty.1767202d020d8640e051d7dfaf573bbe0c560126.de-de.xlf",
       "ArchiveFileCommit": "54ce6ab87617ba47fbbb756c7c4916333fda46a9",
       "ArchiveFileDateTime": "2017-08-18T09:40:28.6706942Z"
+    },
+    "69cc42589c74f7a2100c1ba6e33dd1b2157c741e": {
+      "FileHash": "69cc42589c74f7a2100c1ba6e33dd1b2157c741e",
+      "SourceFileCommit": "1cc7082ffc28d8c0370b5cdc0eb435eb557a30d7",
+      "SourceFilePath": "test\\empty.md",
+      "HandoffReason": 1,
+      "FilePathList": [
+        "test\\empty.md"
+      ],
+      "HasMetadata": true,
+      "TranslationType": 2,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\empty.1767202d020d8640e051d7dfaf573bbe0c560126.de-de.xlf",
+      "HandoffFileCommit": "c93d7d65dfb3a2838ec6a91a3105fc93bc391a40",
+      "HandoffDateTime": "2017-08-18T10:04:48.0902838Z",
+      "HandoffXliffHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\empty.1767202d020d8640e051d7dfaf573bbe0c560126.de-de.xlf",
+      "ArchiveFileCommit": "be6485e7e7deac2fe8c71073e7b79f3926cb6722",
+      "ArchiveFileDateTime": "2017-08-18T10:04:49.0121587Z"
     }
   }
 }
