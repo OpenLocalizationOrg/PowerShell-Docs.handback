@@ -1,11 +1,28 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [test\empty.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/1b901393eb419c2b6c804781a96f75862af10e11/test/empty.md) | InSyncHandedBackSuccess | [Details](#6075a76af06b1fbe98759a752100f3d82cad601562)
 
 ## Item Details
+##### <a name='6075a76af06b1fbe98759a752100f3d82cad601562'></a> Source: [test\empty.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/1b901393eb419c2b6c804781a96f75862af10e11/test/empty.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [test\empty.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.pt-br/blob/65231b2b555d724b2d32c6ebc33bdf89fee11458/test/empty.md)
+* Handoff File: [empty.1767202d020d8640e051d7dfaf573bbe0c560126.pt-br.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/30d73110971c360aa9915263066b7830de181f49/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.pt-br/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.pt-br.xlf)
+* Handoff Datetime: 2017-08-18 09:45:29
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: [empty.1767202d020d8640e051d7dfaf573bbe0c560126.pt-br.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/abe980ee2135fecf57cd87f716bac4242ebfad21/ol-archive/OpenLocalizationOrg/PowerShell-Docs.pt-br/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.pt-br.xlf)
+* Archive Datetime: 2017-08-18 09:45:30
+* Handback File: [empty.1767202d020d8640e051d7dfaf573bbe0c560126.pt-br.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/7db48d00159bb7759b2a14be54db9e533f5e053b/ol-handback/OpenLocalizationOrg/PowerShell-Docs.pt-br/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.pt-br.xlf)
+* Handback Datetime: 2017-08-18 09:47:02
+* Handback Name: 
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
