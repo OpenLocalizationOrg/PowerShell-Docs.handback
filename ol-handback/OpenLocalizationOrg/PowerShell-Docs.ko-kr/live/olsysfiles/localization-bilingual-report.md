@@ -1,11 +1,30 @@
 # <a name='report-top'></a> Localization Bilingual Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [test\empty.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/1cc7082ffc28d8c0370b5cdc0eb435eb557a30d7/test/empty.md) | InSyncHandedBackSuccess | [Details](#69cc42589c74f7a2100c1ba6e33dd1b2157c741e62)
 
 ## Item Details
+##### <a name='69cc42589c74f7a2100c1ba6e33dd1b2157c741e62'></a> Source: [test\empty.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/1cc7082ffc28d8c0370b5cdc0eb435eb557a30d7/test/empty.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [test\empty.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.ko-kr/blob/4c8c5b10079a7bc7030bea2e87210d05d715c761/test/empty.md)
+* Handoff File: [empty.1767202d020d8640e051d7dfaf573bbe0c560126.ko-kr.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5691874a023116e6476f5ea908c15b5a7f522ada/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.ko-kr/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.ko-kr.xlf)
+* Handoff Datetime: 2017-08-18 10:05:28
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: [empty.1767202d020d8640e051d7dfaf573bbe0c560126.ko-kr.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/02b6d9b5a18f3f70238d9eecfeb97df4181d23ea/ol-archive/OpenLocalizationOrg/PowerShell-Docs.ko-kr/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.ko-kr.xlf)
+* Archive Datetime: 2017-08-18 10:05:28
+* Handback File: [empty.1767202d020d8640e051d7dfaf573bbe0c560126.ko-kr.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/67ad12c3558e9d5b6e5f0af83b8b635dfc5d53da/ol-handback/OpenLocalizationOrg/PowerShell-Docs.ko-kr/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.ko-kr.xlf)
+* Handback Datetime: 2017-08-18 10:06:56
+* Handback Name: 
+* Bilingual File: [empty.1767202d020d8640e051d7dfaf573bbe0c560126.ko-kr.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/67ad12c3558e9d5b6e5f0af83b8b635dfc5d53da/ol-handback/OpenLocalizationOrg/PowerShell-Docs.ko-kr/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.ko-kr.xlf)
+* Bilingual Datetime: 2017-08-18 10:17:12
+* [Back to Top](#report-top)
+
 
 ## Error Details
 

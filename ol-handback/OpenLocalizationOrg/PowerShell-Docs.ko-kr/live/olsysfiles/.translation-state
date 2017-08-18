@@ -900,7 +900,10 @@
       "UpdatedDateTime": "2017-08-18T10:06:56.6480065Z",
       "ArchiveFilePath": "ol-archive\\OpenLocalizationOrg\\PowerShell-Docs.ko-kr\\live\\empty.1767202d020d8640e051d7dfaf573bbe0c560126.ko-kr.xlf",
       "ArchiveFileCommit": "02b6d9b5a18f3f70238d9eecfeb97df4181d23ea",
-      "ArchiveFileDateTime": "2017-08-18T10:05:28.7869632Z"
+      "ArchiveFileDateTime": "2017-08-18T10:05:28.7869632Z",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.ko-kr\\live\\empty.1767202d020d8640e051d7dfaf573bbe0c560126.ko-kr.xlf",
+      "BilingualFileCommit": "67ad12c3558e9d5b6e5f0af83b8b635dfc5d53da",
+      "BilingualDateTime": "2017-08-18T10:17:12.6100813Z"
     }
   }
 }
