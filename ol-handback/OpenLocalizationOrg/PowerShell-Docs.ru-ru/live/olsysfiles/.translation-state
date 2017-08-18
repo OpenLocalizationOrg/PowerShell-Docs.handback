@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "185015567e363b3ef9855aa1391dadecd3727348",
+  "LastProcessedCommit": "0b2fc52cc33d24096ebad31821c188fba7bf5bb2",
   "LastConfigHash": "eb8def2e444ce128fcf6eabdf7cf1c09b118efe9",
   "Items": {
     "c3b8854dbecd4ab03e46c51a23ac00461bdd7014": {
@@ -833,6 +833,22 @@
       "HandoffFileCommit": "ff66db76f34c2185b048ae8d55c9a1e8a1c1e87b",
       "HandoffDateTime": "2017-04-14T06:01:54.295898Z",
       "HandoffXliffHash": "251aca4663707076dd8dc262ff6047809765e619",
+      "HandoffPriority": ""
+    },
+    "1f42e5b4020c93cad1681a64d8f899953311d180": {
+      "FileHash": "1f42e5b4020c93cad1681a64d8f899953311d180",
+      "SourceFileCommit": "0b2fc52cc33d24096ebad31821c188fba7bf5bb2",
+      "SourceFilePath": "test\\empty.md",
+      "HandoffReason": 1,
+      "FilePathList": [
+        "test\\empty.md"
+      ],
+      "HasMetadata": true,
+      "TranslationType": 2,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.ru-ru\\live\\empty.1767202d020d8640e051d7dfaf573bbe0c560126.ru-ru.xlf",
+      "HandoffFileCommit": "673a7ab7a33b289af9a616ef0afa722d99496371",
+      "HandoffDateTime": "2017-08-18T09:25:01.0877638Z",
+      "HandoffXliffHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
       "HandoffPriority": ""
     }
   }
