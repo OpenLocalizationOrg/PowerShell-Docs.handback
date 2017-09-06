@@ -1,31 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [test\empty.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/1cc7082ffc28d8c0370b5cdc0eb435eb557a30d7/test/empty.md) | ArchivedSuccess | [Details](#69cc42589c74f7a2100c1ba6e33dd1b2157c741e62)
 
 ## Item Details
-##### <a name='69cc42589c74f7a2100c1ba6e33dd1b2157c741e62'></a> Source: [test\empty.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/1cc7082ffc28d8c0370b5cdc0eb435eb557a30d7/test/empty.md)
-* Status: ArchivedSuccess
-* Target File: 
-* Handoff File: [empty.1767202d020d8640e051d7dfaf573bbe0c560126.pt-br.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/9ee6c13e4ac70c0916bdd5c0e0f7341e2db84a9b/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.pt-br/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.pt-br.xlf)
-* Handoff Datetime: 2017-08-18 10:05:40
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: [empty.1767202d020d8640e051d7dfaf573bbe0c560126.pt-br.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/564caa7bc98fbaef0c79dbd98bab1b2801b6c92a/ol-archive/OpenLocalizationOrg/PowerShell-Docs.pt-br/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.pt-br.xlf)
-* Archive Datetime: 2017-08-18 10:05:41
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* Current Target File: [test\empty.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.pt-br/blob/65231b2b555d724b2d32c6ebc33bdf89fee11458/test/empty.md)
-* Current Handback File: [empty.1767202d020d8640e051d7dfaf573bbe0c560126.pt-br.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/7db48d00159bb7759b2a14be54db9e533f5e053b/ol-handback/OpenLocalizationOrg/PowerShell-Docs.pt-br/live/empty.1767202d020d8640e051d7dfaf573bbe0c560126.pt-br.xlf)
-* Current Handback Datetime: 2017-08-18 09:47:02
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
